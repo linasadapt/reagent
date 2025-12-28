@@ -28,7 +28,7 @@ def parse_float(text: str):
 SOURCE = {
     "id": "michael_zingraf",
     "name": "Michaël Zingraf Real Estate",
-    "logo": "michael-zingraf.png",
+    "logo": "michael.svg",
 }
 
 RESULTS_FILE = "results.json"

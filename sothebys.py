@@ -56,7 +56,7 @@ def extract_images(img_tag, base_url):
 SOURCE = {
     "id": "cotedazur_sothebys",
     "name": "Côte d’Azur Sotheby’s International Realty",
-    "logo": "cotedazur-sothebys.png",
+    "logo": "sothebys.png",
 }
 
 BASE = "https://www.cotedazur-sothebysrealty.com"
