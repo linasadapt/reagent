@@ -174,7 +174,7 @@ while True:
             "id": parse_int(listing_id) if listing_id else None,
             "url": BASE + link["href"] if link else None,
             "city": city,
-            "system_category": "appartment",
+            "system_category": "apartment",
             "type": type_el.get_text(strip=True) if type_el else None,
             "surface_m2": parse_float(surface_el.get_text(strip=True)) if surface_el else None,
             "rooms": parse_int(rooms_el.get_text(strip=True)) if rooms_el else None,

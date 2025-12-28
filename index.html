@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>South France Real Estate Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #f7f6f3;
+  margin: 0;
+  color: #1a1a1a;
+}
+.container {
+  max-width: 1400px;
+  margin: auto;
+  padding: 32px;
+}
+h1 {
+  margin-bottom: 8px;
+}
+.subtitle {
+  color: #666;
+  margin-bottom: 24px;
+}
+
+/* Overview */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.stat {
+  background: white;
+  border: 1px solid #e5e3e0;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
+.stat-value {
+  font-size: 32px;
+  font-weight: 700;
+}
+.stat-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #777;
+}
+
+/* Tabs */
+.tabs {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.tab {
+  cursor: pointer;
+  padding: 8px 16px;
+  border-bottom: 2px solid transparent;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #666;
+}
+.tab.active {
+  border-color: #2d7a8e;
+  color: #2d7a8e;
+  font-weight: 600;
+}
+
+/* Sort bar */
+.sortbar {
+  margin-bottom: 24px;
+}
+.sortbar select {
+  padding: 6px 10px;
+  font-size: 13px;
+}
+
+/* Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 24px;
+}
+.card {
+  background: white;
+  border: 1px solid #e5e3e0;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.15s ease;
+}
+.card:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+.card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  background: #eee;
+}
+.card-body {
+  padding: 16px;
+}
+.city {
+  font-weight: 600;
+}
+.price {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 8px 0;
+  color: #2d7a8e;
+}
+.details {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: #555;
+}
+.source {
+  margin-top: 12px;
+  font-size: 11px;
+  color: #777;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.source img {
+  max-height: 22px;
+  width: auto;
+  object-fit: contain;
+  opacity: 0.85;
+}
+.badge {
+  display: inline-block;
+  font-size: 11px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  margin-left: 6px;
+}
+.new { background: #2ecc71; color: white; }
+.updated { background: #3498db; color: white; }
+</style>
+</head>
+
+<body>
+<div class="container">
+  <h1>South France Real Estate</h1>
+  <div class="subtitle">Live aggregated listings</div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="tabs">
+    <div class="tab active" data-cat="apartment">Apartments</div>
+    <div class="tab" data-cat="house">Houses</div>
+  </div>
+
+  <div class="sortbar">
+    Sort by:
+    <select id="sort">
+      <option value="price_asc">Price: Low → High</option>
+      <option value="price_desc">Price: High → Low</option>
+      <option value="newest">Newest</option>
+    </select>
+  </div>
+
+  <div class="grid" id="grid"></div>
+</div>
+
+<script>
+const DATA_URL =
+  "https://raw.githubusercontent.com/linasadapt/reagent/main/results.json?ts=" + Date.now();
+
+let all = [];
+let currentCat = "apartment";
+let currentSort = "price_asc";
+
+fetch(DATA_URL)
+  .then(r => r.json())
+  .then(data => {
+    all = data;
+    renderStats();
+    render();
+  });
+
+function renderStats() {
+  const now = Date.now();
+  const week = 7 * 24 * 60 * 60 * 1000;
+
+  const apartments = all.filter(x => x.system_category === "apartment");
+  const houses = all.filter(x => x.system_category === "house");
+  const newItems = all.filter(x => now - Date.parse(x.inserted_at) < week);
+  const updated = all.filter(x => x.updated_at);
+
+  document.getElementById("stats").innerHTML = `
+    <div class="stat"><div class="stat-value">${all.length}</div><div class="stat-label">Total</div></div>
+    <div class="stat"><div class="stat-value">${apartments.length}</div><div class="stat-label">Apartments</div></div>
+    <div class="stat"><div class="stat-value">${houses.length}</div><div class="stat-label">Houses</div></div>
+    <div class="stat"><div class="stat-value">${newItems.length}</div><div class="stat-label">New (7d)</div></div>
+    <div class="stat"><div class="stat-value">${updated.length}</div><div class="stat-label">Updated</div></div>
+  `;
+}
+
+function sortItems(items) {
+  const sorted = [...items];
+
+  if (currentSort === "price_asc") {
+    sorted.sort((a, b) => (a.price_eur || 0) - (b.price_eur || 0));
+  } else if (currentSort === "price_desc") {
+    sorted.sort((a, b) => (b.price_eur || 0) - (a.price_eur || 0));
+  } else if (currentSort === "newest") {
+    sorted.sort((a, b) => Date.parse(b.inserted_at) - Date.parse(a.inserted_at));
+  }
+
+  return sorted;
+}
+
+function render() {
+  const grid = document.getElementById("grid");
+  const week = 7 * 24 * 60 * 60 * 1000;
+  const now = Date.now();
+
+  let items = all.filter(x => x.system_category === currentCat);
+  items = sortItems(items);
+
+  grid.innerHTML = items.map(x => {
+    const isNew = now - Date.parse(x.inserted_at) < week;
+    const isUpdated = !!x.updated_at;
+
+    return `
+      <a class="card" href="${x.url}" target="_blank" rel="noopener">
+        ${x.image_primary ? `<img src="${x.image_primary}">` : ``}
+        <div class="card-body">
+          <div class="city">${x.city || "—"}
+            ${isNew ? `<span class="badge new">NEW</span>` : ""}
+            ${isUpdated ? `<span class="badge updated">UPDATED</span>` : ""}
+          </div>
+          <div class="price">€${x.price_eur?.toLocaleString() || "—"}</div>
+          <div class="details">
+            <div>${x.surface_m2 || "—"} m²</div>
+            <div>${x.bedrooms || "—"} bd</div>
+          </div>
+          <div class="source">
+            ${x.source.logo ? `<img src="logos/${x.source.logo}">` : ""}
+            ${x.source.name}
+          </div>
+        </div>
+      </a>
+    `;
+  }).join("");
+}
+
+document.querySelectorAll(".tab").forEach(t => {
+  t.onclick = () => {
+    document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+    t.classList.add("active");
+    currentCat = t.dataset.cat;
+    render();
+  };
+});
+
+document.getElementById("sort").onchange = e => {
+  currentSort = e.target.value;
+  render();
+};
+</script>
+</body>
+</html>

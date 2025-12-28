@@ -4,22 +4,53 @@ from bs4 import BeautifulSoup
 from storage import load_existing, upsert_items, save_all
 
 # =====================
-# helpers (same style as main scraper)
+# helpers
 # =====================
 
 def parse_int(text: str):
     if not text:
         return None
-    t = re.sub(r"[^\d]", "", text)
-    return int(t) if t else None
+    m = re.search(r"\d+", text.replace(" ", ""))
+    return int(m.group(0)) if m else None
 
 def parse_float(text: str):
     if not text:
         return None
-    try:
-        return float(text.replace(",", "."))
-    except ValueError:
+    m = re.search(r"\d+(?:[.,]\d+)?", text)
+    if not m:
         return None
+    return float(m.group(0).replace(",", "."))
+
+def extract_city_from_h3(text: str):
+    # "Sale Apartment Cannes" → Cannes
+    if not text:
+        return None
+    parts = text.split()
+    return parts[-1] if len(parts) >= 2 else None
+
+def extract_type_from_h3(text: str):
+    # "Sale Apartment Cannes" → apartment
+    if not text:
+        return None
+    parts = text.split()
+    return parts[1].lower() if len(parts) >= 2 else None
+
+def extract_metric(card, icon_name):
+    img = card.find("img", src=lambda s: s and icon_name in s)
+    if not img:
+        return None
+    li = img.find_parent("li")
+    if not li:
+        return None
+    span = li.find("span")
+    return span.get_text(" ", strip=True) if span else None
+
+def extract_rooms_from_title(title: str):
+    # "4 rooms" / "4-room"
+    if not title:
+        return None
+    m = re.search(r"\b(\d+)\s*[- ]?\s*rooms?\b", title.lower())
+    return int(m.group(1)) if m else None
 
 # =====================
 # source config
@@ -79,15 +110,22 @@ def scrape_zingraf_apartments():
             title_el = card.select_one("h2")
             title = title_el.get_text(strip=True) if title_el else None
 
+            h3 = card.select_one("h3")
+            h3_text = h3.get_text(strip=True) if h3 else None
+
+            city = extract_city_from_h3(h3_text)
+            raw_type = extract_type_from_h3(h3_text)
+
             price_el = card.select_one("span.text-redmz")
             price_text = price_el.get_text(strip=True) if price_el else None
             price_eur = parse_int(price_text)
 
-            surface_el = card.select_one("img[src*='area.svg'] + span")
-            surface_m2 = parse_float(surface_el.get_text()) if surface_el else None
+            surface_text = extract_metric(card, "area.svg")
+            bedrooms_text = extract_metric(card, "bedroom.svg")
 
-            bedrooms_el = card.select_one("img[src*='bedroom.svg'] + span")
-            bedrooms = parse_int(bedrooms_el.get_text()) if bedrooms_el else None
+            surface_m2 = parse_float(surface_text)
+            bedrooms = parse_int(bedrooms_text)
+            rooms = extract_rooms_from_title(title)
 
             # images
             images = []
@@ -108,19 +146,23 @@ def scrape_zingraf_apartments():
                 "id": listing_id,
                 "url": url,
                 "title": title,
-                "city": None,  # resolved later from detail page if needed
-                "raw_category": "apartment",
+                "city": city,
+
                 "system_category": "apartment",
+                "type": raw_type,
+
                 "surface_m2": surface_m2,
-                "rooms": None,
+                "rooms": rooms,
                 "bedrooms": bedrooms,
+
                 "price_eur": price_eur,
                 "price_text": price_text,
+
                 "image_primary": images[0] if images else None,
                 "images": images,
             })
 
-        print(f"✅ Zingraf page {page} parsed")
+        print(f"✅ Zingraf apartments page {page} parsed")
         page += 1
 
     added, updated = upsert_items(existing_index, scraped)
@@ -130,7 +172,6 @@ def scrape_zingraf_apartments():
     print(f"Added: {added}")
     print(f"Updated: {updated}")
     print(f"Total stored: {len(existing_index)}")
-
 
 # =====================
 # entrypoint
