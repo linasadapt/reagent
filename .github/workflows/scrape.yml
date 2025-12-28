@@ -1,5 +1,8 @@
 name: Scrape real estate listings
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # every hour at minute 0
