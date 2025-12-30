@@ -725,5 +725,3097 @@
     ],
     "inserted_at": "2025-12-30T23:37:11.878888+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4539,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1218/sale-contemporary-house-eze-5-rooms-4-bedrooms-06360/",
+    "city": "Èze",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 190.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 3900000,
+    "price_text": "3,900,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/gallery_small/4539_00-2025-12-30-0224.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/gallery/4539_00-2025-12-30-0224.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4537,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2243/sale-villa-cannes-6-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 320.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 1690000,
+    "price_text": "1,690,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/listing/4537_00-2025-12-23-0139.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/gallery_small/4537_00-2025-12-23-0139.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/gallery/4537_00-2025-12-23-0139.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/listing/4537_00-2025-12-23-0139.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4495,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-417/sale-mansion-hotel-particulier-nice-17-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion (hôtel particulier)",
+    "system_category": "house",
+    "surface_m2": 352.0,
+    "rooms": 17,
+    "bedrooms": 5,
+    "price_eur": 3800000,
+    "price_text": "3,800,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4495/listing/4495_00-2025-12-04-0153.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4495/gallery_small/4495_00-2025-12-04-0153.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4495/gallery/4495_00-2025-12-04-0153.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4495/listing/4495_00-2025-12-04-0153.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4473,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-828/sale-villa-villefranche-sur-mer-6-rooms-4-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 221.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 4490000,
+    "price_text": "4,490,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4473/listing/4473_00-2025-11-22-0114.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4473/gallery_small/4473_00-2025-11-22-0114.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4473/gallery/4473_00-2025-11-22-0114.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4473/listing/4473_00-2025-11-22-0114.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4471,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-332/sale-mansion-nice-16-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 410.0,
+    "rooms": 16,
+    "bedrooms": 5,
+    "price_eur": 2950000,
+    "price_text": "2,950,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4471/listing/4471_00-2025-11-20-0123.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4471/gallery_small/4471_00-2025-11-20-0123.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4471/gallery/4471_00-2025-11-20-0123.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4471/listing/4471_00-2025-11-20-0123.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4460,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2805/sale-contemporary-house-mougins-6-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 307.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2990000,
+    "price_text": "2,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4460/listing/4460_00-2025-11-14-0108.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4460/gallery_small/4460_00-2025-11-14-0108.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4460/gallery/4460_00-2025-11-14-0108.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4460/listing/4460_00-2025-11-14-0108.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4450,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1172/sale-contemporary-house-eze-6-rooms-3-bedrooms-06360/",
+    "city": "Èze",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 151.0,
+    "rooms": 6,
+    "bedrooms": 3,
+    "price_eur": 1750000,
+    "price_text": "1,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/listing/4450_00-2025-11-08-0243.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/gallery_small/4450_00-2025-11-08-0243.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/gallery/4450_00-2025-11-08-0243.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/listing/4450_00-2025-11-08-0243.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4448,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2804/sale-contemporary-house-mougins-6-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 237.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2370000,
+    "price_text": "2,370,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4448/listing/4448_00-2025-11-07-0236.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4448/gallery_small/4448_00-2025-11-07-0236.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4448/gallery/4448_00-2025-11-07-0236.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4448/listing/4448_00-2025-11-07-0236.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4447,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2803/sale-contemporary-house-mougins-6-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 234.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2470000,
+    "price_text": "2,470,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4447/listing/4447_00-2025-11-07-0236.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4447/gallery_small/4447_00-2025-11-07-0236.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4447/gallery/4447_00-2025-11-07-0236.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4447/listing/4447_00-2025-11-07-0236.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4445,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1200/sale-villa-eze-6-rooms-4-bedrooms-06360/",
+    "city": "Èze",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 156.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 1995000,
+    "price_text": "1,995,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4445/listing/4445_00-2025-11-06-0240.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4445/gallery_small/4445_00-2025-11-06-0240.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4445/gallery/4445_00-2025-11-06-0240.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4445/listing/4445_00-2025-11-06-0240.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4443,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-821/sale-villa-eze-6-rooms-4-bedrooms-06360/",
+    "city": "Èze",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 200.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2650000,
+    "price_text": "2,650,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4443/listing/4443_00-2025-11-06-0240.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4443/gallery_small/4443_00-2025-11-06-0240.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4443/gallery/4443_00-2025-11-06-0240.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4443/listing/4443_00-2025-11-06-0240.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4439,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-043/sale-villa-nice-7-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 312.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 3400000,
+    "price_text": "3,400,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4439/listing/4439_00-2025-11-06-0120.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4439/gallery_small/4439_00-2025-11-06-0120.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4439/gallery/4439_00-2025-11-06-0120.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4439/listing/4439_00-2025-11-06-0120.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4434,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1194/sale-mansion-eze-6-rooms-3-bedrooms-06360/",
+    "city": "Èze",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 280.0,
+    "rooms": 6,
+    "bedrooms": 3,
+    "price_eur": 3690000,
+    "price_text": "3,690,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4434/listing/4434_00-2025-11-01-0143.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4434/gallery_small/4434_00-2025-11-01-0143.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4434/gallery/4434_00-2025-11-01-0143.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4434/listing/4434_00-2025-11-01-0143.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4432,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2678/sale-mansion-mandelieu-la-napoule-12-rooms-7-bedrooms-06210/",
+    "city": "Mandelieu-la-Napoule",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 390.0,
+    "rooms": 12,
+    "bedrooms": 7,
+    "price_eur": 3350000,
+    "price_text": "3,350,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2025-12-03-0225.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery_small/4432_00-2025-12-03-0225.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery/4432_00-2025-12-03-0225.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2025-12-03-0225.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4424,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-475/sale-mansion-nice-7-rooms-6-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 213.0,
+    "rooms": 7,
+    "bedrooms": 6,
+    "price_eur": 4850000,
+    "price_text": "4,850,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4424/listing/4424_00-2025-10-28-0340.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4424/gallery_small/4424_00-2025-10-28-0340.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4424/gallery/4424_00-2025-10-28-0340.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4424/listing/4424_00-2025-10-28-0340.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4421,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-550/sale-mansion-nice-6-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 222.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 2980000,
+    "price_text": "2,980,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4421/listing/4421_00-2025-10-25-0201.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4421/gallery_small/4421_00-2025-10-25-0201.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4421/gallery/4421_00-2025-10-25-0201.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4421/listing/4421_00-2025-10-25-0201.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4420,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1135/sale-villa-eze-6-rooms-5-bedrooms-06360/",
+    "city": "Èze",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 200.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 2900000,
+    "price_text": "2,900,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/listing/4420_00-2025-10-25-0201.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/gallery_small/4420_00-2025-10-25-0201.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/gallery/4420_00-2025-10-25-0201.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/listing/4420_00-2025-10-25-0201.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4410,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-247/sale-contemporary-house-nice-7-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 261.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 2550000,
+    "price_text": "2,550,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4410/listing/4410_00-2025-10-22-0314.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4410/gallery_small/4410_00-2025-10-22-0314.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4410/gallery/4410_00-2025-10-22-0314.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4410/listing/4410_00-2025-10-22-0314.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4407,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2583/sale-villa-cannes-3-rooms-2-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 90.0,
+    "rooms": 3,
+    "bedrooms": 2,
+    "price_eur": 1570000,
+    "price_text": "1,570,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4407/listing/4407_00-2025-10-22-0211.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4407/gallery_small/4407_00-2025-10-22-0211.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4407/gallery/4407_00-2025-10-22-0211.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4407/listing/4407_00-2025-10-22-0211.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4401,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2794/sale-villa-mougins-5-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 181.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 1590000,
+    "price_text": "1,590,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4401/listing/4401_00-2025-12-02-0153.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4401/gallery_small/4401_00-2025-12-02-0153.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4401/gallery/4401_00-2025-12-02-0153.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4401/listing/4401_00-2025-12-02-0153.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4393,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2824/sale-villa-mougins-12-rooms-6-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 400.0,
+    "rooms": 12,
+    "bedrooms": 6,
+    "price_eur": 3500000,
+    "price_text": "3,500,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4393/listing/4393_00-2025-10-16-0159.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4393/gallery_small/4393_00-2025-10-16-0159.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4393/gallery/4393_00-2025-10-16-0159.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4393/listing/4393_00-2025-10-16-0159.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4376,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2520/sale-townhouse-cannes-7-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 350.0,
+    "rooms": 7,
+    "bedrooms": 6,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4376/listing/4376_00-2025-10-10-1332.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4376/gallery_small/4376_00-2025-10-10-1332.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4376/gallery/4376_00-2025-10-10-1332.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4376/listing/4376_00-2025-10-10-1332.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4348,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2025/sale-townhouse-cannes-6-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 131.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 1950000,
+    "price_text": "1,950,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4348/listing/4348_00-2025-09-26-0403.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4348/gallery_small/4348_00-2025-09-26-0403.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4348/gallery/4348_00-2025-09-26-0403.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4348/listing/4348_00-2025-09-26-0403.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4347,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-528/sale-contemporary-house-nice-6-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 190.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 1790000,
+    "price_text": "1,790,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4347/listing/4347_00-2025-09-26-0328.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4347/gallery_small/4347_00-2025-09-26-0328.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4347/gallery/4347_00-2025-09-26-0328.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4347/listing/4347_00-2025-09-26-0328.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4335,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-1990/sale-contemporary-house-mougins-4-rooms-3-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 163.0,
+    "rooms": 4,
+    "bedrooms": 3,
+    "price_eur": 1690000,
+    "price_text": "1,690,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4335/listing/4335_00-2025-09-20-0323.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4335/gallery_small/4335_00-2025-09-20-0323.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4335/gallery/4335_00-2025-09-20-0323.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4335/listing/4335_00-2025-09-20-0323.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4326,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2655/sale-villa-cannes-5-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 200.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 1990000,
+    "price_text": "1,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4326/listing/4326_00-2025-09-17-0335.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4326/gallery_small/4326_00-2025-09-17-0335.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4326/gallery/4326_00-2025-09-17-0335.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4326/listing/4326_00-2025-09-17-0335.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4300,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-507/sale-house-nice-9-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "house",
+    "system_category": "house",
+    "surface_m2": 276.0,
+    "rooms": 9,
+    "bedrooms": 5,
+    "price_eur": 1890000,
+    "price_text": "1,890,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4300/listing/4300_00-2025-09-05-0947.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4300/gallery_small/4300_00-2025-09-05-0947.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4300/gallery/4300_00-2025-09-05-0947.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4300/listing/4300_00-2025-09-05-0947.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4276,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-1913/sale-villa-cannes-7-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 185.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 3950000,
+    "price_text": "3,950,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4276/listing/4276_00-2025-08-27-0357.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4276/gallery_small/4276_00-2025-08-27-0357.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4276/gallery/4276_00-2025-08-27-0357.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4276/listing/4276_00-2025-08-27-0357.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4271,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-505/sale-villa-nice-5-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 150.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 4350000,
+    "price_text": "4,350,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4271/listing/4271_00-2025-08-19-0301.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4271/gallery_small/4271_00-2025-08-19-0301.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4271/gallery/4271_00-2025-08-19-0301.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4271/listing/4271_00-2025-08-19-0301.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4246,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-402/sale-mansion-hotel-particulier-nice-10-rooms-7-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion (hôtel particulier)",
+    "system_category": "house",
+    "surface_m2": 360.0,
+    "rooms": 10,
+    "bedrooms": 7,
+    "price_eur": 2990000,
+    "price_text": "2,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4246/listing/4246_00-2025-08-02-0416.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4246/gallery_small/4246_00-2025-08-02-0416.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4246/gallery/4246_00-2025-08-02-0416.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4246/listing/4246_00-2025-08-02-0416.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4212,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2726/sale-contemporary-house-theoule-sur-mer-7-rooms-3-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 310.0,
+    "rooms": 7,
+    "bedrooms": 3,
+    "price_eur": 3200000,
+    "price_text": "3,200,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4212/listing/4212_00-2025-07-19-0316.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4212/gallery_small/4212_00-2025-07-19-0316.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4212/gallery/4212_00-2025-07-19-0316.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4212/listing/4212_00-2025-07-19-0316.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4158,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2707/sale-provencal-house-theoule-sur-mer-7-rooms-5-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 206.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 1700000,
+    "price_text": "1,700,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4158/listing/4158_00-2025-06-26-0416.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4158/gallery_small/4158_00-2025-06-26-0416.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4158/gallery/4158_00-2025-06-26-0416.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4158/listing/4158_00-2025-06-26-0416.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4146,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2633/sale-contemporary-house-theoule-sur-mer-7-rooms-4-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 150.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 2100000,
+    "price_text": "2,100,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4146/listing/4146_00-2025-06-21-0128.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4146/gallery_small/4146_00-2025-06-21-0128.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4146/gallery/4146_00-2025-06-21-0128.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4146/listing/4146_00-2025-06-21-0128.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4127,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2661/sale-provencal-house-theoule-sur-mer-6-rooms-4-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 188.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2330000,
+    "price_text": "2,330,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4127/listing/4127_00-2025-06-13-0129.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4127/gallery_small/4127_00-2025-06-13-0129.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4127/gallery/4127_00-2025-06-13-0129.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4127/listing/4127_00-2025-06-13-0129.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4078,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2461/sale-contemporary-house-theoule-sur-mer-5-rooms-4-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 150.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 1550000,
+    "price_text": "1,550,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4078/listing/4078_00-2025-12-03-0225.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4078/gallery_small/4078_00-2025-12-03-0225.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4078/gallery/4078_00-2025-12-03-0225.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4078/listing/4078_00-2025-12-03-0225.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4062,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2114/sale-villa-cannes-8-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 255.0,
+    "rooms": 8,
+    "bedrooms": 4,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4062/listing/4062_00-2025-05-20-0210.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4062/gallery_small/4062_00-2025-05-20-0210.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4062/gallery/4062_00-2025-05-20-0210.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4062/listing/4062_00-2025-05-20-0210.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4015,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1144/sale-villa-villefranche-sur-mer-6-rooms-4-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 190.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 3500000,
+    "price_text": "3,500,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4015/listing/4015_00-2025-05-08-0118.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4015/gallery_small/4015_00-2025-05-08-0118.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4015/gallery/4015_00-2025-05-08-0118.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4015/listing/4015_00-2025-05-08-0118.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3936,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2581/sale-townhouse-cannes-6-rooms-5-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 186.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 2450000,
+    "price_text": "2,450,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3936/listing/3936_00-2025-04-10-0116.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3936/gallery_small/3936_00-2025-04-10-0116.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3936/gallery/3936_00-2025-04-10-0116.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3936/listing/3936_00-2025-04-10-0116.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3931,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2506/sale-villa-theoule-sur-mer-6-rooms-4-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 231.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2650000,
+    "price_text": "2,650,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2025-04-09-0321.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery_small/3931_00-2025-04-09-0321.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery/3931_00-2025-04-09-0321.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2025-04-09-0321.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3883,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2442/sale-contemporary-house-mougins-6-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 500.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3883/listing/3883_00-2025-03-25-1308.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3883/gallery_small/3883_00-2025-03-25-1308.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3883/gallery/3883_00-2025-03-25-1308.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3883/listing/3883_00-2025-03-25-1308.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3868,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2387/sale-villa-cannes-6-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 320.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 4500000,
+    "price_text": "4,500,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3868/listing/3868_00-2025-03-24-1052.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3868/gallery_small/3868_00-2025-03-24-1052.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3868/gallery/3868_00-2025-03-24-1052.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3868/listing/3868_00-2025-03-24-1052.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3853,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2513/sale-contemporary-house-theoule-sur-mer-6-rooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 373.0,
+    "rooms": 6,
+    "bedrooms": null,
+    "price_eur": 2990000,
+    "price_text": "2,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3853/listing/3853_00-2025-03-13-0333.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3853/gallery_small/3853_00-2025-03-13-0333.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3853/gallery/3853_00-2025-03-13-0333.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3853/listing/3853_00-2025-03-13-0333.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3816,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-1363/sale-mansion-cannes-10-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 280.0,
+    "rooms": 10,
+    "bedrooms": 6,
+    "price_eur": 1990000,
+    "price_text": "1,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3816/listing/3816_00-2025-03-04-0149.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3816/gallery_small/3816_00-2025-03-04-0149.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3816/gallery/3816_00-2025-03-04-0149.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3816/listing/3816_00-2025-03-04-0149.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3788,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1116/sale-villa-villefranche-sur-mer-6-rooms-5-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 320.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 4750000,
+    "price_text": "4,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3788/listing/3788_00-2025-02-13-0300.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3788/gallery_small/3788_00-2025-02-13-0300.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3788/gallery/3788_00-2025-02-13-0300.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3788/listing/3788_00-2025-02-13-0300.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3584,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2339/sale-townhouse-cannes-7-rooms-3-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 315.0,
+    "rooms": 7,
+    "bedrooms": 3,
+    "price_eur": 2350000,
+    "price_text": "2,350,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3584/listing/3584_00-2024-11-05-0243.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3584/gallery_small/3584_00-2024-11-05-0243.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3584/gallery/3584_00-2024-11-05-0243.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3584/listing/3584_00-2024-11-05-0243.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 3254,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca8-612/sale-villa-eze-8-rooms-6-bedrooms-06360/",
+    "city": "Èze",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 207.7,
+    "rooms": 8,
+    "bedrooms": 6,
+    "price_eur": 2600000,
+    "price_text": "2,600,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/listing/3254_00-2024-06-25-1904.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/gallery_small/3254_00-2024-06-25-1904.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/gallery/3254_00-2024-06-25-1904.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/listing/3254_00-2024-06-25-1904.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 2962,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca8-615/sale-provencal-house-villefranche-sur-mer-7-rooms-4-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 243.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 4558000,
+    "price_text": "4,558,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/2962/listing/2962_00-2024-06-25-1904.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/2962/gallery_small/2962_00-2024-06-25-1904.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/2962/gallery/2962_00-2024-06-25-1904.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/2962/listing/2962_00-2024-06-25-1904.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:11.602877+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83887920,
+    "url": "https://www.michaelzingraf.com/en/panoramic-sea-view-83887920",
+    "title": "Panoramic sea view",
+    "city": "Cabris",
+    "system_category": "house",
+    "type": "property",
+    "surface_m2": 483.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 5000000,
+    "price_text": "5 000 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/cfd465a3da1dbeb5901ce0cae9d42b4e_2dcbd9e0f1_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/cfd465a3da1dbeb5901ce0cae9d42b4e_2dcbd9e0f1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/298fb67ac1a49d5d630e3586f4f06e97_f781e15f45_1892-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1b1a6c16357a056ff5c458176253f752_c9eca34306_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3352eba0d9b2a7ce187aee1447489a5a_8fcda9229c_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 7317786,
+    "url": "https://www.michaelzingraf.com/en/newly-contemporary-villa-with-panoramic-view-7317786",
+    "title": "Newly contemporary villa with panoramic view",
+    "city": "Opio",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 439.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4990000,
+    "price_text": "4 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/eba33abdf13d47f5f658205e5fb3b686_ac771b4850_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/eba33abdf13d47f5f658205e5fb3b686_ac771b4850_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2aed7ac6418f80fa4e61359246729934_bba0b586fb_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f6c6079a1c769946a3770e7545f51045_21e9e0fd95_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2bfc41aba2eef25872dc431ddf56e464_8863148907_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83946407,
+    "url": "https://www.michaelzingraf.com/en/hills-of-cannes-fully-renovated-villa-with-sea-and-mountain-views-83946407",
+    "title": "Hills of Cannes - Fully Renovated Villa with Sea and Mountain Views",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 340.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4990000,
+    "price_text": "4 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/50390e40cc7742a8e9a17f47f3aa5305_01c4ee3eaf_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/50390e40cc7742a8e9a17f47f3aa5305_01c4ee3eaf_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7bbb171f49aaebf60252ed1be3ac01d9_102e799c1c_1760-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0e2ddfd309f4481ab20e5a1d7d800661_eb5a108532_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e3b3fc5f822c7d864b0f2991358668ba_738c6eea89_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86131728,
+    "url": "https://www.michaelzingraf.com/en/refined-18th-century-stone-bastide-walking-distance-to-valbonne-village-86131728",
+    "title": "Refined 18th-Century Stone Bastide – Walking Distance to Valbonne Village",
+    "city": "Valbonne",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 313.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4950000,
+    "price_text": "4 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9f4b20655685f90b0a855ba5573079b9_5a47fd6227_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/9f4b20655685f90b0a855ba5573079b9_5a47fd6227_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1e9ef762d8492fa66354faeb1f1f8784_2576a2df06_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5f2e7140dfd83bc5de1fd7e38c30b2ea_a8c9b240ee_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6383b3309adfdbc2c6fabc187e714016_1fc73ff34f_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85567269,
+    "url": "https://www.michaelzingraf.com/en/les-parcs-de-mougins-85567269",
+    "title": "Les Parcs de Mougins",
+    "city": "Valmasque",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 437.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4950000,
+    "price_text": "4 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/a8180356ad859b7995a43334db4026fc_6f84b4632d_640-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/a8180356ad859b7995a43334db4026fc_6f84b4632d_640-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ecfac70b1eae93604b5f1dca1fa6c65b_55a342c07b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2dc3f98cee0fc380d8659d3bffa265e6_e5034e8f8e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/62582b74b812424155880f1a4f9e25cd_c3a11da633_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86176868,
+    "url": "https://www.michaelzingraf.com/en/cannes-californie-superb-property-walking-distance-to-the-center-86176868",
+    "title": "Cannes Californie -  superb property - walking distance to the center",
+    "city": "Californie",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 250.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4900000,
+    "price_text": "4 900 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e259d86a5606230cd0383e5c3957871f_20fecc5f05_1916-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/e259d86a5606230cd0383e5c3957871f_20fecc5f05_1916-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3410826601fcaa176cdc8305fbb2e09b_a539a765ef_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/086635dc3e930392476cac7207fbd8bb_ca82b11ab1_1880-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2415fcfea8585c716f49e10f06f7c066_a4ec3b820a_1880-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83327235,
+    "url": "https://www.michaelzingraf.com/en/superb-charming-villa-with-sea-views-83327235",
+    "title": "Superb, charming villa with sea views",
+    "city": "Villefranche-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 243.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4700000,
+    "price_text": "4 700 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b95e10919d3cc93ecf209dfe812d7367_dfb70aa306_1919-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b95e10919d3cc93ecf209dfe812d7367_dfb70aa306_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/965f25e7385e595c60badd2c8d350e20_a7b58e5153_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/834fd461c1c134c4e3bd320fa200d34d_67926419cf_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f3fd3f72a7f79bfa36dc81ca5121ccc9_0526997c6d_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83285634,
+    "url": "https://www.michaelzingraf.com/en/heights-of-cannes-charming-villa-panoramic-sea-view-83285634",
+    "title": "Heights of Cannes - Charming Villa - Panoramic Sea View",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 213.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4500000,
+    "price_text": "4 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4ccc40ec115a71f4fb37a43932c36ef2_fc0fbaf677_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4ccc40ec115a71f4fb37a43932c36ef2_fc0fbaf677_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d2d30e1d7fc124ab132d4add01bfc6a8_17472102d5_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/98a9e906d9dab814d312cbd21a2743d3_b8e801f911_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e05ec796381e18a557bf04ca0f2698e7_66aaa79d95_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85469917,
+    "url": "https://www.michaelzingraf.com/en/cannes-californie-villa-with-panoramic-sea-view-85469917",
+    "title": "Cannes Californie - Villa with Panoramic sea view",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 293.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4400000,
+    "price_text": "4 400 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b0789dc795f9a4588a255636edf0b96d_e1e1c0ce2a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b0789dc795f9a4588a255636edf0b96d_e1e1c0ce2a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/098425f8485d71977bbfb9b559221edc_752f057ab1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6f864f8079ccf3f079c687022ab222e4_0858bc0058_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0b4a520addbabcfe0d9989bbd4fa7bbc_9bace6b100_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85052667,
+    "url": "https://www.michaelzingraf.com/en/sleek-villa-on-the-riviera-balconies-85052667",
+    "title": "Sleek villa on the Riviera balconies",
+    "city": "Spéracèdes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 392.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4300000,
+    "price_text": "4 300 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/24f3ee25daa5d0745f450ef7dd1ea727_7cbaf9def9_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/24f3ee25daa5d0745f450ef7dd1ea727_7cbaf9def9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/756ce49e2fe9c19487878390ccc828e3_8ae8b81f51_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0a8a750ae30fde2b76554e33e87f3f0d_d22992e5ff_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/aeaf1758af44dd541ca525b05950b82c_8e90174c7f_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84340764,
+    "url": "https://www.michaelzingraf.com/en/elegant-bastide-with-panoramic-view-84340764",
+    "title": "Elegant Bastide with panoramic view",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 374.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 4290000,
+    "price_text": "4 290 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/5734770714e35543a2d978c264987ab5_215af502af_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/5734770714e35543a2d978c264987ab5_215af502af_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1441294a5462ba7b5494414d3d592f64_85353b691b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/438a5d6eb579a8f4fd7cde25a7c4b5cb_e99492a9f1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/96e2d7fe724dcb15c719223cbdd27121_8398aed931_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 5432515,
+    "url": "https://www.michaelzingraf.com/en/charming-property-with-panoramic-sea-views-5432515",
+    "title": "Charming property with panoramic sea views",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 520.0,
+    "rooms": null,
+    "bedrooms": 9,
+    "price_eur": 4250000,
+    "price_text": "4 250 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/cacb771c3749ade98907aa90f109fc08_d41efa919d_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/cacb771c3749ade98907aa90f109fc08_d41efa919d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/af9e9da00f00d6a44c2e6630a9795307_3323d00107_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/22eb53978ef3d7745ba3b393c86d66f9_1a07c79f65_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/480708beb6970a99203ecfcaf096f96f_fb9788737c_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 4938521,
+    "url": "https://www.michaelzingraf.com/en/walking-distance-to-the-village-of-mougins-superb-sea-views-4938521",
+    "title": "Walking distance to the village of Mougins, superb sea views",
+    "city": "Village",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 381.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 4200000,
+    "price_text": "4 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/39df506581fb26ae132833b976d1ee85_6bf524dad3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/39df506581fb26ae132833b976d1ee85_6bf524dad3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ef5ffa556fee2dabeeac0021165e9150_1659185acf_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/de0b8348b319b2c65bbbc50bfd63f90e_f2ddd7a149_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bb134564193e8938606f4345d21a4c6b_d5bdb66300_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86229673,
+    "url": "https://www.michaelzingraf.com/en/recent-villa-nearby-the-royal-golf-86229673",
+    "title": "Recent villa nearby the Royal Golf",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 283.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4200000,
+    "price_text": "4 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5fee31c9d56d50a6110406011dd17557_1af8112d26_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4198c3ecfbc358b38a27d49be75dfde8_64372c6e51_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85724234,
+    "url": "https://www.michaelzingraf.com/en/mougins-villa-in-a-private-domain-85724234",
+    "title": "Mougins - Villa in a private domain",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 324.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3995000,
+    "price_text": "3 995 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6a5731dd3f691d23442b75c52953d9e2_7568001a9a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6a5731dd3f691d23442b75c52953d9e2_7568001a9a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cb5fa3030e6bec5a15fd014f7c992805_b4686a876d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3819b38bad9438d06a5221df41830f82_e3f6962ceb_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/be27a308d8290e3d8609bc18a12066b2_ee0a1e4c81_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85361156,
+    "url": "https://www.michaelzingraf.com/en/rare-new-contemporary-villa-basse-californie-85361156",
+    "title": "Rare - New contemporary villa – Basse Californie",
+    "city": "Montrose",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 259.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3990000,
+    "price_text": "3 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9d04c1c3764386c1956c9502fac95130_154b2163cc_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/9d04c1c3764386c1956c9502fac95130_154b2163cc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e9c4cd5741a0cadf9b954e3e14d5c9f5_6851450728_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b8da558d6957cd150d1079694444fed9_1f77d11256_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/db1075bc991e6e738c6f4979de492b17_0109a19aaf_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 4683132,
+    "url": "https://www.michaelzingraf.com/en/cannes-basse-californie-master-home-4683132",
+    "title": "Cannes - Basse Californie - Master home",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 225.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3990000,
+    "price_text": "3 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/a95b518ee01f74ddc01cf45d1ef1952b_d0e80ff487_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/a95b518ee01f74ddc01cf45d1ef1952b_d0e80ff487_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/20bc4d74775b514cfdc8e915b832290e_ac7967cd07_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4a06e8c111393d161b8632e269e66f4c_6a51069e72_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/94c1403bb78e3f43cad3a85a0d8802cc_8e3e746a26_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84441124,
+    "url": "https://www.michaelzingraf.com/en/cannes-californie-villa-with-panoramic-sea-view-84441124",
+    "title": "Cannes-Californie - Villa with panoramic sea view",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 200.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3980000,
+    "price_text": "3 980 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/307a68291da856fba3d4a20abfa97595_25aeaa39d4_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/307a68291da856fba3d4a20abfa97595_25aeaa39d4_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e4d688e2e2073b12aade78ba1dc5dc96_1e251cb41d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/237ab0183fcf269f2a5c5da5db0dc3c7_b69f8a8cd8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ba3c022967e3a6357a85393ed61c42cd_67dcab37c3_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 669999,
+    "url": "https://www.michaelzingraf.com/en/cannes-hills-le-cannet-hills-enclosed-estate-panoramic-sea-view-669999",
+    "title": "Cannes hills - Le Cannet hills - Enclosed estate - Panoramic sea view",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 341.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3950000,
+    "price_text": "3 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e072a5faa0a2af6949c582a8ef24085a_e58320282a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/e072a5faa0a2af6949c582a8ef24085a_e58320282a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a3f508e12b9186ddc9c9a37d033bc460_af72afa203_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/03485b65317a84a8afb4fb480ba66365_1e3b4b5f4f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/591355799579358b2275e8d482f5d272_6684ef71d1_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 82390594,
+    "url": "https://www.michaelzingraf.com/en/mougins-superb-family-property-in-a-secured-estate-82390594",
+    "title": "Mougins - Superb family property in a secured estate",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 362.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3950000,
+    "price_text": "3 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/571effab26d6d947f2239bd139c44e86_1fc7f31e92_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/571effab26d6d947f2239bd139c44e86_1fc7f31e92_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/404790b93a4e7042606490a82a9b853f_05d4d8b6fc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e27b74919f4a60c29db8395aa089cc28_39ab9f6065_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/11a6121fcc6c039edc56576a704cb442_836d7eff35_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85941935,
+    "url": "https://www.michaelzingraf.com/en/private-domain-cap-martin-project-for-exclusive-contemporary-villa-85941935",
+    "title": "Private Domain - Cap Martin - Project for exclusive contemporary villa",
+    "city": "Roquebrune-Cap-Martin",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 330.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3950000,
+    "price_text": "3 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/76faf3bb58dda6e0cd7560dba652e1ff_fee3a3fd60_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/76faf3bb58dda6e0cd7560dba652e1ff_fee3a3fd60_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a7c5ea2b9a4ed88b90ae112a8035eb47_ee5762151f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9075cc881071ed8e62d51aac42c33f2e_ce68cf610f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9aa75f860bc0ea9dc5b59de5213c4f8a_8d699648f2_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85471859,
+    "url": "https://www.michaelzingraf.com/en/-85471859",
+    "title": "",
+    "city": "Valbonne",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 520.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3900000,
+    "price_text": "3 900 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e6ab8f787970b43396e7b89c4712c62d_058222e87f_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/e6ab8f787970b43396e7b89c4712c62d_058222e87f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/08f33eee7872db5f44601dc86615bdbc_820289b481_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8f65742db4ba51cf0b1d7d3dd1a203b9_f7fac891da_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cd9a212d8618815b7ccb4dea9fc1a611_822966aa42_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86381526,
+    "url": "https://www.michaelzingraf.com/en/exclusive-cannes-californie-panoramic-sea-view-86381526",
+    "title": "Exclusive - Cannes Californie - Panoramic Sea View",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 310.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3900000,
+    "price_text": "3 900 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/cd7debdf7d16f5d637cb05c334985779_9edfed5440_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/cd7debdf7d16f5d637cb05c334985779_9edfed5440_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/beb2a8257f0f06949d04573344093e42_129e4fccad_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fa2a00f036e23246241dcc9b3fe42274_3ed1896541_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9278cca1de4fb8ee80af1c6e6d1d08d0_9ea6a141b3_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 82678818,
+    "url": "https://www.michaelzingraf.com/en/remarkable-property-of-more-than-one-hectare-82678818",
+    "title": "Remarkable property of more than one hectare",
+    "city": "Mouans-Sartoux",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 540.0,
+    "rooms": null,
+    "bedrooms": 8,
+    "price_eur": 3890000,
+    "price_text": "3 890 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/910016e98837e7ee2a7067f9e9b45d05_985629c784_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/910016e98837e7ee2a7067f9e9b45d05_985629c784_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/337fc40147d4ce573ac23cb911d71f8c_9e51528db1_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3bcd4a223ecf040b269f6670f1519bc3_8dfdb339b8_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a019039c96b06643bc1ad773b3d16cb0_c8ca56044f_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86463357,
+    "url": "https://www.michaelzingraf.com/en/villa-undergoing-renovation-panoramic-sea-view-86463357",
+    "title": "Villa undergoing renovation - panoramic sea view",
+    "city": "Beaulieu-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 108.0,
+    "rooms": null,
+    "bedrooms": 2,
+    "price_eur": 3700000,
+    "price_text": "3 700 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1e06fd370c899b52d5006dc626aa4808_183c420532_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1e06fd370c899b52d5006dc626aa4808_183c420532_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/432a36a88e6d0e4bb457016f6bf13f84_4b4237cbfd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2263e9280bf0bfd44ef4a8245514bf2e_d4b3f8b156_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c0866d08e65701089541028af6d39e31_c19943840d_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 6019752,
+    "url": "https://www.michaelzingraf.com/en/residential-area-recent-villa-with-open-view-on-the-hills-and-the-sea-6019752",
+    "title": "Residential area, recent villa with open view on the hills and the sea",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 365.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3660000,
+    "price_text": "3 660 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/cfd5e76e139ef22f7cf580d07670d6c0_991353f82c_1919-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/cfd5e76e139ef22f7cf580d07670d6c0_991353f82c_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b66a7bf8ab58b4fec479367400a68c74_305334aa33_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f9aa7738861a737588ba082764126360_83b6f3bcf4_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/579125a180ae309d0b7d69f3c4650143_9aa3a359fb_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85678712,
+    "url": "https://www.michaelzingraf.com/en/5-minutes-from-mougins-tuscan-property-85678712",
+    "title": "5 minutes from Mougins - ‘Tuscan’ property",
+    "city": "Mouans-Sartoux",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 340.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3500000,
+    "price_text": "3 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6411812b722a483b3a1f4285934f1abe_f238d20aec_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6411812b722a483b3a1f4285934f1abe_f238d20aec_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/405581a1c2c7d8bb5634504671d9564e_e503e282b9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d60fa1308f1519c85001572550b6c04c_5b987840e7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c9d009223a106debe386341a1169d7e7_07d4c7861b_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 2901481,
+    "url": "https://www.michaelzingraf.com/en/exclusive-majestic-property-with-sea-and-cap-dantibes-views-2901481",
+    "title": "Exclusive - Majestic property with sea and Cap d'Antibes views",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 390.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3500000,
+    "price_text": "3 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/118b15a565f3af0922dd8c8691dcddaa_54452f82e3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/118b15a565f3af0922dd8c8691dcddaa_54452f82e3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0f65b66849d93ae6ffb663ea3de891ba_185288f2a1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b9f8acd8048d4b8e7007480cffe5daa7_c50e5af2a3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c0a3ba0eb5cf0cda9c3b3fa61a2d77e5_7fa8586872_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85959463,
+    "url": "https://www.michaelzingraf.com/en/charming-family-villa-in-a-quiet-residential-neighborhood-85959463",
+    "title": "Charming family villa in a quiet residential neighborhood",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 323.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3490000,
+    "price_text": "3 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4251484c6128324ff561ae7f85bde00c_4478b75921_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4251484c6128324ff561ae7f85bde00c_4478b75921_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/087c855a5b50a2ba94e00cd6e2cc295c_cf798bdb93_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/43d82476a1215a85b76ff360c2ad3adf_a7fcc48afe_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/936d143a23fcf36743874e681bf572b0_7fc1c2b1d5_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85992876,
+    "url": "https://www.michaelzingraf.com/en/elegant-estate-with-panoramic-sea-and-lake-views-olive-grove-and-guest-pavilion-85992876",
+    "title": "Elegant Estate with Panoramic Sea and Lake Views, Olive Grove and Guest Pavilion",
+    "city": "Cabris",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 364.0,
+    "rooms": null,
+    "bedrooms": 9,
+    "price_eur": 3490000,
+    "price_text": "3 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6a1fdfdf0586afed70191b7a57e73151_10818ad786_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6a1fdfdf0586afed70191b7a57e73151_10818ad786_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bbb9b0536a589cbeadc2d7350433080e_321f72ce01_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/abd04aacef0096c75f3f945752e335d2_9536af1ac5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/62e88ab1cd2870fbe0b529ff9cafceb9_edeb317480_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85486047,
+    "url": "https://www.michaelzingraf.com/en/le-cannet-contemporary-villa-with-sea-and-esterel-view-85486047",
+    "title": "Le Cannet - Contemporary Villa with Sea and Esterel View",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 215.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3490000,
+    "price_text": "3 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/81d702212caae3da302c9f0e1ae1a636_18d3bb8cd6_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/81d702212caae3da302c9f0e1ae1a636_18d3bb8cd6_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0d505d2088545508300759d8845d8dd1_d3c3242fc4_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9be4d2e93ea3300cb5f0366075fc124b_f6dc705b9e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e63f8e66cb232b7f9c5ff418754ff886_d1e554834f_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85152542,
+    "url": "https://www.michaelzingraf.com/en/mougins-panoramic-view-85152542",
+    "title": "Mougins Panoramic View",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 427.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3450000,
+    "price_text": "3 450 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/2dfeeff705fb3814939f0ec4881457df_2c4135bcea_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/2dfeeff705fb3814939f0ec4881457df_2c4135bcea_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cd531e61d502e1c2dd737dc8a6932199_3573983515_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/326c0dfe5dca3291f7b96208924603f7_ca5db6c3ea_1396-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/19dcc62c106253dae2664d7445fac831_916cae3d60_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83291692,
+    "url": "https://www.michaelzingraf.com/en/charming-villa-with-swimming-pool-and-splendid-sea-83291692",
+    "title": "CHARMING VILLA WITH SWIMMING POOL AND SPLENDID SEA",
+    "city": "Gairaut",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 311.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3400000,
+    "price_text": "3 400 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/bf04c7988df59e7650ed71b916fc079b_15c0ae2bdc_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/bf04c7988df59e7650ed71b916fc079b_15c0ae2bdc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/35b5f3cd2a48a94b25aa6ff9e9763384_6855bb75d1_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a542d6348181d2bacf2dc04584761586_e852bfd9f1_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3745de46fdd68af8322209c8f02e324a_4159e544c4_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85494235,
+    "url": "https://www.michaelzingraf.com/en/super-cannes-clear-view-of-mountains-and-greenery-85494235",
+    "title": "Super-Cannes - clear view of mountains and greenery",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 322.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3350000,
+    "price_text": "3 350 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/90e7ed4c335e46b1376aeacb04c1abb5_411aa92dac_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/90e7ed4c335e46b1376aeacb04c1abb5_411aa92dac_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/252f81967497336f19490c39e7a6c4af_62c7a0ad2e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9c1df2425480ae5f9c95be20e3a968b6_deddeefe59_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/42bd7700fb32145171d2287e62e09918_03703e8525_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83054160,
+    "url": "https://www.michaelzingraf.com/en/gorgeous-and-renovated-villa-located-in-green-and-residential-environment-83054160",
+    "title": "Gorgeous and renovated villa located in green and residential environment",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 406.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3290000,
+    "price_text": "3 290 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9966afcc7a9f4233d8b3c13ed25d4c76_2fe1006a5a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/9966afcc7a9f4233d8b3c13ed25d4c76_2fe1006a5a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a069a51f3c5ac469a53a6aa8d6690821_6e2457e875_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/533ed553371af879a5fcf50cd92c4d08_8b423fdc1f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/601360697a62452dbac1e3d77e27d28e_a1daa337ad_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85368724,
+    "url": "https://www.michaelzingraf.com/en/residential-area-in-mougins-panoramic-views-85368724",
+    "title": "Residential area in Mougins - panoramic views",
+    "city": "Pibonson",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": null,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3250000,
+    "price_text": "3 250 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/44d4901b74e0b8e81b08cc13b3a811dc_fd558d0be1_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/44d4901b74e0b8e81b08cc13b3a811dc_fd558d0be1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/90757f97dc051085bf672e2474079292_5495925637_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6d876c88b353f59a0bdca3ed8c88b1a0_42ca34709c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/de1bcf2726646aaf76ddb31ee0f39579_283c0a8f80_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84322925,
+    "url": "https://www.michaelzingraf.com/en/super-cannes-charming-provencal-style-villa-sea-view-84322925",
+    "title": "Super Cannes - Charming Provencal-style villa - sea view",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 203.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3200000,
+    "price_text": "3 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/fd5639d26c9f2684df899ac1625ae10e_a48fd299bf_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/fd5639d26c9f2684df899ac1625ae10e_a48fd299bf_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/415e967ede0c66dc744ee465573fcf28_ef9b7ec1f1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/42cbc5aaba85d71db74cab7642e5cac8_b132eb8177_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a252474e74479b30e94165ac34f10df2_df791ceda1_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 2930472,
+    "url": "https://www.michaelzingraf.com/en/cannes-backcountry-stunning-property-2930472",
+    "title": "Cannes backcountry - Stunning property",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 853.0,
+    "rooms": null,
+    "bedrooms": 13,
+    "price_eur": 3150000,
+    "price_text": "3 150 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/8cb732d862bb546c499743a2b00d8458_0e853b2600_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/8cb732d862bb546c499743a2b00d8458_0e853b2600_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f8608794a0fa501679e45c09050a0d59_04bb21fcfd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f6715ed8ca2280a30be44b5d1f2a9f21_b32767cdee_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7da822f9128f4baea0399f7f84d49d8a_c47f4741f4_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85987539,
+    "url": "https://www.michaelzingraf.com/en/exceptional-estate-with-private-woodland-landscaped-grounds-tennis-court-and-open-views-85987539",
+    "title": "Exceptional estate with private woodland, landscaped grounds, tennis court, and open views",
+    "city": "Cabris",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 573.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3150000,
+    "price_text": "3 150 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/231175fc88aedcff4aa46627f4d2c9db_a494b204e2_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/231175fc88aedcff4aa46627f4d2c9db_a494b204e2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0e2b32bb6bed8c83000768f6ab1d1fdb_835b9d2d6f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/458e1c458a6a33a6584274b389ae1851_8527780836_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6c9b520225c14ce99e0c2c801d326a45_01d094acd1_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85606584,
+    "url": "https://www.michaelzingraf.com/en/stunning-village-view-near-cannes-85606584",
+    "title": "Stunning village view near Cannes",
+    "city": "Notre-Dame-de-Vie",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 288.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2995000,
+    "price_text": "2 995 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/85846834ba5fb56740f0d56cc844d953_dce4eb9869_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/85846834ba5fb56740f0d56cc844d953_dce4eb9869_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ead52cffc9da654466870b8364902a37_d74f268c18_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9f4262d49cd38c75ef43b75d6e06b2ed_28690c440a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/adfc623c9b45d6e7e06ee18a53660576_22bdc10134_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83234581,
+    "url": "https://www.michaelzingraf.com/en/close-to-mougins-spendid-villa-in-gated-domain-83234581",
+    "title": "Close to Mougins - Spendid villa in gated domain",
+    "city": "Mouans-Sartoux",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 620.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 2990000,
+    "price_text": "2 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/17dcfb3a4df5b1bf23f2d8766d56576d_1583e64248_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/17dcfb3a4df5b1bf23f2d8766d56576d_1583e64248_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6a423948e563d8d8426178d4185147c9_cdce9cc124_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/be825702053bf5c05bee6ebff9d669ab_29f8d40b30_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/370bda9f82996385b174bf0656077966_992126cb07_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85982143,
+    "url": "https://www.michaelzingraf.com/en/rare-cannes-true-waterfront-villa-auction-85982143",
+    "title": "Rare - Cannes - True \"Waterfront\" Villa - Auction",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 221.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 2990000,
+    "price_text": "2 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/2c673850fd95d655bc6e2b2c694f8f88_846e59b891_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/2c673850fd95d655bc6e2b2c694f8f88_846e59b891_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/64846546cb7398a818e19928c8df33be_373fc1a74f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1bff3a19c46509aa8e461d6bf3d4e96f_37f4b9e20f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ed55ef62ad31a53f2e90d79f3b0789fe_d6b934ab21_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86006769,
+    "url": "https://www.michaelzingraf.com/en/le-cannet-neo-provencal-villa-sea-and-esterel-view-86006769",
+    "title": "Le Cannet - Neo-Provençal Villa - Sea and Esterel View",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 221.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2990000,
+    "price_text": "2 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/794d6b73af5bcf3c158e0243e6e31788_33f01d2970_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/794d6b73af5bcf3c158e0243e6e31788_33f01d2970_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3eac04d162e0941aafe4fde47137b992_1c6fb61ca3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8889bbf2aaf2ad14b5fc4c3b5b645f0e_77a76b36d9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a15c53314ad895a370681ad3aacacb6c_3757821356_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83401381,
+    "url": "https://www.michaelzingraf.com/en/eze-bord-de-mer-fully-renovated-villa-panoramic-sea-view-83401381",
+    "title": "EZE BORD DE MER – FULLY RENOVATED VILLA – PANORAMIC SEA VIEW",
+    "city": "Èze",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 160.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 2960000,
+    "price_text": "2 960 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/25b7c9f4f4d4a1764da5689ecb75093b_763815eef1_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/25b7c9f4f4d4a1764da5689ecb75093b_763815eef1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7e6919610373e65a950afa42b246d8a3_0d21310cc5_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a49fcd5cd2dccec79ef7b474349799ee_0e4df6862a_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/51c940730a8add8f9b7933926fd432f9_7d60963a69_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85488591,
+    "url": "https://www.michaelzingraf.com/en/cannes-banane-city-center-rue-dantibes-joint-agent-85488591",
+    "title": "Cannes Banane - City center - Rue d'Antibes - Joint agent",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 173.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2950000,
+    "price_text": "2 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/62554c7744f83349ea7246a6c93dcad5_a0e10a8121_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/62554c7744f83349ea7246a6c93dcad5_a0e10a8121_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0785df253badc63b583af29a8140fdad_0b04bb5a66_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4dda8d5b44829f20b5063aacc842f1cc_470090c84c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f7c09f03fdb21700a6219bc105b8ea71_a28605e680_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 7576660,
+    "url": "https://www.michaelzingraf.com/en/superb-neo-provencal-villa-in-private-estate-le-castellet-7576660",
+    "title": "Superb Neo-Provençal Villa in Private Estate – Le Castellet",
+    "city": "Villefranche-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 200.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2900000,
+    "price_text": "2 900 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/7180ba1d8e03f00f977de28c154d4d9e_d497547c3e_1919-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/7180ba1d8e03f00f977de28c154d4d9e_d497547c3e_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1983d64ff4ab9c41f494993ff4156981_604eedc3f0_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e4d0c248b4a9d620412b29246fc79362_2eebdeb7ec_960-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8d59aae4a12b24958ff79bbc7d68070a_5b78f0fe02_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86230575,
+    "url": "https://www.michaelzingraf.com/en/nice-gairaut-property-with-swimming-pool-enjoying-panoramic-sea-views-86230575",
+    "title": "NICE GAIRAUT – PROPERTY WITH SWIMMING POOL ENJOYING PANORAMIC SEA VIEWS",
+    "city": "Gairaut",
+    "system_category": "house",
+    "type": "property",
+    "surface_m2": 177.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2800000,
+    "price_text": "2 800 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/456991cbf84d1655afb0e610a263f2d0_6c7cd8f50f_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/456991cbf84d1655afb0e610a263f2d0_6c7cd8f50f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/38e6b9fe7bc7e4ccdbfc20eb3e9b7c40_f58bd1ac18_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/24ca6e681398516ffcbcf22dc94b64d7_e255ab4e9f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/270c1aadfa1a326b7159fe41011a9635_b837ac9704_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85494321,
+    "url": "https://www.michaelzingraf.com/en/5-minutes-from-mougins-charming-provencal-mas-85494321",
+    "title": "5 minutes from Mougins - Charming provencal mas",
+    "city": "Mouans-Sartoux",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 290.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2800000,
+    "price_text": "2 800 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/27d8210e1600ffc3ca8c9139638dd450_53bae3e63f_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/27d8210e1600ffc3ca8c9139638dd450_53bae3e63f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8771aed2d0313c35f364dff73186b8d4_e9a763870e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/08880a77758c9aa774a483546a4ff007_9eea476a54_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6e95a4a7135d3f9827e9fadd52d132e6_f9371e3bac_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83718443,
+    "url": "https://www.michaelzingraf.com/en/exceptional-villa-in-le-cannet-mairie-rare-on-the-market-83718443",
+    "title": "Exceptional Villa in Le Cannet Mairie - Rare on the Market",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 259.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2795000,
+    "price_text": "2 795 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1711f2dfb678ca61781403c5f4f8e2f8_94c875368e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1711f2dfb678ca61781403c5f4f8e2f8_94c875368e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/75ec75f44c2c13bf3985c0424b72e75a_f28cc9b033_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/114d9b2252ae414ec4fafee0d3a12391_649f6d39f4_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/51dc0ced9d47984edfb119d0261f5798_35eb81f648_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85631321,
+    "url": "https://www.michaelzingraf.com/en/roquebrune-cap-martin-exceptional-villa-with-panoramic-sea-view-85631321",
+    "title": "Roquebrune-Cap-Martin - Exceptional villa with panoramic sea view",
+    "city": "Roquebrune-Cap-Martin",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 212.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2750000,
+    "price_text": "2 750 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b6f43104f431376140fcdfd88ef55958_e1a2cae6e8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e69931d20abe0c5b648fcd912876f581_fe7e73709e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8fba26c25fa07e9ff1930cded13caa4f_c6b6a25aa6_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86010483,
+    "url": "https://www.michaelzingraf.com/en/mougins-charming-couelles-style-villa-86010483",
+    "title": "Mougins - Charming Couelle's style villa",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 248.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2750000,
+    "price_text": "2 750 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f09777fed8d237f93ef45faedaa989c5_093fb014a0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2749648501d40d822fa6c053358fd15c_0afeb39d54_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8542a5514cbff1fe925c4b0413606cd5_8da6951b12_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85052942,
+    "url": "https://www.michaelzingraf.com/en/uncluttered-villa-with-panoramic-views-of-the-riviera-85052942",
+    "title": "Uncluttered villa with panoramic views of the Riviera",
+    "city": "Spéracèdes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 294.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2700000,
+    "price_text": "2 700 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/8f5509a1d3146f058ea03f853fe01dcc_3db9ac9c40_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/8f5509a1d3146f058ea03f853fe01dcc_3db9ac9c40_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5abb1a3220704dd69d0400647ee662f0_7a8ea2ddd0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e6e8ecb06e542c00ae49208df6621a0e_1113bb4364_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/01a82b3f2b881e875a3710ba8928cbf6_ddac87d020_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 3351521,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-juan-les-pins-modern-villa-close-to-the-beach-3351521",
+    "title": "Close to Cannes - Juan-les-Pins - Modern villa close to the beach",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 193.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2660000,
+    "price_text": "2 660 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/16e39177ffbba79fbfbe5b0e03e22847_dd943401cc_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/16e39177ffbba79fbfbe5b0e03e22847_dd943401cc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e4ae409f6c320fd0719bbee483690067_58154b00fe_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e058370e654edacfc2f1d66076b6f5c2_d004d3b5fa_1280-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a7b56caf860a4198ba23a431144670eb_c9a0a6b2c3_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 2852155,
+    "url": "https://www.michaelzingraf.com/en/charming-stone-villa-with-panoramic-sea-view-2852155",
+    "title": "Charming stone villa with panoramic sea view",
+    "city": "Retenaou",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 270.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2650000,
+    "price_text": "2 650 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/16f004550c5213a26ccbeb45b1f49546_1094d48678_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/16f004550c5213a26ccbeb45b1f49546_1094d48678_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/96226ef032cd8cbeae7f6bf2ff1d4e15_0fd7ff9303_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c2f8cfe5c417f7787e92bf3bb729a274_d086325df5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/276f05d53b2665fd706b02ce972b1d44_6376c7b3c9_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86195283,
+    "url": "https://www.michaelzingraf.com/en/-86195283",
+    "title": "",
+    "city": "Mouans-Sartoux",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 369.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2650000,
+    "price_text": "2 650 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/0b154ca325d9182f89f3d5d93ba7eb62_5bd523be52_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/0b154ca325d9182f89f3d5d93ba7eb62_5bd523be52_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c594bde07f8a692f3fe000d99b449a0d_e15766d148_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bbc539d260361953401f78d4eb2a6928_2e2b00314f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7ef5c40f7bf735071c60219798ea27de_89752a7e50_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83475861,
+    "url": "https://www.michaelzingraf.com/en/close-to-mougins-panoramic-views-83475861",
+    "title": "Close to Mougins - Panoramic views",
+    "city": "Mouans-Sartoux",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 400.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2600000,
+    "price_text": "2 600 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/ad912b93413eb22e325e6a262a6536cd_9de676c74c_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/ad912b93413eb22e325e6a262a6536cd_9de676c74c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/92ff0f5d8fb124e2a0d375cc166abe91_bddf779286_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c4ae28cc0770c82083b331143e3bd554_39d261c8ad_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6ed3835a159dfb8c8d462379c4587089_abdc36e2a3_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85187871,
+    "url": "https://www.michaelzingraf.com/en/cannes-hills-le-cannet-hills-pretty-villa-85187871",
+    "title": "Cannes hills - Le Cannet Hills - Pretty villa",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 280.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2500000,
+    "price_text": "2 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/f989714e420f51fce6a92e8396e15927_554c54a10b_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/f989714e420f51fce6a92e8396e15927_554c54a10b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/53fb08df3c59fedf5c3c5d94fb96c01d_3464071bc2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ab674e14e0e7b05fe8e7c4fcfe974c57_031a41786e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b1d1858bffdfacc184f8bf785fda2863_56dee94655_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84681292,
+    "url": "https://www.michaelzingraf.com/en/18th-century-treasure-authentic-olive-mill-84681292",
+    "title": "18th Century Treasure – Authentic Olive mill",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "property",
+    "surface_m2": 700.0,
+    "rooms": null,
+    "bedrooms": 12,
+    "price_eur": 2490000,
+    "price_text": "2 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4cba7720ed009bea11fee91af573a261_98c002b9c4_1919-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4cba7720ed009bea11fee91af573a261_98c002b9c4_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7301a71849c768c91ba72d561feba4e5_c204494051_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/41e55d598796d196ce75f08318131ced_921773c1c3_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/45d31b0c50ee2d86b25be86856d8b7d1_139cccb098_1620-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84794679,
+    "url": "https://www.michaelzingraf.com/en/panoramics-views-84794679",
+    "title": "Panoramics views",
+    "city": "Tignet",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 222.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2450000,
+    "price_text": "2 450 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6028d1b9a22ad32a6dd8f507f0fc7335_2bdb2a1e7e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6028d1b9a22ad32a6dd8f507f0fc7335_2bdb2a1e7e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1a013fdfa22da09c6e7fccb3633472fc_270e38cf41_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/480e732a43b429dbfce99f2f014a8423_ad5e7226ae_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6521cba84dd4a4191a2a707b4c1b922d_20cf83d4be_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84827524,
+    "url": "https://www.michaelzingraf.com/en/cannes-palm-beach-rare-walking-distance-from-the-beaches-84827524",
+    "title": "Cannes Palm Beach - Rare - Walking distance from the beaches",
+    "city": "Croisette",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 159.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2450000,
+    "price_text": "2 450 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e96be134592973f668ef46ecd4d67cd9_06862bcea6_1619-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/e96be134592973f668ef46ecd4d67cd9_06862bcea6_1619-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b1ed36d3b97c026340f6d0f07538e0f5_a0c694bfb2_1619-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c4f972a3f79c7f8234f68d2a6c15a4e7_f5e2841639_1619-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/abdb36b51b433b4f52f972cf991970dc_c03b813263_1619-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85684706,
+    "url": "https://www.michaelzingraf.com/en/superb-13-room-bastide-with-panoramic-views-85684706",
+    "title": "Superb 13-Room Bastide with Panoramic Views",
+    "city": "Cabris",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 366.0,
+    "rooms": 13,
+    "bedrooms": 7,
+    "price_eur": 2400000,
+    "price_text": "2 400 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/05fd5a20a9d94389af8b89dd7025ced2_972c9b4673_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/05fd5a20a9d94389af8b89dd7025ced2_972c9b4673_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/da9692594e782dee497be8a64a5c579c_0e898ed535_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7c2e11ed6041b249d7063e053f239cf0_198a5ae34f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f2606e736cb1e75a58fadbf8af4dd6db_d1a2cf009b_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86143013,
+    "url": "https://www.michaelzingraf.com/en/spacious-family-villa-or-bed-and-breakfast-86143013",
+    "title": "Spacious family villa or bed and breakfast",
+    "city": "Peymeinade",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 344.0,
+    "rooms": null,
+    "bedrooms": 8,
+    "price_eur": 2350000,
+    "price_text": "2 350 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/3b636628a2362ca780427476325da82e_e7f13b1810_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/3b636628a2362ca780427476325da82e_e7f13b1810_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c79ef5ace41f3c90e4c4e0a759b24cc2_6ef96a54aa_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3120779468fd6d01f85b9e2ceac61ff2_2be50b7cf2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8e42cd5875439ed1dd79ea269012d132_dc707aa3ea_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84326577,
+    "url": "https://www.michaelzingraf.com/en/elegant-bastide-overlooking-the-cannes-countryside-84326577",
+    "title": "Elegant bastide overlooking the Cannes countryside",
+    "city": "Tignet",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 273.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2300000,
+    "price_text": "2 300 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/95bf74851f215b7f64f6f7234f2065e6_467b1c251a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/95bf74851f215b7f64f6f7234f2065e6_467b1c251a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/88342750e1e86df7dfe30c58c0760273_0e2070992f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/321e21b7b6b8bc381e5a20973e678aa4_658e9ac139_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/395f5ca1e5354a41346d1a7dcd648487_f1c726661b_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85302202,
+    "url": "https://www.michaelzingraf.com/en/newly-build-villa-close-to-shops-85302202",
+    "title": "Newly build villa close to shops",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 215.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2280000,
+    "price_text": "2 280 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/3aaf4d3ab93304fb3a52cdfc32de8a36_5a5ea82fe2_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/3aaf4d3ab93304fb3a52cdfc32de8a36_5a5ea82fe2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8b875a269aa0967891eda0eca8a611c0_3f910ac6b8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/45ca720d29c6f044c66b50935672cd0c_5a96e2ca32_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/19022f74b93275ef509e4ebe58f18915_bd74adccb5_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 82350923,
+    "url": "https://www.michaelzingraf.com/en/elegant-architect-designed-bastide-with-expansive-landscaped-grounds-82350923",
+    "title": "Elegant Architect-Designed Bastide with Expansive Landscaped Grounds",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 251.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2200000,
+    "price_text": "2 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/39cfc3aff0b31c0df7cafb6942b98c39_49fe01acea_1919-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/39cfc3aff0b31c0df7cafb6942b98c39_49fe01acea_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9b122153c1a9c7d4d54fc97c48f75038_c217334692_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e8391ea75d0eb11e232fca2d8a7e2175_fac4777b4f_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c51259ca16f9e58fc433c9581208544f_83861188c5_1919-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85308636,
+    "url": "https://www.michaelzingraf.com/en/-85308636",
+    "title": "",
+    "city": "Plascassier",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 207.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2200000,
+    "price_text": "2 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/827fbc2c616c874c7bcf5d39b09a0bff_ef0bb124f5_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/827fbc2c616c874c7bcf5d39b09a0bff_ef0bb124f5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/05bfd302de8fe262eb39d78f27ebf451_d322cb8b7a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/80657fb120ad4db4bb57aceb29b9ec81_c5767d088f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8c275dfb66fb2092e33a7057ca38ae2a_1c3cbe201e_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85297574,
+    "url": "https://www.michaelzingraf.com/en/newly-build-villa-close-to-shops-85297574",
+    "title": "Newly build villa close to shops",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 196.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2150000,
+    "price_text": "2 150 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/801a419473736874913162cebc68d435_cbb9af0635_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/801a419473736874913162cebc68d435_cbb9af0635_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0ba5524a7dcb4f8365d7aea0b2382137_6fdd065d75_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c78bf1f747ca2ab85fba2249671e32f0_615ea362e3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a328a1855853037f02ee5abda1d5df4f_e6add823ad_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 6771239,
+    "url": "https://www.michaelzingraf.com/en/cannes-backcountry-quintessential-provencal-bastide-6771239",
+    "title": "Cannes backcountry - Quintessential provencal bastide",
+    "city": "Plascassier",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 260.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2145000,
+    "price_text": "2 145 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/c65f84400dda421c0f4b96789ef6d816_5980887d14_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/c65f84400dda421c0f4b96789ef6d816_5980887d14_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e91b142fb69fc2bba6bc71f1ae77cf04_7cd035c9fd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f42dc5d7c7109d7333690e1980a8343b_ba21e14bff_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9741ccc6733b92ea02ef8a9abfb581a3_b3ae9ad422_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85137448,
+    "url": "https://www.michaelzingraf.com/en/vcharming-villa-in-a-green-setting-with-panoramic-views-85137448",
+    "title": "VCharming villa in a green setting with panoramic views",
+    "city": "Cabris",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 303.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2130000,
+    "price_text": "2 130 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/11ef15b149dbc7e31265cde01fec4c79_21f2c9c236_1024-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/11ef15b149dbc7e31265cde01fec4c79_21f2c9c236_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f65cc1e7932cf09d34f8e2a659c9718a_a3b652b70b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/38b9003510e33f3495e65751e9ee02a0_21626f68c2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c45409f932b40eaed2af7bf4b76af93e_9aa083ba57_1024-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85987436,
+    "url": "https://www.michaelzingraf.com/en/4-bedroom-villa-including-3-suites-with-swimming-pool-in-mouginss-85987436",
+    "title": "4 bedroom villa including 3 suites with swimming pool in Mouginss",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 235.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2090000,
+    "price_text": "2 090 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/21a97ff8eaf71b2122c35e0e3451788b_4653537d49_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/21a97ff8eaf71b2122c35e0e3451788b_4653537d49_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/47c99aadab5f9d8d98efcb68e1fd8c40_76b9b8e6ef_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ed1309afa0a8e827af26c1b7939fb8fb_03e1964eea_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3507bc2109a89ebbc7afa44b3b50c411_6e85bc1e56_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85296609,
+    "url": "https://www.michaelzingraf.com/en/newly-build-villa-close-to-shops-85296609",
+    "title": "Newly build villa close to shops",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 205.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2040000,
+    "price_text": "2 040 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/127728630f65a7bf07085fbc46e443fc_68c5270a18_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/127728630f65a7bf07085fbc46e443fc_68c5270a18_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c0caaed09f12762da4c568e2624a5260_18336997b9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7d5cc8c96cdb25e9ac4191c060dc1c97_640849f95c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9312d6705fad2701ae7ef3150f7c8d34_647c6b944e_1920-original.jpg"
+    ],
+    "inserted_at": "2025-12-30T23:41:14.295888+00:00",
+    "updated_at": null
   }
 ]
