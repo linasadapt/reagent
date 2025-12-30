@@ -29,12 +29,10 @@ jobs:
 
       - name: Run Sotheby's scrapers
         run: |
-          python sothebys.py
           python sothebys_houses.py
 
       - name: Run Michael Zingraf scrapers
         run: |
-          python michaelzingraf.py
           python michaelzingraf_houses.py
 
       - name: Commit and push results
