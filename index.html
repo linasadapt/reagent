@@ -69,11 +69,14 @@ h1 {
   font-weight: 600;
 }
 
-/* Sort bar */
-.sortbar {
+/* Filters */
+.controls {
+  display: flex;
+  gap: 16px;
   margin-bottom: 24px;
+  flex-wrap: wrap;
 }
-.sortbar select {
+.controls select {
   padding: 6px 10px;
   font-size: 13px;
 }
@@ -89,15 +92,12 @@ h1 {
   border: 1px solid #e5e3e0;
   border-radius: 8px;
   overflow: hidden;
+  text-decoration: none;
+  color: inherit;
   transition: box-shadow 0.15s ease;
 }
 .card:hover {
   box-shadow: 0 6px 18px rgba(0,0,0,0.08);
-}
-.card {
-  display: block;
-  text-decoration: none;
-  color: inherit;
 }
 .card img {
   width: 100%;
@@ -131,11 +131,9 @@ h1 {
   align-items: center;
   gap: 8px;
 }
-
 .source img {
   max-height: 22px;
   width: auto;
-  object-fit: contain;
   opacity: 0.85;
 }
 .badge {
@@ -157,13 +155,22 @@ h1 {
 
   <div class="stats" id="stats"></div>
 
+  <!-- Tabs -->
   <div class="tabs">
-    <div class="tab active" data-cat="apartment">Apartments</div>
-    <div class="tab" data-cat="house">Houses</div>
+    <div class="tab" data-cat="apartment">Apartments</div>
+    <div class="tab active" data-cat="house">Houses</div>
   </div>
 
-  <div class="sortbar">
-    Sort by:
+  <!-- Filters -->
+  <div class="controls">
+    <select id="cityFilter">
+      <option value="">All cities</option>
+    </select>
+
+    <select id="typeFilter">
+      <option value="">All house types</option>
+    </select>
+
     <select id="sort">
       <option value="price_asc">Price: Low → High</option>
       <option value="price_desc">Price: High → Low</option>
@@ -179,16 +186,50 @@ const DATA_URL =
   "https://raw.githubusercontent.com/linasadapt/reagent/main/results.json?ts=" + Date.now();
 
 let all = [];
-let currentCat = "apartment";
+let currentCat = "house";      // DEFAULT = houses
 let currentSort = "price_asc";
+let currentCity = "";
+let currentType = "";
 
 fetch(DATA_URL)
   .then(r => r.json())
   .then(data => {
     all = data;
+    populateFilters();
     renderStats();
     render();
   });
+
+function populateFilters() {
+  const citySelect = document.getElementById("cityFilter");
+  const typeSelect = document.getElementById("typeFilter");
+
+  const cities = [...new Set(
+    all
+      .filter(x => x.system_category === "house" && x.city)
+      .map(x => x.city)
+  )].sort();
+
+  const types = [...new Set(
+    all
+      .filter(x => x.system_category === "house" && x.type)
+      .map(x => x.type)
+  )].sort();
+
+  cities.forEach(c => {
+    const o = document.createElement("option");
+    o.value = c;
+    o.textContent = c;
+    citySelect.appendChild(o);
+  });
+
+  types.forEach(t => {
+    const o = document.createElement("option");
+    o.value = t;
+    o.textContent = t;
+    typeSelect.appendChild(o);
+  });
+}
 
 function renderStats() {
   const now = Date.now();
@@ -209,17 +250,13 @@ function renderStats() {
 }
 
 function sortItems(items) {
-  const sorted = [...items];
-
   if (currentSort === "price_asc") {
-    sorted.sort((a, b) => (a.price_eur || 0) - (b.price_eur || 0));
-  } else if (currentSort === "price_desc") {
-    sorted.sort((a, b) => (b.price_eur || 0) - (a.price_eur || 0));
-  } else if (currentSort === "newest") {
-    sorted.sort((a, b) => Date.parse(b.inserted_at) - Date.parse(a.inserted_at));
+    return items.sort((a, b) => (a.price_eur || 0) - (b.price_eur || 0));
   }
-
-  return sorted;
+  if (currentSort === "price_desc") {
+    return items.sort((a, b) => (b.price_eur || 0) - (a.price_eur || 0));
+  }
+  return items.sort((a, b) => Date.parse(b.inserted_at) - Date.parse(a.inserted_at));
 }
 
 function render() {
@@ -228,6 +265,14 @@ function render() {
   const now = Date.now();
 
   let items = all.filter(x => x.system_category === currentCat);
+
+  if (currentCity) {
+    items = items.filter(x => x.city === currentCity);
+  }
+  if (currentType) {
+    items = items.filter(x => x.type === currentType);
+  }
+
   items = sortItems(items);
 
   grid.innerHTML = items.map(x => {
@@ -257,17 +302,28 @@ function render() {
   }).join("");
 }
 
+/* Events */
 document.querySelectorAll(".tab").forEach(t => {
   t.onclick = () => {
     document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
     t.classList.add("active");
     currentCat = t.dataset.cat;
+    currentCity = "";
+    currentType = "";
     render();
   };
 });
 
 document.getElementById("sort").onchange = e => {
   currentSort = e.target.value;
+  render();
+};
+document.getElementById("cityFilter").onchange = e => {
+  currentCity = e.target.value;
+  render();
+};
+document.getElementById("typeFilter").onchange = e => {
+  currentType = e.target.value;
   render();
 };
 </script>
