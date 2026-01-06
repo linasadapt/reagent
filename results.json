@@ -3817,5 +3817,30 @@
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4542,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-573/sale-mansion-hotel-particulier-nice-8-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion (hôtel particulier)",
+    "system_category": "house",
+    "surface_m2": 222.0,
+    "rooms": 8,
+    "bedrooms": 5,
+    "price_eur": 3300000,
+    "price_text": "3,300,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4542/listing/4542_00-2026-01-06-0201.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4542/gallery_small/4542_00-2026-01-06-0201.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4542/gallery/4542_00-2026-01-06-0201.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4542/listing/4542_00-2026-01-06-0201.jpg"
+    ],
+    "inserted_at": "2026-01-06T01:17:14.297794+00:00",
+    "updated_at": null
   }
 ]
