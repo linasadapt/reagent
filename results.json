@@ -3842,5 +3842,32 @@
     ],
     "inserted_at": "2026-01-06T01:17:14.297794+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85646250,
+    "url": "https://www.michaelzingraf.com/en/magnificent-property-with-panoramic-sea-view-85646250",
+    "title": "Magnificent Property with Panoramic Sea View",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 382.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4200000,
+    "price_text": "4 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1c2e19cbd39fd2ff70d591b1149f6c93_3f45bbf018_1620-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1c2e19cbd39fd2ff70d591b1149f6c93_3f45bbf018_1620-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b9f4c3b58b36604e3f9fd4f284a3fe81_df1e904ff0_1620-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5a46dd2f86490c16b83b05527bca5b61_7121a132a1_1620-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1feefb595e32144965d51631f9142cff_7779bba18c_1620-original.jpg"
+    ],
+    "inserted_at": "2026-01-06T03:25:20.889552+00:00",
+    "updated_at": null
   }
 ]
