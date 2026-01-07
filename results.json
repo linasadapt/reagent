@@ -3869,5 +3869,30 @@
     ],
     "inserted_at": "2026-01-06T03:25:20.889552+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4544,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2710/sale-villa-theoule-sur-mer-6-rooms-5-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 260.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 3750000,
+    "price_text": "3,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4544/listing/4544_00-2026-01-07-0325.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4544/gallery_small/4544_00-2026-01-07-0325.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4544/gallery/4544_00-2026-01-07-0325.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4544/listing/4544_00-2026-01-07-0325.jpg"
+    ],
+    "inserted_at": "2026-01-07T03:25:36.283530+00:00",
+    "updated_at": null
   }
 ]
