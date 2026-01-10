@@ -3921,5 +3921,30 @@
     ],
     "inserted_at": "2026-01-09T03:26:35.068016+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4549,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2516/sale-provencal-house-mougins-8-rooms-6-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 496.0,
+    "rooms": 8,
+    "bedrooms": 6,
+    "price_eur": 4490000,
+    "price_text": "4,490,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4549/listing/4549_00-2026-01-10-0249.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4549/gallery_small/4549_00-2026-01-10-0249.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4549/gallery/4549_00-2026-01-10-0249.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4549/listing/4549_00-2026-01-10-0249.jpg"
+    ],
+    "inserted_at": "2026-01-10T03:20:16.047050+00:00",
+    "updated_at": null
   }
 ]
