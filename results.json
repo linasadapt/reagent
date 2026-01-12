@@ -3946,5 +3946,30 @@
     ],
     "inserted_at": "2026-01-10T03:20:16.047050+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4551,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-308/sale-villa-nice-10-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 386.0,
+    "rooms": 10,
+    "bedrooms": 5,
+    "price_eur": 2350000,
+    "price_text": "2,350,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4551/listing/4551_00-2026-01-12-1246.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4551/gallery_small/4551_00-2026-01-12-1246.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4551/gallery/4551_00-2026-01-12-1246.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4551/listing/4551_00-2026-01-12-1246.jpg"
+    ],
+    "inserted_at": "2026-01-12T12:36:49.072860+00:00",
+    "updated_at": null
   }
 ]
