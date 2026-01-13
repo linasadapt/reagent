@@ -1865,8 +1865,8 @@
     "surface_m2": 207.7,
     "rooms": 8,
     "bedrooms": 6,
-    "price_eur": 2600000,
-    "price_text": "2,600,000 €",
+    "price_eur": 2200000,
+    "price_text": "2,200,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/listing/3254_00-2024-06-25-1904.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/gallery_small/3254_00-2024-06-25-1904.jpg",
@@ -1874,7 +1874,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3254/listing/3254_00-2024-06-25-1904.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": null
+    "updated_at": "2026-01-13T01:14:22.250710+00:00"
   },
   {
     "source": {
