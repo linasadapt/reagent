@@ -3971,5 +3971,32 @@
     ],
     "inserted_at": "2026-01-12T12:36:49.072860+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 2631954,
+    "url": "https://www.michaelzingraf.com/en/le-cannet-europe-renovated-art-deco-villa-2631954",
+    "title": "Le Cannet Europe – Renovated Art Deco Villa",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 276.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2700000,
+    "price_text": "2 700 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/222b137421847944ee75f7e116c3560c_9666dc71e3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/222b137421847944ee75f7e116c3560c_9666dc71e3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/acfd7065d294bcab0842d73853e30cdf_47770b80db_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/024ed2f15770bc367a069b2041a43d68_34c43a2ad8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2732aaed0a2987838932375d0917921f_e143134af6_1920-original.jpg"
+    ],
+    "inserted_at": "2026-01-16T03:26:05.405216+00:00",
+    "updated_at": null
   }
 ]
