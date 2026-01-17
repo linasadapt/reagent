@@ -3133,15 +3133,15 @@
     "bedrooms": 5,
     "price_eur": 2900000,
     "price_text": "2 900 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/7180ba1d8e03f00f977de28c154d4d9e_d497547c3e_1919-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/cf1f0cdedcdef0dcbba5dfdf6d2153f5_714619d316_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/7180ba1d8e03f00f977de28c154d4d9e_d497547c3e_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/1983d64ff4ab9c41f494993ff4156981_604eedc3f0_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/e4d0c248b4a9d620412b29246fc79362_2eebdeb7ec_960-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/8d59aae4a12b24958ff79bbc7d68070a_5b78f0fe02_1919-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/cf1f0cdedcdef0dcbba5dfdf6d2153f5_714619d316_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2814e98c8ce8b73c6e77efc30d30e213_4012700d47_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/11398bb8139cd358bec31b11533119c0_c3b23cce0c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9019fbe958dcb08427625c33948bd67f_a74c595c48_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-01-17T03:18:51.406269+00:00"
   },
   {
     "source": {
@@ -3997,6 +3997,33 @@
       "https://www.michaelzingraf.com/storage/properties/2732aaed0a2987838932375d0917921f_e143134af6_1920-original.jpg"
     ],
     "inserted_at": "2026-01-16T03:26:05.405216+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85847794,
+    "url": "https://www.michaelzingraf.com/en/luxury-living-with-breathtaking-sea-views-85847794",
+    "title": "Luxury living with breathtaking sea views.",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": null,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 4200000,
+    "price_text": "4 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/8989468937dca52296db16e10fdd332d_d6e7d4c415_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/8989468937dca52296db16e10fdd332d_d6e7d4c415_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/82b66cd6515e58ce1d2858905299cfd1_e8ced43d0c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/67303db82071df889ee81396d0ceb4e3_6a9b96258f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5ec09a2d17e51a7ee6453761e1963f1d_213cdf2090_1920-original.jpg"
+    ],
+    "inserted_at": "2026-01-17T03:18:51.406269+00:00",
     "updated_at": null
   }
 ]
