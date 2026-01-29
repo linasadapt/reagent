@@ -4050,5 +4050,32 @@
     ],
     "inserted_at": "2026-01-24T01:15:53.016411+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1408,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-val260138/sale-villa-mougins-6-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 250.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2490000,
+    "price_text": "2,490,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1408/1408_00-2026-01-29-1255.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1408/1408_00-2026-01-29-1255.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/1408_02-2026-01-29-1255.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/1408_03-2026-01-29-1255.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/1408_04-2026-01-29-1255.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/1408_05-2026-01-29-1255.jpg"
+    ],
+    "inserted_at": "2026-01-29T12:44:14.857857+00:00",
+    "updated_at": null
   }
 ]
