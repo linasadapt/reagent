@@ -4329,5 +4329,32 @@
     ],
     "inserted_at": "2026-02-05T01:41:50.019756+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86226728,
+    "url": "https://www.michaelzingraf.com/en/villa-with-seaview-86226728",
+    "title": "Villa with seaview",
+    "city": "Villeneuve-Loubet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 398.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4800000,
+    "price_text": "4 800 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/900732eb0de026ac3d022dd08128efa1_8739c534c8_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/900732eb0de026ac3d022dd08128efa1_8739c534c8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/51a0cc7ac27d62d1fbf4d45236b148bd_d4c63b6f24_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b96985f3227e914364bbaf3d84ad668f_c27fcda638_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/234ada1e8a310f7eb70bc2bba805e784_815792376e_1920-original.jpg"
+    ],
+    "inserted_at": "2026-02-05T04:10:06.621754+00:00",
+    "updated_at": null
   }
 ]
