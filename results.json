@@ -4304,5 +4304,30 @@
     ],
     "inserted_at": "2026-02-04T04:07:24.062715+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4642,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca15-006/sale-villa-mougins-9-rooms-6-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 304.0,
+    "rooms": 9,
+    "bedrooms": 6,
+    "price_eur": 1890000,
+    "price_text": "1,890,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4642/listing/4642_00-2026-02-05-0133.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4642/gallery_small/4642_00-2026-02-05-0133.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4642/gallery/4642_00-2026-02-05-0133.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4642/listing/4642_00-2026-02-05-0133.jpg"
+    ],
+    "inserted_at": "2026-02-05T01:41:50.019756+00:00",
+    "updated_at": null
   }
 ]
