@@ -2111,11 +2111,11 @@
     "images": [
       "https://www.michaelzingraf.com/storage/properties/4ccc40ec115a71f4fb37a43932c36ef2_fc0fbaf677_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/d2d30e1d7fc124ab132d4add01bfc6a8_17472102d5_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/98a9e906d9dab814d312cbd21a2743d3_b8e801f911_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/e05ec796381e18a557bf04ca0f2698e7_66aaa79d95_1919-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/e05ec796381e18a557bf04ca0f2698e7_66aaa79d95_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/827b5d7ff7d50052f435f557ae821211_0195979211_1919-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-01-30T04:04:31.633047+00:00"
+    "updated_at": "2026-02-08T02:05:11.429107+00:00"
   },
   {
     "source": {
@@ -3343,21 +3343,21 @@
     "title": "Charming stone villa with panoramic sea view",
     "city": "Retenaou",
     "system_category": "house",
-    "type": "villa",
+    "type": "house",
     "surface_m2": 270.0,
     "rooms": null,
     "bedrooms": 4,
     "price_eur": 2650000,
     "price_text": "2 650 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/16f004550c5213a26ccbeb45b1f49546_1094d48678_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/bfdb1b13ad00da970d992e0741d46082_6197247148_1920-original.jpg",
     "images": [
+      "https://www.michaelzingraf.com/storage/properties/bfdb1b13ad00da970d992e0741d46082_6197247148_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/16f004550c5213a26ccbeb45b1f49546_1094d48678_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/96226ef032cd8cbeae7f6bf2ff1d4e15_0fd7ff9303_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/c2f8cfe5c417f7787e92bf3bb729a274_d086325df5_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/276f05d53b2665fd706b02ce972b1d44_6376c7b3c9_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-08T02:05:11.429107+00:00"
   },
   {
     "source": {
@@ -4380,6 +4380,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4647/listing/4647_00-2026-02-06-0225.jpg"
     ],
     "inserted_at": "2026-02-06T01:41:34.577362+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86235701,
+    "url": "https://www.michaelzingraf.com/en/exceptional-bastide-saint-francois-86235701",
+    "title": "Exceptional Bastide - Saint-François",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 260.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2875000,
+    "price_text": "2 875 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9fee6eb0aacbb8bddfd6ec0dfbc2c4da_2b90d1a51d_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/9fee6eb0aacbb8bddfd6ec0dfbc2c4da_2b90d1a51d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/913a250e0fe2bb6a668c41cd0607c862_41f8504819_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/659a7d67f45ad7f05d3d72b55a480a90_555c601286_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b15c7dc4c23e5aa03817ea25f5583049_6fec6f3255_1920-original.jpg"
+    ],
+    "inserted_at": "2026-02-08T02:05:11.429107+00:00",
     "updated_at": null
   }
 ]
