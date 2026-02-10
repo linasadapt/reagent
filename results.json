@@ -308,8 +308,8 @@
     "surface_m2": 241.0,
     "rooms": null,
     "bedrooms": 5,
-    "price_eur": 2310000,
-    "price_text": "2,310,000 €",
+    "price_eur": 2110000,
+    "price_text": "2,110,000 €",
     "image_primary": "https://riviera.savills.fr/datas/biens/images/1149/1149_00-2025-11-23-1143.jpg",
     "images": [
       "https://riviera.savills.fr/datas/biens/images/1149/1149_00-2025-11-23-1143.jpg",
@@ -319,7 +319,7 @@
       "https://riviera.savills.fr/datas/biens/images/1149/1149_05-2025-11-23-1143.jpg"
     ],
     "inserted_at": "2025-12-30T23:37:11.878888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-10T20:38:39.569296+00:00"
   },
   {
     "source": {
