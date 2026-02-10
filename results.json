@@ -3239,8 +3239,8 @@
     "surface_m2": 212.0,
     "rooms": null,
     "bedrooms": 4,
-    "price_eur": 2750000,
-    "price_text": "2 750 000 €",
+    "price_eur": 2950000,
+    "price_text": "2 950 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
@@ -3249,7 +3249,7 @@
       "https://www.michaelzingraf.com/storage/properties/8fba26c25fa07e9ff1930cded13caa4f_c6b6a25aa6_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-10T04:33:52.552863+00:00"
   },
   {
     "source": {
