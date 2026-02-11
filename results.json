@@ -4433,5 +4433,32 @@
     ],
     "inserted_at": "2026-02-10T01:58:52.325258+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1433,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-val250100/sale-villa-mougins-6-rooms-5-bedrooms-06250/",
+    "city": "Mougins\n\t\t\t\t\t- Fontmerle",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 243.68,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 1990000,
+    "price_text": "1,990,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1433/1433_00-2026-02-11-2109.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1433/1433_00-2026-02-11-2109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1433/1433_02-2026-02-11-2109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1433/1433_03-2026-02-11-2109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1433/1433_04-2026-02-11-2109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1433/1433_05-2026-02-11-2109.jpg"
+    ],
+    "inserted_at": "2026-02-11T20:33:28.171878+00:00",
+    "updated_at": null
   }
 ]
