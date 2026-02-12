@@ -4460,5 +4460,32 @@
     ],
     "inserted_at": "2026-02-11T20:33:28.171878+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86721051,
+    "url": "https://www.michaelzingraf.com/en/le-cannet-residential-panoramic-sea-view-86721051",
+    "title": "Le Cannet residential - Panoramic Sea View",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 178.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 2490000,
+    "price_text": "2 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/788848654affbab7e7ebf277a5e1403a_3bdfbd383e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/788848654affbab7e7ebf277a5e1403a_3bdfbd383e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/13a7f77519a706194478413cf3653c3c_e8e22d2d9b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0e1e4a7ca27667dd5d09b6950c55984c_f2137d499b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9fbc3cc2bec4e5f7aaf4e6595902c4fd_b2fd0933fb_1920-original.jpg"
+    ],
+    "inserted_at": "2026-02-12T04:21:01.019644+00:00",
+    "updated_at": null
   }
 ]
