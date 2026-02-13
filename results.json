@@ -2701,15 +2701,15 @@
     "bedrooms": 9,
     "price_eur": 3490000,
     "price_text": "3 490 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/6a1fdfdf0586afed70191b7a57e73151_10818ad786_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6a1fdfdf0586afed70191b7a57e73151_98de0986da_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/6a1fdfdf0586afed70191b7a57e73151_10818ad786_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/bbb9b0536a589cbeadc2d7350433080e_321f72ce01_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/abd04aacef0096c75f3f945752e335d2_9536af1ac5_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/62e88ab1cd2870fbe0b529ff9cafceb9_edeb317480_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/6a1fdfdf0586afed70191b7a57e73151_98de0986da_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bbb9b0536a589cbeadc2d7350433080e_a41341a54a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/abd04aacef0096c75f3f945752e335d2_b40134c1f0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/62e88ab1cd2870fbe0b529ff9cafceb9_82a05cabfb_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-13T04:16:33.101189+00:00"
   },
   {
     "source": {
@@ -3754,15 +3754,15 @@
     "bedrooms": 5,
     "price_eur": 2130000,
     "price_text": "2 130 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/11ef15b149dbc7e31265cde01fec4c79_21f2c9c236_1024-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/7a3d9ead12e05515ede515c3ccb57131_bfd5e618e2_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/11ef15b149dbc7e31265cde01fec4c79_21f2c9c236_1024-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/f65cc1e7932cf09d34f8e2a659c9718a_a3b652b70b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7a3d9ead12e05515ede515c3ccb57131_bfd5e618e2_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/38b9003510e33f3495e65751e9ee02a0_21626f68c2_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/c45409f932b40eaed2af7bf4b76af93e_9aa083ba57_1024-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/e2f0ebe44bf1ea8481b5beb7ced2c813_7408d0b528_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bfb4b58a739c94933e67cbebd51083e6_c3d152aa77_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-13T04:16:33.101189+00:00"
   },
   {
     "source": {
