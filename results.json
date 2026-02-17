@@ -4512,5 +4512,32 @@
     ],
     "inserted_at": "2026-02-17T01:44:19.309831+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85319803,
+    "url": "https://www.michaelzingraf.com/en/cannes-basse-californie-private-estate-exceptional-sea-view-85319803",
+    "title": "Cannes Basse Californie - Private estate - Exceptional sea view",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 289.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4990000,
+    "price_text": "4 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/16e67ff71b622c047f4ade90dedd2a87_d010b0b879_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/16e67ff71b622c047f4ade90dedd2a87_d010b0b879_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/329a4b0afc7e24feb70b591763c40081_4cb5c3678a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9136aba5e99a63f73ecfaf1ae122bc3d_3e5c33901d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/dd05f478b7f5b85cde2d0c39b303e5bb_8e43fb190e_1920-original.jpg"
+    ],
+    "inserted_at": "2026-02-17T04:14:08.404694+00:00",
+    "updated_at": null
   }
 ]
