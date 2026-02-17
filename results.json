@@ -4487,5 +4487,30 @@
     ],
     "inserted_at": "2026-02-12T04:21:01.019644+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4674,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-417/sale-mansion-hotel-particulier-nice-17-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "mansion (hôtel particulier)",
+    "system_category": "house",
+    "surface_m2": 352.0,
+    "rooms": 17,
+    "bedrooms": 5,
+    "price_eur": 3800000,
+    "price_text": "3,800,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4674/listing/4674_00-2026-02-17-0106.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4674/gallery_small/4674_00-2026-02-17-0106.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4674/gallery/4674_00-2026-02-17-0106.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4674/listing/4674_00-2026-02-17-0106.jpg"
+    ],
+    "inserted_at": "2026-02-17T01:44:19.309831+00:00",
+    "updated_at": null
   }
 ]
