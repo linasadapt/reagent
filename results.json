@@ -890,8 +890,8 @@
     "surface_m2": 151.0,
     "rooms": 6,
     "bedrooms": 3,
-    "price_eur": 1750000,
-    "price_text": "1,750,000 €",
+    "price_eur": 1600000,
+    "price_text": "1,600,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/listing/4450_00-2025-11-08-0243.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/gallery_small/4450_00-2025-11-08-0243.jpg",
@@ -899,7 +899,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4450/listing/4450_00-2025-11-08-0243.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-21T04:02:13.698696+00:00"
   },
   {
     "source": {
@@ -4538,6 +4538,33 @@
       "https://www.michaelzingraf.com/storage/properties/dd05f478b7f5b85cde2d0c39b303e5bb_8e43fb190e_1920-original.jpg"
     ],
     "inserted_at": "2026-02-17T04:14:08.404694+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86742184,
+    "url": "https://www.michaelzingraf.com/en/contemporary-villa-in-a-private-estate-86742184",
+    "title": "Contemporary villa in a private estate",
+    "city": "Opio",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 295.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3750000,
+    "price_text": "3 750 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1e9676136749e8e68bc841a1537fd618_134bf81cec_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1e9676136749e8e68bc841a1537fd618_134bf81cec_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d5fd78760fa27061ab93db97a238c617_45ca8294c9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ae9a2f254905bdb251c457278e3ec5b2_83d5827bc9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/92cdd6271b1a13e9487c368f7ce9f6f0_ad28dd50a3_1920-original.jpg"
+    ],
+    "inserted_at": "2026-02-21T04:02:16.004442+00:00",
     "updated_at": null
   }
 ]
