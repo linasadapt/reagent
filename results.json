@@ -3646,15 +3646,15 @@
     "bedrooms": 5,
     "price_eur": 2200000,
     "price_text": "2 200 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/39cfc3aff0b31c0df7cafb6942b98c39_49fe01acea_1919-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9b122153c1a9c7d4d54fc97c48f75038_c217334692_1919-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/39cfc3aff0b31c0df7cafb6942b98c39_49fe01acea_1919-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/9b122153c1a9c7d4d54fc97c48f75038_c217334692_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/39cfc3aff0b31c0df7cafb6942b98c39_49fe01acea_1919-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/e8391ea75d0eb11e232fca2d8a7e2175_fac4777b4f_1919-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/c51259ca16f9e58fc433c9581208544f_83861188c5_1919-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-24T04:13:32.701194+00:00"
   },
   {
     "source": {
@@ -4557,15 +4557,15 @@
     "bedrooms": 6,
     "price_eur": 3750000,
     "price_text": "3 750 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/1e9676136749e8e68bc841a1537fd618_134bf81cec_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/cd7dd3c581fe00cf3052b698b1571e6b_ca23cc783e_1536-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/1e9676136749e8e68bc841a1537fd618_134bf81cec_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cd7dd3c581fe00cf3052b698b1571e6b_ca23cc783e_1536-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/d5fd78760fa27061ab93db97a238c617_45ca8294c9_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/ae9a2f254905bdb251c457278e3ec5b2_83d5827bc9_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/92cdd6271b1a13e9487c368f7ce9f6f0_ad28dd50a3_1920-original.jpg"
     ],
     "inserted_at": "2026-02-21T04:02:16.004442+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-24T04:13:32.701194+00:00"
   },
   {
     "source": {
