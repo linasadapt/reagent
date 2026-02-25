@@ -2269,15 +2269,15 @@
     "bedrooms": 4,
     "price_eur": 4200000,
     "price_text": "4 200 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/46a87182a149c78b28e3e6173611adcd_716117138d_1920-original.jpg",
     "images": [
+      "https://www.michaelzingraf.com/storage/properties/46a87182a149c78b28e3e6173611adcd_716117138d_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/5fee31c9d56d50a6110406011dd17557_1af8112d26_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/4198c3ecfbc358b38a27d49be75dfde8_64372c6e51_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T04:15:27.507233+00:00"
   },
   {
     "source": {
@@ -2456,8 +2456,8 @@
     "surface_m2": 330.0,
     "rooms": null,
     "bedrooms": 5,
-    "price_eur": 3950000,
-    "price_text": "3 950 000 €",
+    "price_eur": 3200000,
+    "price_text": "3 200 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/76faf3bb58dda6e0cd7560dba652e1ff_fee3a3fd60_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/76faf3bb58dda6e0cd7560dba652e1ff_fee3a3fd60_1920-original.jpg",
@@ -2466,7 +2466,7 @@
       "https://www.michaelzingraf.com/storage/properties/9aa75f860bc0ea9dc5b59de5213c4f8a_8d699648f2_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T04:15:27.507233+00:00"
   },
   {
     "source": {
@@ -2772,8 +2772,8 @@
       "logo": "michael.svg"
     },
     "id": 83291692,
-    "url": "https://www.michaelzingraf.com/en/charming-villa-with-swimming-pool-and-splendid-sea-83291692",
-    "title": "CHARMING VILLA WITH SWIMMING POOL AND SPLENDID SEA",
+    "url": "https://www.michaelzingraf.com/en/hills-of-nice-property-with-panoramic-sea-views-83291692",
+    "title": "Hills of Nice - Property with panoramic sea views",
     "city": "Gairaut",
     "system_category": "house",
     "type": "house",
@@ -2790,7 +2790,7 @@
       "https://www.michaelzingraf.com/storage/properties/3745de46fdd68af8322209c8f02e324a_4159e544c4_1919-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T04:15:27.507233+00:00"
   },
   {
     "source": {
@@ -4285,8 +4285,8 @@
       "logo": "michael.svg"
     },
     "id": 85165581,
-    "url": "https://www.michaelzingraf.com/en/exceptional-villa-in-the-residential-area-of-fabron-85165581",
-    "title": "EXCEPTIONAL VILLA IN THE RESIDENTIAL AREA OF FABRON",
+    "url": "https://www.michaelzingraf.com/en/nice-fabron-beautiful-single-storey-property-85165581",
+    "title": "Nice - Fabron - Beautiful single-storey property",
     "city": "Nice",
     "system_category": "house",
     "type": "villa",
@@ -4303,7 +4303,7 @@
       "https://www.michaelzingraf.com/storage/properties/5598ce5621dfd9fc070e854e19c760de_1f42b471dc_1920-original.jpg"
     ],
     "inserted_at": "2026-02-04T04:07:24.062715+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T04:15:27.507233+00:00"
   },
   {
     "source": {
@@ -4590,6 +4590,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4690/listing/4690_00-2026-02-24-0146.jpg"
     ],
     "inserted_at": "2026-02-24T01:44:00.022346+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85905937,
+    "url": "https://www.michaelzingraf.com/en/opio-architect-villa-with-panoramic-view-85905937",
+    "title": "Opio -Architect Villa with panoramic view",
+    "city": "Opio",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 310.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2490000,
+    "price_text": "2 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/56fc6cac341d49a0103c9ae5f07e45d7_f05e03ba38_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/56fc6cac341d49a0103c9ae5f07e45d7_f05e03ba38_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3d4d6fd13647a1a880f8bc0e2da18b33_aba2c02a41_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/93affd8d33b37020c2beac8dcff5b66b_54bdeed537_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d388063c024184f48d0ef4c69dce1a25_e40a153029_1920-original.jpg"
+    ],
+    "inserted_at": "2026-02-25T04:15:27.507233+00:00",
     "updated_at": null
   }
 ]
