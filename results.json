@@ -96,16 +96,16 @@
     "bedrooms": 4,
     "price_eur": 3990000,
     "price_text": "3,990,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1311/1311_00-2025-11-06-1507.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1311/preview/1311_00-2026-02-25-1658.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1311/1311_00-2025-11-06-1507.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1311/1311_02-2025-11-06-1507.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1311/1311_03-2025-11-06-1507.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1311/1311_04-2025-11-06-1507.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1311/1311_05-2025-11-06-1507.jpg"
+      "https://riviera.savills.fr/datas/biens/images/1311/preview/1311_00-2026-02-25-1658.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1311/preview/1311_02-2026-02-25-1658.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1311/preview/1311_03-2026-02-25-1658.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1311/preview/1311_04-2026-02-25-1658.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1311/preview/1311_05-2026-02-25-1658.jpg"
     ],
     "inserted_at": "2025-12-30T23:37:11.878888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T17:07:47.750017+00:00"
   },
   {
     "source": {
@@ -364,16 +364,16 @@
     "bedrooms": 7,
     "price_eur": 4950000,
     "price_text": "4,950,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1119/1119_00-2025-12-16-1054.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1119/preview/1119_00-2026-02-25-1657.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1119/1119_00-2025-12-16-1054.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1119/1119_02-2025-07-21-1107.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1119/1119_03-2025-07-21-1107.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1119/1119_04-2025-07-21-1107.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1119/1119_05-2025-07-21-1107.jpg"
+      "https://riviera.savills.fr/datas/biens/images/1119/preview/1119_00-2026-02-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1119/preview/1119_02-2026-02-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1119/preview/1119_03-2026-02-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1119/preview/1119_04-2026-02-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1119/preview/1119_05-2026-02-25-1657.jpg"
     ],
     "inserted_at": "2025-12-30T23:37:11.878888+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T17:07:47.750017+00:00"
   },
   {
     "source": {
@@ -4067,16 +4067,16 @@
     "bedrooms": 4,
     "price_eur": 2490000,
     "price_text": "2,490,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1408/1408_00-2026-01-29-1255.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1408/preview/1408_00-2026-02-25-1700.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1408/1408_00-2026-01-29-1255.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1408/1408_02-2026-01-29-1255.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1408/1408_03-2026-01-29-1255.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1408/1408_04-2026-01-29-1255.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1408/1408_05-2026-01-29-1255.jpg"
+      "https://riviera.savills.fr/datas/biens/images/1408/preview/1408_00-2026-02-25-1700.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/preview/1408_02-2026-02-25-1700.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/preview/1408_03-2026-02-25-1700.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/preview/1408_04-2026-02-25-1700.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1408/preview/1408_05-2026-02-25-1700.jpg"
     ],
     "inserted_at": "2026-01-29T12:44:14.857857+00:00",
-    "updated_at": null
+    "updated_at": "2026-02-25T17:07:47.750017+00:00"
   },
   {
     "source": {
