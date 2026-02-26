@@ -4618,5 +4618,32 @@
     ],
     "inserted_at": "2026-02-25T04:15:27.507233+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1456,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-can260190/sale-villa-cannes-4-rooms-3-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 132.63,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 1970000,
+    "price_text": "1,970,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_00-2026-02-26-1500.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_00-2026-02-26-1500.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_02-2026-02-26-1500.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_03-2026-02-26-1500.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_04-2026-02-26-1500.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_05-2026-02-26-1500.jpg"
+    ],
+    "inserted_at": "2026-02-26T14:07:31.977965+00:00",
+    "updated_at": null
   }
 ]
