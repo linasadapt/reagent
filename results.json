@@ -4670,5 +4670,30 @@
     ],
     "inserted_at": "2026-02-27T01:29:00.839549+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4713,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-651/sale-bastide-nice-5-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "bastide",
+    "system_category": "house",
+    "surface_m2": 230.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 2800000,
+    "price_text": "2,800,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/listing/4713_00-2026-03-03-0232.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/gallery_small/4713_00-2026-03-03-0232.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/gallery/4713_00-2026-03-03-0232.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/listing/4713_00-2026-03-03-0232.jpg"
+    ],
+    "inserted_at": "2026-03-03T01:46:02.841526+00:00",
+    "updated_at": null
   }
 ]
