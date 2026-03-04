@@ -3484,15 +3484,15 @@
     "bedrooms": 6,
     "price_eur": 2450000,
     "price_text": "2 450 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/6028d1b9a22ad32a6dd8f507f0fc7335_2bdb2a1e7e_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/caffc236c7fc1eb4f4765993bad43bf9_158f55d774_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/6028d1b9a22ad32a6dd8f507f0fc7335_2bdb2a1e7e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/caffc236c7fc1eb4f4765993bad43bf9_158f55d774_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/1a013fdfa22da09c6e7fccb3633472fc_270e38cf41_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/480e732a43b429dbfce99f2f014a8423_ad5e7226ae_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/6521cba84dd4a4191a2a707b4c1b922d_20cf83d4be_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-04T04:04:31.364177+00:00"
   },
   {
     "source": {
@@ -4694,6 +4694,60 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/listing/4713_00-2026-03-03-0232.jpg"
     ],
     "inserted_at": "2026-03-03T01:46:02.841526+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84129358,
+    "url": "https://www.michaelzingraf.com/en/cannes-palm-beach-unique-84129358",
+    "title": "Cannes - Palm Beach - Unique",
+    "city": "Beach",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 166.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2950000,
+    "price_text": "2 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4c162694742fe16d2bf9899a5c1e0618_5872ea2f5c_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4c162694742fe16d2bf9899a5c1e0618_5872ea2f5c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a81c9ebcf68881b42b8daba33fdbc1f6_b3ec77913b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b3b39775a3abf13c7cfc312e94ff4bf5_225d22efb9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4e8e85e1526f71cc0d52105471dc0068_11576e42f6_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-04T04:04:31.364177+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86753866,
+    "url": "https://www.michaelzingraf.com/en/residential-le-cannet-elegance-and-serenity-in-a-privileged-setting-86753866",
+    "title": "Residential Le Cannet - Elegance and Serenity in a Privileged Setting",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 230.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2490000,
+    "price_text": "2 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/442920a2a1d28059a7c3511c48144068_812a7f3956_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/442920a2a1d28059a7c3511c48144068_812a7f3956_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a926fa3077753f338ca4bfd95aa9dd8c_df2c7f52ce_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1409f63ca9bc71b58f446b0884179cc8_cfc97af78b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/389fcdfdacab724e9ab71f25fb20088b_e40992b3d8_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-04T04:04:31.364177+00:00",
     "updated_at": null
   }
 ]
