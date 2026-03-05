@@ -2782,15 +2782,15 @@
     "bedrooms": 5,
     "price_eur": 3400000,
     "price_text": "3 400 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/bf04c7988df59e7650ed71b916fc079b_15c0ae2bdc_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1024e5f1700f2e6393111bad1706381c_0f89bd790a_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/bf04c7988df59e7650ed71b916fc079b_15c0ae2bdc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1024e5f1700f2e6393111bad1706381c_0f89bd790a_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/35b5f3cd2a48a94b25aa6ff9e9763384_6855bb75d1_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/a542d6348181d2bacf2dc04584761586_e852bfd9f1_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/3745de46fdd68af8322209c8f02e324a_4159e544c4_1919-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/3745de46fdd68af8322209c8f02e324a_4159e544c4_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/48a0173b8bb53625add19d7e7a9ba0de_b113b25150_1919-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-02-25T04:15:27.507233+00:00"
+    "updated_at": "2026-03-05T04:08:03.347512+00:00"
   },
   {
     "source": {
@@ -4703,8 +4703,8 @@
       "logo": "michael.svg"
     },
     "id": 84129358,
-    "url": "https://www.michaelzingraf.com/en/cannes-palm-beach-unique-84129358",
-    "title": "Cannes - Palm Beach - Unique",
+    "url": "https://www.michaelzingraf.com/en/cannes-palm-beach-exceptional-location-84129358",
+    "title": "Cannes - Palm Beach - Exceptional Location",
     "city": "Beach",
     "system_category": "house",
     "type": "house",
@@ -4721,7 +4721,7 @@
       "https://www.michaelzingraf.com/storage/properties/4e8e85e1526f71cc0d52105471dc0068_11576e42f6_1920-original.jpg"
     ],
     "inserted_at": "2026-03-04T04:04:31.364177+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-05T04:08:03.347512+00:00"
   },
   {
     "source": {
