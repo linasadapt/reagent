@@ -4473,7 +4473,7 @@
     "city": "Cannet",
     "system_category": "house",
     "type": "house",
-    "surface_m2": 178.0,
+    "surface_m2": 200.0,
     "rooms": null,
     "bedrooms": 3,
     "price_eur": 2490000,
@@ -4486,7 +4486,7 @@
       "https://www.michaelzingraf.com/storage/properties/9fbc3cc2bec4e5f7aaf4e6595902c4fd_b2fd0933fb_1920-original.jpg"
     ],
     "inserted_at": "2026-02-12T04:21:01.019644+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-07T03:55:55.976439+00:00"
   },
   {
     "source": {
