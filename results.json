@@ -4828,5 +4828,32 @@
     ],
     "inserted_at": "2026-03-07T01:26:18.297465+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1482,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-val240022/sale-villa-mougins-8-rooms-6-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 480.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2900000,
+    "price_text": "2,900,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1482/preview/1482_00-2026-03-09-1110.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1482/preview/1482_00-2026-03-09-1110.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1482/preview/1482_02-2026-03-09-1110.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1482/preview/1482_03-2026-03-09-1110.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1482/preview/1482_04-2026-03-09-1110.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1482/preview/1482_05-2026-03-09-1110.jpg"
+    ],
+    "inserted_at": "2026-03-09T10:40:18.571130+00:00",
+    "updated_at": null
   }
 ]
