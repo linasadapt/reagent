@@ -4882,5 +4882,30 @@
     ],
     "inserted_at": "2026-03-11T21:28:07.680376+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4738,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca8-668/sale-townhouse-st-jean-cap-ferrat-4-rooms-2-bedrooms-06230/",
+    "city": "Saint-Jean-Cap-Ferrat",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 123.51,
+    "rooms": 4,
+    "bedrooms": 2,
+    "price_eur": 1680000,
+    "price_text": "1,680,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4738/listing/4738_00-2026-03-13-0111.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4738/gallery_small/4738_00-2026-03-13-0111.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4738/gallery/4738_00-2026-03-13-0111.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4738/listing/4738_00-2026-03-13-0111.jpg"
+    ],
+    "inserted_at": "2026-03-13T01:42:15.772686+00:00",
+    "updated_at": null
   }
 ]
