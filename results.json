@@ -3266,8 +3266,8 @@
     "surface_m2": 248.0,
     "rooms": null,
     "bedrooms": 5,
-    "price_eur": 2750000,
-    "price_text": "2 750 000 €",
+    "price_eur": 2600000,
+    "price_text": "2 600 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
@@ -3276,7 +3276,7 @@
       "https://www.michaelzingraf.com/storage/properties/8542a5514cbff1fe925c4b0413606cd5_8da6951b12_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-13T04:07:42.229568+00:00"
   },
   {
     "source": {
@@ -4906,6 +4906,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4738/listing/4738_00-2026-03-13-0111.jpg"
     ],
     "inserted_at": "2026-03-13T01:42:15.772686+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 1790911,
+    "url": "https://www.michaelzingraf.com/en/cannes-eden-authentic-fishermans-house-panoramic-sea-view-1790911",
+    "title": "CANNES - EDEN - Authentic Fisherman’s House – Panoramic Sea View",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 150.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 2300000,
+    "price_text": "2 300 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6c75fbeaf67adb57b0477b227a122f4b_dcec0ab86c_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6c75fbeaf67adb57b0477b227a122f4b_dcec0ab86c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1b4ef64db166855b93dbbd232983cb91_cd6af77af1_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5489e0c77b58f82519ee723f02910e4c_a83ae70872_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b49d397c345a8dcdceafb8fc7927422f_cc2b0863d0_1919-original.jpg"
+    ],
+    "inserted_at": "2026-03-13T04:07:42.229568+00:00",
     "updated_at": null
   }
 ]
