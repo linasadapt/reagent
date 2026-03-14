@@ -4934,5 +4934,57 @@
     ],
     "inserted_at": "2026-03-13T04:07:42.229568+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4742,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3000/sale-villa-cannes-5-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 253.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 2990000,
+    "price_text": "2,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4742/listing/4742_00-2026-03-14-0229.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4742/gallery_small/4742_00-2026-03-14-0229.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4742/gallery/4742_00-2026-03-14-0229.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4742/listing/4742_00-2026-03-14-0229.jpg"
+    ],
+    "inserted_at": "2026-03-14T04:05:59.834426+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86816140,
+    "url": "https://www.michaelzingraf.com/en/roquebrune-cap-martin-brand-new-villa-next-to-monaco-86816140",
+    "title": "Roquebrune-Cap-Martin - Brand-new villa next to Monaco",
+    "city": "Roquebrune-Cap-Martin",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 256.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4800000,
+    "price_text": "4 800 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/171e7ce6309f786a03aea25d652aa11d_3f08707b49_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/171e7ce6309f786a03aea25d652aa11d_3f08707b49_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/55a3c1ddb08c7db050da6eeed2ea4a07_d5a58fd085_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7fa52aced73818efa5dce9d268d8a544_e97809838b_1574-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9a2f4e558f5662780d64debb2dc3a6c5_882be0f008_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-14T04:06:02.246647+00:00",
+    "updated_at": null
   }
 ]
