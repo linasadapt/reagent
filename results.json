@@ -3374,8 +3374,8 @@
     "surface_m2": 347.0,
     "rooms": null,
     "bedrooms": 6,
-    "price_eur": 2650000,
-    "price_text": "2 650 000 €",
+    "price_eur": 2390000,
+    "price_text": "2 390 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/0b154ca325d9182f89f3d5d93ba7eb62_5bd523be52_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/0b154ca325d9182f89f3d5d93ba7eb62_5bd523be52_1920-original.jpg",
@@ -3384,7 +3384,7 @@
       "https://www.michaelzingraf.com/storage/properties/7ef5c40f7bf735071c60219798ea27de_89752a7e50_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-02-11T04:26:42.706673+00:00"
+    "updated_at": "2026-03-17T04:13:12.821711+00:00"
   },
   {
     "source": {
@@ -4985,6 +4985,31 @@
       "https://www.michaelzingraf.com/storage/properties/9a2f4e558f5662780d64debb2dc3a6c5_882be0f008_1920-original.jpg"
     ],
     "inserted_at": "2026-03-14T04:06:02.246647+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4745,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2788/sale-house-cannes-5-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "house",
+    "system_category": "house",
+    "surface_m2": 232.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 2550000,
+    "price_text": "2,550,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4745/listing/4745_00-2026-03-17-0255.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4745/gallery_small/4745_00-2026-03-17-0255.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4745/gallery/4745_00-2026-03-17-0255.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4745/listing/4745_00-2026-03-17-0255.jpg"
+    ],
+    "inserted_at": "2026-03-17T04:13:10.125316+00:00",
     "updated_at": null
   }
 ]
