@@ -5063,5 +5063,82 @@
     ],
     "inserted_at": "2026-03-19T16:52:46.224987+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4759,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2848/sale-provencal-house-cannes-5-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 214.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 3960000,
+    "price_text": "3,960,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4759/listing/4759_00-2026-03-20-0253.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4759/gallery_small/4759_00-2026-03-20-0253.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4759/gallery/4759_00-2026-03-20-0253.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4759/listing/4759_00-2026-03-20-0253.jpg"
+    ],
+    "inserted_at": "2026-03-20T04:09:38.238159+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4758,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2844/sale-villa-mandelieu-la-napoule-8-rooms-7-bedrooms-06210/",
+    "city": "Mandelieu-la-Napoule",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 265.0,
+    "rooms": 8,
+    "bedrooms": 7,
+    "price_eur": 2100000,
+    "price_text": "2,100,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4758/listing/4758_00-2026-03-20-0253.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4758/gallery_small/4758_00-2026-03-20-0253.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4758/gallery/4758_00-2026-03-20-0253.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4758/listing/4758_00-2026-03-20-0253.jpg"
+    ],
+    "inserted_at": "2026-03-20T04:09:38.238159+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86812062,
+    "url": "https://www.michaelzingraf.com/en/magnificent-provencal-villa-with-wide-open-views-86812062",
+    "title": "Magnificent Provençal Villa with wide open views",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": null,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2590000,
+    "price_text": "2 590 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b86d310af7d3ec774885298bd502ada8_129da0fcbc_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b86d310af7d3ec774885298bd502ada8_129da0fcbc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e1c6a812ddd220499fc53514ff4cf36a_813666b9a0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/05f3bbaa197d8e48bee06b9373d2f2f4_7c50ec1002_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0c1923660ac0f76f521da1f83655ec74_285bd96468_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-20T04:09:41.158557+00:00",
+    "updated_at": null
   }
 ]
