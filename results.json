@@ -301,8 +301,8 @@
       "logo": "savills.svg"
     },
     "id": 1149,
-    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm250334/sale-villa-nice-7-rooms-5-bedrooms-06100/",
-    "city": "Nice\n\t\t\t\t\t- Gairaut",
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm250334/sale-villa-nice-7-rooms-5-bedrooms-06000/",
+    "city": "Nice",
     "type": "villa",
     "system_category": "house",
     "surface_m2": 241.0,
@@ -319,7 +319,7 @@
       "https://riviera.savills.fr/datas/biens/images/1149/preview/1149_05-2026-02-25-1641.jpg"
     ],
     "inserted_at": "2025-12-30T23:37:11.878888+00:00",
-    "updated_at": "2026-02-25T15:57:08.624518+00:00"
+    "updated_at": "2026-03-23T15:55:38.461224+00:00"
   },
   {
     "source": {
@@ -4635,16 +4635,16 @@
     "bedrooms": 3,
     "price_eur": 1970000,
     "price_text": "1,970,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_00-2026-02-26-1500.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_00-2026-03-23-1604.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_00-2026-02-26-1500.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_00-2026-03-23-1604.jpg",
       "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_02-2026-02-26-1500.jpg",
       "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_03-2026-02-26-1500.jpg",
       "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_04-2026-02-26-1500.jpg",
       "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_05-2026-02-26-1500.jpg"
     ],
     "inserted_at": "2026-02-26T14:07:31.977965+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-23T15:55:38.461224+00:00"
   },
   {
     "source": {
