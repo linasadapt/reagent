@@ -3185,8 +3185,8 @@
     "surface_m2": 290.0,
     "rooms": null,
     "bedrooms": 5,
-    "price_eur": 2800000,
-    "price_text": "2 800 000 €",
+    "price_eur": 2590000,
+    "price_text": "2 590 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/27d8210e1600ffc3ca8c9139638dd450_53bae3e63f_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/27d8210e1600ffc3ca8c9139638dd450_53bae3e63f_1920-original.jpg",
@@ -3195,7 +3195,7 @@
       "https://www.michaelzingraf.com/storage/properties/6e95a4a7135d3f9827e9fadd52d132e6_f9371e3bac_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-24T04:13:39.660478+00:00"
   },
   {
     "source": {
@@ -3241,15 +3241,15 @@
     "bedrooms": 4,
     "price_eur": 2950000,
     "price_text": "2 950 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/ad33b2a2b37d9cdb0c6f58df264e8c52_bca5a7197c_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ad33b2a2b37d9cdb0c6f58df264e8c52_bca5a7197c_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/b6f43104f431376140fcdfd88ef55958_e1a2cae6e8_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/e69931d20abe0c5b648fcd912876f581_fe7e73709e_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/8fba26c25fa07e9ff1930cded13caa4f_c6b6a25aa6_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/b29fbdbf2588cf18a5d8b494c10e32d0_9963c992d9_1825-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e69931d20abe0c5b648fcd912876f581_fe7e73709e_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-02-10T04:33:52.552863+00:00"
+    "updated_at": "2026-03-24T04:13:39.660478+00:00"
   },
   {
     "source": {
@@ -4977,15 +4977,15 @@
     "bedrooms": 4,
     "price_eur": 4800000,
     "price_text": "4 800 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/171e7ce6309f786a03aea25d652aa11d_3f08707b49_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/55a3c1ddb08c7db050da6eeed2ea4a07_d5a58fd085_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/171e7ce6309f786a03aea25d652aa11d_3f08707b49_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/55a3c1ddb08c7db050da6eeed2ea4a07_d5a58fd085_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/7fa52aced73818efa5dce9d268d8a544_e97809838b_1574-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/9a2f4e558f5662780d64debb2dc3a6c5_882be0f008_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/9a2f4e558f5662780d64debb2dc3a6c5_882be0f008_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/171e7ce6309f786a03aea25d652aa11d_3f08707b49_1920-original.jpg"
     ],
     "inserted_at": "2026-03-14T04:06:02.246647+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-24T04:13:39.660478+00:00"
   },
   {
     "source": {
@@ -5268,6 +5268,31 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/listing/4768_00-2026-03-24-0153.jpg"
     ],
     "inserted_at": "2026-03-24T01:42:24.808473+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4779,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1245/sale-property-villefranche-sur-mer-5-rooms-3-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "property",
+    "system_category": "house",
+    "surface_m2": 200.0,
+    "rooms": 5,
+    "bedrooms": 3,
+    "price_eur": 5000000,
+    "price_text": "5,000,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4779/listing/4779_00-2026-03-24-0256.png",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4779/gallery_small/4779_00-2026-03-24-0256.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4779/gallery/4779_00-2026-03-24-0256.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4779/listing/4779_00-2026-03-24-0256.png"
+    ],
+    "inserted_at": "2026-03-24T04:13:36.794110+00:00",
     "updated_at": null
   }
 ]
