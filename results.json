@@ -5175,9 +5175,9 @@
       "logo": "sothebys.png"
     },
     "id": 4765,
-    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-669/sale-villa-nice-5-rooms-4-bedrooms-06000/",
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-669/sale-contemporary-house-nice-5-rooms-4-bedrooms-06000/",
     "city": "Nice",
-    "type": "villa",
+    "type": "contemporary house",
     "system_category": "house",
     "surface_m2": 142.53,
     "rooms": 5,
@@ -5191,7 +5191,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4765/listing/4765_00-2026-03-21-0214.jpg"
     ],
     "inserted_at": "2026-03-21T01:27:25.267436+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-24T01:42:24.808473+00:00"
   },
   {
     "source": {
@@ -5218,6 +5218,56 @@
       "https://www.michaelzingraf.com/storage/properties/68e7ca6399aec23a15499ba0130d7f27_2991919cd5_1920-original.jpg"
     ],
     "inserted_at": "2026-03-21T04:00:54.462713+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4773,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2682/sale-villa-cannes-7-rooms-5-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 211.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 4990000,
+    "price_text": "4,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4773/listing/4773_00-2026-03-24-0202.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4773/gallery_small/4773_00-2026-03-24-0202.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4773/gallery/4773_00-2026-03-24-0202.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4773/listing/4773_00-2026-03-24-0202.jpg"
+    ],
+    "inserted_at": "2026-03-24T01:42:24.808473+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4768,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca15-100/sale-villa-mougins-5-rooms-3-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 172.0,
+    "rooms": 5,
+    "bedrooms": 3,
+    "price_eur": 2200000,
+    "price_text": "2,200,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/listing/4768_00-2026-03-24-0153.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/gallery_small/4768_00-2026-03-24-0153.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/gallery/4768_00-2026-03-24-0153.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/listing/4768_00-2026-03-24-0153.jpg"
+    ],
+    "inserted_at": "2026-03-24T01:42:24.808473+00:00",
     "updated_at": null
   }
 ]
