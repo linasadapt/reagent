@@ -1142,14 +1142,14 @@
     "bedrooms": 5,
     "price_eur": 2750000,
     "price_text": "2,750,000 €",
-    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/listing/4420_00-2025-10-25-0201.jpg",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/listing/4420_00-2026-03-25-0216.jpg",
     "images": [
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/gallery_small/4420_00-2025-10-25-0201.jpg",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/gallery/4420_00-2025-10-25-0201.jpg",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/listing/4420_00-2025-10-25-0201.jpg"
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/gallery_small/4420_00-2026-03-25-0216.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/gallery/4420_00-2026-03-25-0216.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4420/listing/4420_00-2026-03-25-0216.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-03-05T01:43:06.424350+00:00"
+    "updated_at": "2026-03-25T01:48:02.659931+00:00"
   },
   {
     "source": {
@@ -5293,6 +5293,31 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4779/listing/4779_00-2026-03-24-0256.png"
     ],
     "inserted_at": "2026-03-24T04:13:36.794110+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4783,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-674/sale-construction-to-be-renovated-nice-8-rooms-06000/",
+    "city": "Nice",
+    "type": "construction to be renovated",
+    "system_category": "house",
+    "surface_m2": 530.0,
+    "rooms": 8,
+    "bedrooms": null,
+    "price_eur": 2750000,
+    "price_text": "2,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4783/listing/4783_00-2026-03-25-0143.png",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4783/gallery_small/4783_00-2026-03-25-0143.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4783/gallery/4783_00-2026-03-25-0143.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4783/listing/4783_00-2026-03-25-0143.png"
+    ],
+    "inserted_at": "2026-03-25T01:48:02.659931+00:00",
     "updated_at": null
   }
 ]
