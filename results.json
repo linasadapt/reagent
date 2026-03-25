@@ -5319,5 +5319,32 @@
     ],
     "inserted_at": "2026-03-25T01:48:02.659931+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86790858,
+    "url": "https://www.michaelzingraf.com/en/nice-cremat-contemporary-property-with-panoramic-views-86790858",
+    "title": "Nice - Crémat - Contemporary property with panoramic views",
+    "city": "Crémat",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 330.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 2690000,
+    "price_text": "2 690 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/7b901dafdeb907afe11d47887bd8f850_0fee4b10aa_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/7b901dafdeb907afe11d47887bd8f850_0fee4b10aa_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c2a1c3ebab5b1cbafebb80a9d21d30ab_c803c9b848_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2989074fc7202e1136116f5938170a7d_752a29c411_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/45308d586c17edce1c9f2359cb34fb36_2894085960_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-25T11:37:51.304340+00:00",
+    "updated_at": null
   }
 ]
