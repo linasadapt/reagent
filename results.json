@@ -5346,5 +5346,32 @@
     ],
     "inserted_at": "2026-03-25T11:37:51.304340+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1518,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-can260199/sale-villa-mandelieu-la-napoule-5-rooms-4-bedrooms-06210/",
+    "city": "Mandelieu-la-Napoule",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 242.14,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3200000,
+    "price_text": "3,200,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1518/preview/1518_00-2026-03-25-1657.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1518/preview/1518_00-2026-03-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1518/preview/1518_02-2026-03-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1518/preview/1518_03-2026-03-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1518/preview/1518_04-2026-03-25-1657.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1518/preview/1518_05-2026-03-25-1657.jpg"
+    ],
+    "inserted_at": "2026-03-25T16:05:03.452642+00:00",
+    "updated_at": null
   }
 ]
