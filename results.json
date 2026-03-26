@@ -5373,5 +5373,32 @@
     ],
     "inserted_at": "2026-03-25T16:05:03.452642+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1520,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm240196/sale-villa-nice-10-rooms-8-bedrooms-06100/",
+    "city": "Nice\n\t\t\t\t\t- Rimiez",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 386.0,
+    "rooms": null,
+    "bedrooms": 8,
+    "price_eur": 2350000,
+    "price_text": "2,350,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1520/preview/1520_00-2026-03-26-1938.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1520/preview/1520_00-2026-03-26-1938.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1520/preview/1520_02-2026-03-26-1939.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1520/preview/1520_03-2026-03-26-1939.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1520/preview/1520_04-2026-03-26-1939.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1520/preview/1520_05-2026-03-26-1939.jpg"
+    ],
+    "inserted_at": "2026-03-26T19:06:11.384070+00:00",
+    "updated_at": null
   }
 ]
