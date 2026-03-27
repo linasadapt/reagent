@@ -5400,5 +5400,32 @@
     ],
     "inserted_at": "2026-03-26T19:06:11.384070+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85866650,
+    "url": "https://www.michaelzingraf.com/en/cannes-eden-authentic-provencal-villa-with-panoramic-sea-view-85866650",
+    "title": "Cannes-Eden – Authentic Provençal Villa with Panoramic Sea View",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 435.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3490000,
+    "price_text": "3 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/aa1a268b036f6657116a6196570c6908_d9e94fa8a4_1751-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/aa1a268b036f6657116a6196570c6908_d9e94fa8a4_1751-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bfc6ff0dd161d829bc15d36443b0f365_7dc6590ca9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c1d3b5d8e16da6c58d8f5610bc987d9c_16097f512a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c165a7d338fbeb8f32c79e4223424723_41fbad0201_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-27T04:30:35.159966+00:00",
+    "updated_at": null
   }
 ]
