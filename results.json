@@ -5427,5 +5427,32 @@
     ],
     "inserted_at": "2026-03-27T04:30:35.159966+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1525,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm260431/sale-villa-cannes-7-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 221.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2500000,
+    "price_text": "2,500,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1525/preview/1525_00-2026-03-30-0836.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1525/preview/1525_00-2026-03-30-0836.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1525/preview/1525_02-2026-03-30-0837.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1525/preview/1525_03-2026-03-30-0837.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1525/preview/1525_04-2026-03-30-0837.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1525/preview/1525_05-2026-03-30-0837.jpg"
+    ],
+    "inserted_at": "2026-03-30T08:19:36.324021+00:00",
+    "updated_at": null
   }
 ]
