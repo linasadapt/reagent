@@ -1065,8 +1065,8 @@
     "surface_m2": 390.0,
     "rooms": 12,
     "bedrooms": 7,
-    "price_eur": 3350000,
-    "price_text": "3,350,000 €",
+    "price_eur": 3250000,
+    "price_text": "3,250,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2025-12-03-0225.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery_small/4432_00-2025-12-03-0225.jpg",
@@ -1074,7 +1074,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2025-12-03-0225.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-31T04:33:31.732453+00:00"
   },
   {
     "source": {
@@ -1690,8 +1690,8 @@
     "surface_m2": 231.0,
     "rooms": 6,
     "bedrooms": 4,
-    "price_eur": 2650000,
-    "price_text": "2,650,000 €",
+    "price_eur": 2495000,
+    "price_text": "2,495,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2025-04-09-0321.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery_small/3931_00-2025-04-09-0321.jpg",
@@ -1699,7 +1699,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2025-04-09-0321.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-31T04:33:31.732453+00:00"
   },
   {
     "source": {
