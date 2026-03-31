@@ -5478,5 +5478,30 @@
     ],
     "inserted_at": "2026-03-31T01:55:38.597168+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4802,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca15-312/sale-contemporary-house-mougins-6-rooms-4-bedrooms-06250/",
+    "city": "Mougins",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 500.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4802/listing/4802_00-2026-04-01-0120.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4802/gallery_small/4802_00-2026-04-01-0120.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4802/gallery/4802_00-2026-04-01-0120.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4802/listing/4802_00-2026-04-01-0120.jpg"
+    ],
+    "inserted_at": "2026-03-31T23:29:20.087004+00:00",
+    "updated_at": null
   }
 ]
