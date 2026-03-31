@@ -5210,15 +5210,15 @@
     "bedrooms": 4,
     "price_eur": 3960000,
     "price_text": "3 960 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/f60dfc412fbe7b0a1f736d0a136b4e3c_932a2b6524_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/13c96612b36ac47bc6e97e0da153266b_2e9e39117e_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/f60dfc412fbe7b0a1f736d0a136b4e3c_932a2b6524_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/13c96612b36ac47bc6e97e0da153266b_2e9e39117e_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/f069a37a20c474e7968fd0fa202c06d1_e56b644e7c_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/68e7ca6399aec23a15499ba0130d7f27_2991919cd5_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/77a3d7d9fbde71a2767bfdbcc47a8771_412bf52ea7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/68e7ca6399aec23a15499ba0130d7f27_2991919cd5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f069a37a20c474e7968fd0fa202c06d1_e56b644e7c_1920-original.jpg"
     ],
     "inserted_at": "2026-03-21T04:00:54.462713+00:00",
-    "updated_at": null
+    "updated_at": "2026-03-31T01:55:38.597168+00:00"
   },
   {
     "source": {
@@ -5454,5 +5454,29 @@
     ],
     "inserted_at": "2026-03-30T08:19:36.324021+00:00",
     "updated_at": "2026-03-30T14:58:53.938160+00:00"
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86708907,
+    "url": "https://www.michaelzingraf.com/en/building-lot-le-cannet-hills-panoramic-ocean-view-86708907",
+    "title": "Building lot - Le Cannet Hills - Panoramic ocean view",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": null,
+    "rooms": null,
+    "bedrooms": null,
+    "price_eur": 2490000,
+    "price_text": "2 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/67f0cda0cfbbc51d3e84036aa7d73ae2_472d97e666_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/67f0cda0cfbbc51d3e84036aa7d73ae2_472d97e666_1920-original.jpg"
+    ],
+    "inserted_at": "2026-03-31T01:55:38.597168+00:00",
+    "updated_at": null
   }
 ]
