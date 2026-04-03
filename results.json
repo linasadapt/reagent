@@ -737,7 +737,7 @@
     "city": "Èze",
     "type": "contemporary house",
     "system_category": "house",
-    "surface_m2": 190.0,
+    "surface_m2": 170.0,
     "rooms": 5,
     "bedrooms": 4,
     "price_eur": 3900000,
@@ -749,7 +749,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-03T01:53:33.473876+00:00"
   },
   {
     "source": {
@@ -4685,8 +4685,8 @@
     "surface_m2": 230.0,
     "rooms": 5,
     "bedrooms": 4,
-    "price_eur": 2800000,
-    "price_text": "2,800,000 €",
+    "price_eur": 2490000,
+    "price_text": "2,490,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/listing/4713_00-2026-03-03-0232.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/gallery_small/4713_00-2026-03-03-0232.jpg",
@@ -4694,7 +4694,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4713/listing/4713_00-2026-03-03-0232.jpg"
     ],
     "inserted_at": "2026-03-03T01:46:02.841526+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-03T01:53:33.473876+00:00"
   },
   {
     "source": {
@@ -5502,6 +5502,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4802/listing/4802_00-2026-04-01-0120.jpg"
     ],
     "inserted_at": "2026-03-31T23:29:20.087004+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 6630932,
+    "url": "https://www.michaelzingraf.com/en/contemporary-villa-under-construction-6630932",
+    "title": "Contemporary villa under construction",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 423.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3500000,
+    "price_text": "3 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/393eb77b338bf0ebd771d49599aa305a_97d0f34410_1024-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/393eb77b338bf0ebd771d49599aa305a_97d0f34410_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/741926bb28528ba1a6f540084c431dd3_a0ea4206f0_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/27243038d1ad668553d31590603301d4_18ad120135_1280-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/de6be6d914fa3b7f5dc099769a2e17ca_b01fc08c4d_1280-original.jpg"
+    ],
+    "inserted_at": "2026-04-03T01:53:35.784413+00:00",
     "updated_at": null
   }
 ]
