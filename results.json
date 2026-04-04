@@ -3349,15 +3349,15 @@
     "bedrooms": 4,
     "price_eur": 2650000,
     "price_text": "2 650 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/bfdb1b13ad00da970d992e0741d46082_6197247148_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e0f22ac87ce65bc094dcd39bda99e9de_0dc17439b8_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/bfdb1b13ad00da970d992e0741d46082_6197247148_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/16f004550c5213a26ccbeb45b1f49546_1094d48678_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/96226ef032cd8cbeae7f6bf2ff1d4e15_0fd7ff9303_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/276f05d53b2665fd706b02ce972b1d44_6376c7b3c9_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/e0f22ac87ce65bc094dcd39bda99e9de_0dc17439b8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/12365c0e4c5bae3fff6ec4c23280bafa_0e9c4d5ca0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/dc9545dc289f6963d5355cb837a1fe02_fcbc51f3f9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/87d9d2b5982612c1bd5f8ee5cdd352ac_808033ad78_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-02-08T02:05:11.429107+00:00"
+    "updated_at": "2026-04-04T01:46:58.659264+00:00"
   },
   {
     "source": {
@@ -4389,11 +4389,11 @@
       "logo": "michael.svg"
     },
     "id": 86235701,
-    "url": "https://www.michaelzingraf.com/en/exceptional-bastide-saint-francois-86235701",
-    "title": "Exceptional Bastide - Saint-François",
+    "url": "https://www.michaelzingraf.com/en/exceptional-bastide-86235701",
+    "title": "Exceptional Bastide",
     "city": "Grasse",
     "system_category": "house",
-    "type": "house",
+    "type": "villa",
     "surface_m2": 260.0,
     "rooms": null,
     "bedrooms": 6,
@@ -4407,7 +4407,7 @@
       "https://www.michaelzingraf.com/storage/properties/b15c7dc4c23e5aa03817ea25f5583049_6fec6f3255_1920-original.jpg"
     ],
     "inserted_at": "2026-02-08T02:05:11.429107+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-04T01:46:58.659264+00:00"
   },
   {
     "source": {
@@ -5126,7 +5126,7 @@
     "city": "Mougins",
     "system_category": "house",
     "type": "villa",
-    "surface_m2": null,
+    "surface_m2": 230.0,
     "rooms": null,
     "bedrooms": 5,
     "price_eur": 2590000,
@@ -5139,7 +5139,7 @@
       "https://www.michaelzingraf.com/storage/properties/0c1923660ac0f76f521da1f83655ec74_285bd96468_1920-original.jpg"
     ],
     "inserted_at": "2026-03-20T04:09:41.158557+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-04T01:46:58.659264+00:00"
   },
   {
     "source": {
@@ -5521,15 +5521,15 @@
     "bedrooms": 4,
     "price_eur": 3500000,
     "price_text": "3 500 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/393eb77b338bf0ebd771d49599aa305a_97d0f34410_1024-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/393eb77b338bf0ebd771d49599aa305a_9d6501b85b_1024-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/393eb77b338bf0ebd771d49599aa305a_97d0f34410_1024-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/741926bb28528ba1a6f540084c431dd3_a0ea4206f0_1024-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/27243038d1ad668553d31590603301d4_18ad120135_1280-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/de6be6d914fa3b7f5dc099769a2e17ca_b01fc08c4d_1280-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/393eb77b338bf0ebd771d49599aa305a_9d6501b85b_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/741926bb28528ba1a6f540084c431dd3_0a99d3193e_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/27243038d1ad668553d31590603301d4_2d4a5a6770_1280-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/de6be6d914fa3b7f5dc099769a2e17ca_18f859227c_1280-original.jpg"
     ],
     "inserted_at": "2026-04-03T01:53:35.784413+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-04T01:46:58.659264+00:00"
   },
   {
     "source": {
@@ -5581,6 +5581,31 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4689/listing/4689_00-2026-04-04-0108.jpg"
     ],
     "inserted_at": "2026-04-03T23:28:18.334460+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4816,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2948/sale-contemporary-house-cannes-8-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 294.0,
+    "rooms": 8,
+    "bedrooms": 6,
+    "price_eur": 4400000,
+    "price_text": "4,400,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4816/listing/4816_00-2026-04-04-0301.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4816/gallery_small/4816_00-2026-04-04-0301.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4816/gallery/4816_00-2026-04-04-0301.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4816/listing/4816_00-2026-04-04-0301.jpg"
+    ],
+    "inserted_at": "2026-04-04T01:46:55.797423+00:00",
     "updated_at": null
   }
 ]
