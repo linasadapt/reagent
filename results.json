@@ -5607,5 +5607,32 @@
     ],
     "inserted_at": "2026-04-04T01:46:55.797423+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1553,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm250377/sale-villa-eze-8-rooms-6-bedrooms-06360/",
+    "city": "Èze",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 207.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2200000,
+    "price_text": "2,200,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_00-2026-04-07-1045.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_00-2026-04-07-1045.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_02-2026-04-07-1046.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_03-2026-04-07-1046.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_04-2026-04-07-1046.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_05-2026-04-07-1046.jpg"
+    ],
+    "inserted_at": "2026-04-07T10:04:01.922452+00:00",
+    "updated_at": null
   }
 ]
