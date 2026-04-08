@@ -1067,14 +1067,12 @@
     "bedrooms": 7,
     "price_eur": 3250000,
     "price_text": "3,250,000 €",
-    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2025-12-03-0225.jpg",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/theme/_siteSIR2021.sircotazu/images/bien_default.jpg",
     "images": [
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery_small/4432_00-2025-12-03-0225.jpg",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery/4432_00-2025-12-03-0225.jpg",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2025-12-03-0225.jpg"
+      "https://www.cotedazur-sothebysrealty.com/theme/_siteSIR2021.sircotazu/images/bien_default.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-03-31T04:33:31.732453+00:00"
+    "updated_at": "2026-04-08T01:57:10.976779+00:00"
   },
   {
     "source": {
