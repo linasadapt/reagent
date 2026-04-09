@@ -1067,12 +1067,14 @@
     "bedrooms": 7,
     "price_eur": 3250000,
     "price_text": "3,250,000 €",
-    "image_primary": "https://www.cotedazur-sothebysrealty.com/theme/_siteSIR2021.sircotazu/images/bien_default.jpg",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2026-04-09-0257.jpg",
     "images": [
-      "https://www.cotedazur-sothebysrealty.com/theme/_siteSIR2021.sircotazu/images/bien_default.jpg"
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery_small/4432_00-2026-04-09-0257.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery/4432_00-2026-04-09-0257.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2026-04-09-0257.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-04-08T01:57:10.976779+00:00"
+    "updated_at": "2026-04-09T01:49:26.882762+00:00"
   },
   {
     "source": {
@@ -5631,6 +5633,56 @@
       "https://riviera.savills.fr/datas/biens/images/1553/preview/1553_05-2026-04-07-1046.jpg"
     ],
     "inserted_at": "2026-04-07T10:04:01.922452+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4827,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2947/sale-villa-mandelieu-la-napoule-5-rooms-3-bedrooms-06210/",
+    "city": "Mandelieu-la-Napoule",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 240.0,
+    "rooms": 5,
+    "bedrooms": 3,
+    "price_eur": 2250000,
+    "price_text": "2,250,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4827/listing/4827_00-2026-04-09-0258.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4827/gallery_small/4827_00-2026-04-09-0258.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4827/gallery/4827_00-2026-04-09-0258.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4827/listing/4827_00-2026-04-09-0258.jpg"
+    ],
+    "inserted_at": "2026-04-09T01:49:26.882762+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4826,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3037/sale-villa-cannes-7-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 200.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 1590000,
+    "price_text": "1,590,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4826/listing/4826_00-2026-04-09-0258.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4826/gallery_small/4826_00-2026-04-09-0258.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4826/gallery/4826_00-2026-04-09-0258.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4826/listing/4826_00-2026-04-09-0258.jpg"
+    ],
+    "inserted_at": "2026-04-09T01:49:26.882762+00:00",
     "updated_at": null
   }
 ]
