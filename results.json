@@ -5684,5 +5684,32 @@
     ],
     "inserted_at": "2026-04-09T01:49:26.882762+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1564,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm240212/sale-villa-villefranche-sur-mer-4-rooms-3-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 107.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 2280000,
+    "price_text": "2,280,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1564/preview/1564_00-2026-04-09-1134.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1564/preview/1564_00-2026-04-09-1134.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1564/preview/1564_02-2026-04-09-1134.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1564/preview/1564_03-2026-04-09-1134.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1564/preview/1564_04-2026-04-09-1134.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1564/preview/1564_05-2026-04-09-1134.jpg"
+    ],
+    "inserted_at": "2026-04-09T10:07:50.893484+00:00",
+    "updated_at": null
   }
 ]
