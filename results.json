@@ -4627,7 +4627,7 @@
     },
     "id": 1456,
     "url": "https://riviera.savills.fr/en/our-properties/ref-can260190/sale-villa-cannes-4-rooms-3-bedrooms-06400/",
-    "city": "Cannes",
+    "city": "Cannes\n\t\t\t\t\t- Californie",
     "type": "villa",
     "system_category": "house",
     "surface_m2": 132.63,
@@ -4644,7 +4644,7 @@
       "https://riviera.savills.fr/datas/biens/images/1456/preview/1456_05-2026-02-26-1500.jpg"
     ],
     "inserted_at": "2026-02-26T14:07:31.977965+00:00",
-    "updated_at": "2026-03-30T11:52:21.432158+00:00"
+    "updated_at": "2026-04-10T15:44:53.572068+00:00"
   },
   {
     "source": {
