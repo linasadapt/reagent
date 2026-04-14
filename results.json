@@ -5736,5 +5736,86 @@
     ],
     "inserted_at": "2026-04-09T23:33:52.757155+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84304810,
+    "url": "https://www.michaelzingraf.com/en/mougins-sumptuous-villa-with-panoramic-sea-view-84304810",
+    "title": "Mougins - Sumptuous villa with panoramic sea view",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 438.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4990000,
+    "price_text": "4 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b6128726086770d308b55158dbf87d8a_b09bd57ade_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b6128726086770d308b55158dbf87d8a_b09bd57ade_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3303a24dcf867725ec1f57099fd8f4a7_c682d2577f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4a2a214ea28734a48059e3042def9183_ba08aa663e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fb9d43123a8571ac542c5931503051e7_1d00bd8777_1920-original.jpg"
+    ],
+    "inserted_at": "2026-04-14T02:02:51.049637+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86822015,
+    "url": "https://www.michaelzingraf.com/en/nice-haut-gairaut-charming-country-house-with-exceptional-land-and-sea-views-86822015",
+    "title": "Nice – Haut Gairaut – Charming country house with exceptional land and sea views",
+    "city": "Gairaut",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 242.0,
+    "rooms": null,
+    "bedrooms": 8,
+    "price_eur": 4500000,
+    "price_text": "4 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1e812c688defca5abee2d75d5b2c30bc_80907e8154_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1e812c688defca5abee2d75d5b2c30bc_80907e8154_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6feb8e407a0e5e56c5fefe1f7d0f2c5d_4ff8e02808_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4b40a619d2102f8a0bc401a0a4c7b245_67fcb9de28_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/034de4b10fd15f15c4acf2a224cef018_99c3de6416_1920-original.jpg"
+    ],
+    "inserted_at": "2026-04-14T02:02:51.049637+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 82587865,
+    "url": "https://www.michaelzingraf.com/en/secured-domain-single-storey-villa-with-panoramic-views-82587865",
+    "title": "Secured domain, single-storey villa with panoramic views",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 244.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4475000,
+    "price_text": "4 475 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4d62c98542364736064fa13523637ee1_c19bf9b00f_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4d62c98542364736064fa13523637ee1_c19bf9b00f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/22fb5e5da57ea20be9570205f0c425fb_40e0230079_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e3a49081ba0e4459088047c882550c60_a207b202ec_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d79c9cd702ad93deae117d2aafdf6dc2_4a71e11606_1920-original.jpg"
+    ],
+    "inserted_at": "2026-04-14T02:02:51.049637+00:00",
+    "updated_at": null
   }
 ]
