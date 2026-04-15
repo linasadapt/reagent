@@ -5817,5 +5817,30 @@
     ],
     "inserted_at": "2026-04-14T02:02:51.049637+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4844,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2520/sale-townhouse-cannes-7-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 350.0,
+    "rooms": 7,
+    "bedrooms": 6,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4844/listing/4844_00-2026-04-15-0213.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4844/gallery_small/4844_00-2026-04-15-0213.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4844/gallery/4844_00-2026-04-15-0213.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4844/listing/4844_00-2026-04-15-0213.jpg"
+    ],
+    "inserted_at": "2026-04-15T01:59:54.330808+00:00",
+    "updated_at": null
   }
 ]
