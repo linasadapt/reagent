@@ -5842,5 +5842,57 @@
     ],
     "inserted_at": "2026-04-15T01:59:54.330808+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4819,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-679/sale-villa-nice-7-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 162.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 1599000,
+    "price_text": "1,599,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4819/listing/4819_00-2026-04-08-0148.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4819/gallery_small/4819_00-2026-04-08-0148.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4819/gallery/4819_00-2026-04-08-0148.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4819/listing/4819_00-2026-04-08-0148.jpg"
+    ],
+    "inserted_at": "2026-04-16T02:07:46.616259+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86895934,
+    "url": "https://www.michaelzingraf.com/en/gated-estate-and-panoramical-sea-view-86895934",
+    "title": "Gated estate and panoramical sea view",
+    "city": "Cagnes-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 300.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3490000,
+    "price_text": "3 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/c6bbafea7a8ac6ff05af81c673311bfe_1a98e95e90_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/c6bbafea7a8ac6ff05af81c673311bfe_1a98e95e90_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/331123bc18d818a94fe6c1a5a312846a_76e0369d6e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1e5d0e88cf2e9655c824b4ce8b95fa44_18a5a9b04d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9509537e910e12a84c6cccafe1f20772_50fda60d50_1920-original.jpg"
+    ],
+    "inserted_at": "2026-04-16T02:07:49.149670+00:00",
+    "updated_at": null
   }
 ]
