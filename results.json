@@ -2188,15 +2188,15 @@
     "bedrooms": 7,
     "price_eur": 4290000,
     "price_text": "4 290 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/5734770714e35543a2d978c264987ab5_215af502af_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/438a5d6eb579a8f4fd7cde25a7c4b5cb_e99492a9f1_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/5734770714e35543a2d978c264987ab5_215af502af_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/1441294a5462ba7b5494414d3d592f64_85353b691b_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/438a5d6eb579a8f4fd7cde25a7c4b5cb_e99492a9f1_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/96e2d7fe724dcb15c719223cbdd27121_8398aed931_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/1441294a5462ba7b5494414d3d592f64_85353b691b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fc2e89a521d5326a1516cc96331e2f69_1c80ff48c2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2a6b24891e96431d1bae828dddc8c1df_2f05093db3_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-22T02:02:50.702294+00:00"
   },
   {
     "source": {
@@ -5757,12 +5757,12 @@
     "image_primary": "https://www.michaelzingraf.com/storage/properties/b6128726086770d308b55158dbf87d8a_b09bd57ade_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/b6128726086770d308b55158dbf87d8a_b09bd57ade_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/3303a24dcf867725ec1f57099fd8f4a7_c682d2577f_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/4a2a214ea28734a48059e3042def9183_ba08aa663e_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/fb9d43123a8571ac542c5931503051e7_1d00bd8777_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/064d1318c8018d4a9b34e690daa7cd93_aa559229e4_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1e54e5892217a50560de3ff227f9abde_5db5433f4d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3303a24dcf867725ec1f57099fd8f4a7_c682d2577f_1920-original.jpg"
     ],
     "inserted_at": "2026-04-14T02:02:51.049637+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-22T02:02:50.702294+00:00"
   },
   {
     "source": {
@@ -5920,6 +5920,33 @@
       "https://riviera.savills.fr/datas/biens/images/1576/preview/1576_05-2026-04-20-1716.jpg"
     ],
     "inserted_at": "2026-04-20T16:59:32.914445+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85972832,
+    "url": "https://www.michaelzingraf.com/en/mougins-charming-villa-85972832",
+    "title": "Mougins charming villa",
+    "city": "Saint-Barthélémy",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 194.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2550000,
+    "price_text": "2 550 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/c84f63a77284e7625c5331742b1b261f_660ca2fcad_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/c84f63a77284e7625c5331742b1b261f_660ca2fcad_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7baa5110394867ddf4c462e57dd4aeb5_18465341bf_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fb13afa52fac9fe17191fe8e79530d3b_29563cb0a7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4b60b4268490572a37e2bf8bd2244717_6bdc9be1f5_1920-original.jpg"
+    ],
+    "inserted_at": "2026-04-22T02:02:50.702294+00:00",
     "updated_at": null
   }
 ]
