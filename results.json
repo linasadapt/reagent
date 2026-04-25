@@ -5973,5 +5973,57 @@
     ],
     "inserted_at": "2026-04-23T02:06:44.713320+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4882,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2115/sale-provencal-house-theoule-sur-mer-4-rooms-3-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 110.0,
+    "rooms": 4,
+    "bedrooms": 3,
+    "price_eur": 1599000,
+    "price_text": "1,599,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4882/listing/4882_00-2026-04-25-0303.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4882/gallery_small/4882_00-2026-04-25-0303.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4882/gallery/4882_00-2026-04-25-0303.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4882/listing/4882_00-2026-04-25-0303.jpg"
+    ],
+    "inserted_at": "2026-04-25T01:57:10.735308+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86463338,
+    "url": "https://www.michaelzingraf.com/en/sole-agent-near-cannes-and-antibes-panoramic-sea-view-86463338",
+    "title": "SOLE AGENT - NEAR CANNES AND ANTIBES - PANORAMIC SEA VIEW",
+    "city": "Vallauris",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 207.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2490000,
+    "price_text": "2 490 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/fe8fd62f8d3edb39b16c6614b52348cb_529a27450a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/fe8fd62f8d3edb39b16c6614b52348cb_529a27450a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b93f19b33a339334a556e712c8a48748_a0c7b62bd2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c1237f09154c01f8546c3d7bdf1be18e_516a7eea7d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9132c0a7854ec10a2e3b1bd9f1504ada_541da98d8d_1920-original.jpg"
+    ],
+    "inserted_at": "2026-04-25T01:57:13.143257+00:00",
+    "updated_at": null
   }
 ]
