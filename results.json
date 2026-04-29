@@ -6077,5 +6077,32 @@
     ],
     "inserted_at": "2026-04-29T02:29:13.436373+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1593,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-can260195/sale-house-cannes-9-rooms-5-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "house",
+    "system_category": "house",
+    "surface_m2": 200.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2400000,
+    "price_text": "2,400,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_00-2026-04-29-1444.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_00-2026-04-29-1444.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_02-2026-04-29-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_03-2026-04-29-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_04-2026-04-29-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_05-2026-04-29-1445.jpg"
+    ],
+    "inserted_at": "2026-04-29T15:07:37.293882+00:00",
+    "updated_at": null
   }
 ]
