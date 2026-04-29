@@ -765,8 +765,8 @@
     "surface_m2": 320.0,
     "rooms": 6,
     "bedrooms": 4,
-    "price_eur": 1690000,
-    "price_text": "1,690,000 €",
+    "price_eur": 1550000,
+    "price_text": "1,550,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/listing/4537_00-2025-12-23-0139.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/gallery_small/4537_00-2025-12-23-0139.jpg",
@@ -774,7 +774,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4537/listing/4537_00-2025-12-23-0139.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": null
+    "updated_at": "2026-04-29T02:29:13.436373+00:00"
   },
   {
     "source": {
@@ -5131,15 +5131,15 @@
     "bedrooms": 5,
     "price_eur": 2590000,
     "price_text": "2 590 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/b86d310af7d3ec774885298bd502ada8_129da0fcbc_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/468fb190a13da369fcac8deebfe3899e_77b0741090_1407-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/b86d310af7d3ec774885298bd502ada8_129da0fcbc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/468fb190a13da369fcac8deebfe3899e_77b0741090_1407-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/e1c6a812ddd220499fc53514ff4cf36a_813666b9a0_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/05f3bbaa197d8e48bee06b9373d2f2f4_7c50ec1002_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/0c1923660ac0f76f521da1f83655ec74_285bd96468_1920-original.jpg"
     ],
     "inserted_at": "2026-03-20T04:09:41.158557+00:00",
-    "updated_at": "2026-04-04T01:46:58.659264+00:00"
+    "updated_at": "2026-04-29T02:29:15.756715+00:00"
   },
   {
     "source": {
@@ -6051,6 +6051,31 @@
       "https://www.michaelzingraf.com/storage/properties/43e6e2a910fb4e93f54fbe7898554b53_020df1d79d_1920-original.jpg"
     ],
     "inserted_at": "2026-04-28T02:28:47.760308+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4891,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2710/sale-villa-theoule-sur-mer-6-rooms-5-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 260.0,
+    "rooms": 6,
+    "bedrooms": 5,
+    "price_eur": 3750000,
+    "price_text": "3,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4891/listing/4891_00-2026-04-29-0215.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4891/gallery_small/4891_00-2026-04-29-0215.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4891/gallery/4891_00-2026-04-29-0215.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4891/listing/4891_00-2026-04-29-0215.jpg"
+    ],
+    "inserted_at": "2026-04-29T02:29:13.436373+00:00",
     "updated_at": null
   }
 ]
