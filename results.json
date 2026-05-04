@@ -6131,5 +6131,30 @@
     ],
     "inserted_at": "2026-04-30T17:14:36.808392+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4900,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-702/sale-property-nice-14-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "property",
+    "system_category": "house",
+    "surface_m2": 302.0,
+    "rooms": 14,
+    "bedrooms": 4,
+    "price_eur": 1580000,
+    "price_text": "1,580,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4900/listing/4900_00-2026-05-05-0144.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4900/gallery_small/4900_00-2026-05-05-0144.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4900/gallery/4900_00-2026-05-05-0144.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4900/listing/4900_00-2026-05-05-0144.jpg"
+    ],
+    "inserted_at": "2026-05-04T23:48:57.495720+00:00",
+    "updated_at": null
   }
 ]
