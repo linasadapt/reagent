@@ -2159,8 +2159,8 @@
     "surface_m2": 392.0,
     "rooms": null,
     "bedrooms": 6,
-    "price_eur": 4300000,
-    "price_text": "4 300 000 €",
+    "price_eur": 4200000,
+    "price_text": "4 200 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/24f3ee25daa5d0745f450ef7dd1ea727_7cbaf9def9_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/24f3ee25daa5d0745f450ef7dd1ea727_7cbaf9def9_1920-original.jpg",
@@ -2169,7 +2169,7 @@
       "https://www.michaelzingraf.com/storage/properties/aeaf1758af44dd541ca525b05950b82c_8e90174c7f_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-05T02:14:00.584413+00:00"
   },
   {
     "source": {
@@ -3069,8 +3069,8 @@
       "logo": "michael.svg"
     },
     "id": 83401381,
-    "url": "https://www.michaelzingraf.com/en/eze-bord-de-mer-fully-renovated-villa-panoramic-sea-view-83401381",
-    "title": "EZE BORD DE MER – FULLY RENOVATED VILLA – PANORAMIC SEA VIEW",
+    "url": "https://www.michaelzingraf.com/en/eze-s-mer-panoramic-sea-view-83401381",
+    "title": "EZE S/ MER – PANORAMIC SEA VIEW",
     "city": "Èze",
     "system_category": "house",
     "type": "villa",
@@ -3079,15 +3079,15 @@
     "bedrooms": 3,
     "price_eur": 2960000,
     "price_text": "2 960 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/25b7c9f4f4d4a1764da5689ecb75093b_763815eef1_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/68c2489ed0914a7db2d426b321e3330b_aa0f585cad_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/25b7c9f4f4d4a1764da5689ecb75093b_763815eef1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/68c2489ed0914a7db2d426b321e3330b_aa0f585cad_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/7e6919610373e65a950afa42b246d8a3_0d21310cc5_1919-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/a49fcd5cd2dccec79ef7b474349799ee_0e4df6862a_1919-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/51c940730a8add8f9b7933926fd432f9_7d60963a69_1919-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-05T02:14:00.584413+00:00"
   },
   {
     "source": {
@@ -6034,7 +6034,7 @@
     },
     "id": 86907943,
     "url": "https://www.michaelzingraf.com/en/grasse-authentic-19th-century-mas-set-within-an-exceptional-landscaped-park-86907943",
-    "title": "Grasse – Authentic 19th-century \" Mas \"  set within an exceptional landscaped park",
+    "title": "Grasse – Authentic 19th-century \"Mas\"  set within an exceptional landscaped park",
     "city": "Grasse",
     "system_category": "house",
     "type": "villa",
@@ -6051,7 +6051,7 @@
       "https://www.michaelzingraf.com/storage/properties/6263e1bdad39729fc2512c1700ce5bc3_125b77f62b_1920-original.jpg"
     ],
     "inserted_at": "2026-04-28T02:28:47.760308+00:00",
-    "updated_at": "2026-05-04T02:25:28.196488+00:00"
+    "updated_at": "2026-05-05T02:14:00.584413+00:00"
   },
   {
     "source": {
