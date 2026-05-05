@@ -5902,13 +5902,13 @@
       "logo": "savills.svg"
     },
     "id": 1576,
-    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm260436/sale-villa-eze-4-rooms-06360/",
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm260436/sale-villa-eze-4-rooms-2-bedrooms-06360/",
     "city": "Èze",
     "type": "villa",
     "system_category": "house",
     "surface_m2": null,
     "rooms": null,
-    "bedrooms": null,
+    "bedrooms": 2,
     "price_eur": 1590000,
     "price_text": "1,590,000 €",
     "image_primary": "https://riviera.savills.fr/datas/biens/images/1576/preview/1576_00-2026-04-20-1715.jpg",
@@ -5920,7 +5920,7 @@
       "https://riviera.savills.fr/datas/biens/images/1576/preview/1576_05-2026-04-27-1513.jpg"
     ],
     "inserted_at": "2026-04-20T16:59:32.914445+00:00",
-    "updated_at": "2026-04-30T15:03:55.678690+00:00"
+    "updated_at": "2026-05-05T15:49:08.113710+00:00"
   },
   {
     "source": {
