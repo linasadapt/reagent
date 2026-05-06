@@ -6156,5 +6156,113 @@
     ],
     "inserted_at": "2026-05-04T23:48:57.495720+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86941322,
+    "url": "https://www.michaelzingraf.com/en/exceptional-contemporary-villa-panoramic-sea-views-roquebrune-cap-martin-86941322",
+    "title": "Exceptional contemporary villa – Panoramic sea views – Roquebrune-Cap-Martin",
+    "city": "Roquebrune-Cap-Martin",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 182.0,
+    "rooms": null,
+    "bedrooms": null,
+    "price_eur": 4250000,
+    "price_text": "4 250 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/0a4d74be7091758036a2d49e32f111e9_47e128be14_1600-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/0a4d74be7091758036a2d49e32f111e9_47e128be14_1600-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/755c6d83ecc901d0e3b78b1d04de0f71_03e448a3ad_1600-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/773652c4310d7701180853ddc903e2bc_87519ff03c_1600-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7e400d14caba17099dffa2640c60f1fc_f5ea194488_1600-original.jpg"
+    ],
+    "inserted_at": "2026-05-06T02:24:27.615663+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86139155,
+    "url": "https://www.michaelzingraf.com/en/off-market-super-cannes-renovated-modern-provencal-villa-with-sea-view-86139155",
+    "title": "Off market - Super-Cannes - renovated modern Provençal villa with sea view",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 260.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 3900000,
+    "price_text": "3 900 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b01348ef4ab0039867dcf6979f4e8fa8_a8b11003c0_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b01348ef4ab0039867dcf6979f4e8fa8_a8b11003c0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ac888a802dc5968971634e4199ae6e13_85169377c1_1907-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b67d1e2867755b666854447b9be46146_c5ee31be39_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/03cac823005ede5b11c387d6a5a4d330_b85de5dfdd_1916-original.jpg"
+    ],
+    "inserted_at": "2026-05-06T02:24:27.615663+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85308324,
+    "url": "https://www.michaelzingraf.com/en/family-villa-with-panoramic-views-in-a-residential-estate-85308324",
+    "title": "Family Villa with Panoramic Views in a Residential Estate",
+    "city": "Spéracèdes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 255.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2600000,
+    "price_text": "2 600 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/37c3f3d68c470a02db2a12a58f671ed4_e2878cf415_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/37c3f3d68c470a02db2a12a58f671ed4_e2878cf415_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3fcdda848ec5f9cd8d26454d1eeda7cf_3b7b5d1c2f_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3602f6f5519c48959a20c38b890e8024_a126a34dd9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a58d62c7b6f2a57dd118109d0d1264bf_308f3f5080_1920-original.jpg"
+    ],
+    "inserted_at": "2026-05-06T02:24:27.615663+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85642556,
+    "url": "https://www.michaelzingraf.com/en/height-of-cannet-residentiel-beautiful-family-home-with-pleasant-view-85642556",
+    "title": "Height of Cannet Résidentiel - Beautiful family home with pleasant view",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 196.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2300000,
+    "price_text": "2 300 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/0662ac04a4fe220fec0ff4c4a90404cf_4fb3288a6c_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/0662ac04a4fe220fec0ff4c4a90404cf_4fb3288a6c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5a45f54f7b474a99bf6ab7b144fbcfcb_862aa48769_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fa16932bd6a815560b572b9f5163821f_cf196714b8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a396c127152d14c4ebca2c41a386208b_e6c6dada93_1920-original.jpg"
+    ],
+    "inserted_at": "2026-05-06T02:24:27.615663+00:00",
+    "updated_at": null
   }
 ]
