@@ -2672,8 +2672,8 @@
     "surface_m2": 323.0,
     "rooms": null,
     "bedrooms": 6,
-    "price_eur": 3490000,
-    "price_text": "3 490 000 €",
+    "price_eur": 3250000,
+    "price_text": "3 250 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/4251484c6128324ff561ae7f85bde00c_4478b75921_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/4251484c6128324ff561ae7f85bde00c_4478b75921_1920-original.jpg",
@@ -2682,7 +2682,7 @@
       "https://www.michaelzingraf.com/storage/properties/936d143a23fcf36743874e681bf572b0_7fc1c2b1d5_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-07T02:27:02.387865+00:00"
   },
   {
     "source": {
@@ -6191,8 +6191,8 @@
       "logo": "michael.svg"
     },
     "id": 86139155,
-    "url": "https://www.michaelzingraf.com/en/off-market-super-cannes-renovated-modern-provencal-villa-with-sea-view-86139155",
-    "title": "Off market - Super-Cannes - renovated modern Provençal villa with sea view",
+    "url": "https://www.michaelzingraf.com/en/super-cannes-renovated-modern-provencal-villa-with-sea-view-86139155",
+    "title": "Super-Cannes - renovated modern Provençal villa with sea view",
     "city": "Cannes",
     "system_category": "house",
     "type": "house",
@@ -6209,7 +6209,7 @@
       "https://www.michaelzingraf.com/storage/properties/03cac823005ede5b11c387d6a5a4d330_b85de5dfdd_1916-original.jpg"
     ],
     "inserted_at": "2026-05-06T02:24:27.615663+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-07T02:27:02.387865+00:00"
   },
   {
     "source": {
