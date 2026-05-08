@@ -2267,17 +2267,17 @@
     "surface_m2": 283.0,
     "rooms": null,
     "bedrooms": 4,
-    "price_eur": 4200000,
-    "price_text": "4 200 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/46a87182a149c78b28e3e6173611adcd_716117138d_1920-original.jpg",
+    "price_eur": 3500000,
+    "price_text": "3 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/46a87182a149c78b28e3e6173611adcd_716117138d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/5fee31c9d56d50a6110406011dd17557_1af8112d26_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/4198c3ecfbc358b38a27d49be75dfde8_64372c6e51_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-02-25T04:15:27.507233+00:00"
+    "updated_at": "2026-05-08T02:34:03.399255+00:00"
   },
   {
     "source": {
@@ -6290,6 +6290,33 @@
       "https://riviera.savills.fr/datas/biens/images/1610/preview/1610_05-2026-05-06-1511.jpg"
     ],
     "inserted_at": "2026-05-06T13:54:27.675259+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85771472,
+    "url": "https://www.michaelzingraf.com/en/valbonne-village-family-estate-85771472",
+    "title": "Valbonne village - Family Estate",
+    "city": "Valbonne",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 438.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3590000,
+    "price_text": "3 590 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/19ab2ccdb0754678fe7e150e48b1f503_213f136c91_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/19ab2ccdb0754678fe7e150e48b1f503_213f136c91_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7730a2d3a876ce27f72ed71b222d351e_84e820d064_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/57b631d276ca4e9a901a94d9af23c0fc_6bdf3a2138_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/954e5234862234ffffa86d0ed345e52f_34f0c08afc_1920-original.jpg"
+    ],
+    "inserted_at": "2026-05-08T02:34:03.399255+00:00",
     "updated_at": null
   }
 ]
