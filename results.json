@@ -6171,7 +6171,7 @@
     "type": "villa",
     "surface_m2": 182.0,
     "rooms": null,
-    "bedrooms": null,
+    "bedrooms": 4,
     "price_eur": 4250000,
     "price_text": "4 250 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/0a4d74be7091758036a2d49e32f111e9_47e128be14_1600-original.jpg",
@@ -6182,7 +6182,7 @@
       "https://www.michaelzingraf.com/storage/properties/7e400d14caba17099dffa2640c60f1fc_f5ea194488_1600-original.jpg"
     ],
     "inserted_at": "2026-05-06T02:24:27.615663+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-13T02:39:01.262900+00:00"
   },
   {
     "source": {
