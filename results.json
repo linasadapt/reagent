@@ -4574,13 +4574,13 @@
       "logo": "sothebys.png"
     },
     "id": 4690,
-    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-262/sale-villa-nice-8-rooms-3-bedrooms-06000/",
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-262/sale-villa-nice-8-rooms-4-bedrooms-06000/",
     "city": "Nice",
     "type": "villa",
     "system_category": "house",
     "surface_m2": 236.7,
     "rooms": 8,
-    "bedrooms": 3,
+    "bedrooms": 4,
     "price_eur": 1650000,
     "price_text": "1,650,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4690/listing/4690_00-2026-02-24-0146.jpg",
@@ -4590,7 +4590,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4690/listing/4690_00-2026-02-24-0146.jpg"
     ],
     "inserted_at": "2026-02-24T01:44:00.022346+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-13T09:39:48.970852+00:00"
   },
   {
     "source": {
