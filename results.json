@@ -2267,8 +2267,8 @@
     "surface_m2": 283.0,
     "rooms": null,
     "bedrooms": 4,
-    "price_eur": 3500000,
-    "price_text": "3 500 000 €",
+    "price_eur": 3535000,
+    "price_text": "3 535 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
@@ -2277,7 +2277,7 @@
       "https://www.michaelzingraf.com/storage/properties/4198c3ecfbc358b38a27d49be75dfde8_64372c6e51_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-05-08T02:34:03.399255+00:00"
+    "updated_at": "2026-05-14T02:39:16.326588+00:00"
   },
   {
     "source": {
@@ -4423,8 +4423,8 @@
     "surface_m2": 283.0,
     "rooms": 6,
     "bedrooms": 4,
-    "price_eur": 4200000,
-    "price_text": "4,200,000 €",
+    "price_eur": 3535000,
+    "price_text": "3,535,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4658/listing/4658_00-2026-02-10-0233.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4658/gallery_small/4658_00-2026-02-10-0233.jpg",
@@ -4432,7 +4432,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4658/listing/4658_00-2026-02-10-0233.jpg"
     ],
     "inserted_at": "2026-02-10T01:58:52.325258+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-14T02:39:13.765743+00:00"
   },
   {
     "source": {
@@ -5337,15 +5337,15 @@
     "bedrooms": 7,
     "price_eur": 2690000,
     "price_text": "2 690 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/95fbcf7550f818622c393bd49af9efa7_feda131d2b_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/3ccb7702676c83b85ba8fc5c778763e0_5add7629e7_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/95fbcf7550f818622c393bd49af9efa7_feda131d2b_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/3ccb7702676c83b85ba8fc5c778763e0_5add7629e7_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/7ecbf715221993cb630acb66a9196b85_a5c896cecf_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/45308d586c17edce1c9f2359cb34fb36_2894085960_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/673a03b8f2f675f922dce6c9926a7ccd_9a9d583b6d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/95fbcf7550f818622c393bd49af9efa7_feda131d2b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7ecbf715221993cb630acb66a9196b85_a5c896cecf_1920-original.jpg"
     ],
     "inserted_at": "2026-03-25T11:37:51.304340+00:00",
-    "updated_at": "2026-05-02T02:10:57.081413+00:00"
+    "updated_at": "2026-05-14T02:39:16.326588+00:00"
   },
   {
     "source": {
@@ -6232,11 +6232,11 @@
     "images": [
       "https://www.michaelzingraf.com/storage/properties/37c3f3d68c470a02db2a12a58f671ed4_e2878cf415_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/3fcdda848ec5f9cd8d26454d1eeda7cf_3b7b5d1c2f_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/3602f6f5519c48959a20c38b890e8024_a126a34dd9_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/a58d62c7b6f2a57dd118109d0d1264bf_308f3f5080_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/51a8a5cea2a2b3d6e37e610224ed5534_4f4642c632_1536-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/12bbf014ef50967c467575fb2ae80f0f_1e2a528fc3_1536-original.jpg"
     ],
     "inserted_at": "2026-05-06T02:24:27.615663+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-14T02:39:16.326588+00:00"
   },
   {
     "source": {
@@ -6317,6 +6317,31 @@
       "https://www.michaelzingraf.com/storage/properties/954e5234862234ffffa86d0ed345e52f_34f0c08afc_1920-original.jpg"
     ],
     "inserted_at": "2026-05-08T02:34:03.399255+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4920,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-586/sale-villa-nice-5-rooms-3-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 144.33,
+    "rooms": 5,
+    "bedrooms": 3,
+    "price_eur": 2890000,
+    "price_text": "2,890,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4920/listing/4920_00-2026-05-14-0221.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4920/gallery_small/4920_00-2026-05-14-0221.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4920/gallery/4920_00-2026-05-14-0221.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4920/listing/4920_00-2026-05-14-0221.jpg"
+    ],
+    "inserted_at": "2026-05-14T02:39:13.765743+00:00",
     "updated_at": null
   }
 ]
