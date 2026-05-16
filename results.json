@@ -740,8 +740,8 @@
     "surface_m2": 170.0,
     "rooms": 5,
     "bedrooms": 4,
-    "price_eur": 3900000,
-    "price_text": "3,900,000 €",
+    "price_eur": 3600000,
+    "price_text": "3,600,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/gallery_small/4539_00-2025-12-30-0224.jpg",
@@ -749,7 +749,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-04-03T01:53:33.473876+00:00"
+    "updated_at": "2026-05-16T02:29:20.051081+00:00"
   },
   {
     "source": {
@@ -6174,15 +6174,15 @@
     "bedrooms": 4,
     "price_eur": 4250000,
     "price_text": "4 250 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/0a4d74be7091758036a2d49e32f111e9_47e128be14_1600-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/c8e7a488b5cbf88b4c0b5715845d09de_b5923367bd_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/0a4d74be7091758036a2d49e32f111e9_47e128be14_1600-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/755c6d83ecc901d0e3b78b1d04de0f71_03e448a3ad_1600-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/773652c4310d7701180853ddc903e2bc_87519ff03c_1600-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/7e400d14caba17099dffa2640c60f1fc_f5ea194488_1600-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/c8e7a488b5cbf88b4c0b5715845d09de_b5923367bd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7898f95dfa85dba39f1c31cd5c99f4a1_c0f3553722_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d2070610145d59e5ec32e96d571bbae6_75760868c0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/04f613b2695c88548163349fb37813e9_34cb731102_1920-original.jpg"
     ],
     "inserted_at": "2026-05-06T02:24:27.615663+00:00",
-    "updated_at": "2026-05-13T02:39:01.262900+00:00"
+    "updated_at": "2026-05-16T02:29:22.338036+00:00"
   },
   {
     "source": {
@@ -6326,12 +6326,12 @@
       "logo": "sothebys.png"
     },
     "id": 4920,
-    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-586/sale-villa-nice-5-rooms-3-bedrooms-06000/",
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-586/sale-villa-nice-6-rooms-3-bedrooms-06000/",
     "city": "Nice",
     "type": "villa",
     "system_category": "house",
-    "surface_m2": 144.33,
-    "rooms": 5,
+    "surface_m2": 280.0,
+    "rooms": 6,
     "bedrooms": 3,
     "price_eur": 2890000,
     "price_text": "2,890,000 €",
@@ -6342,6 +6342,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4920/listing/4920_00-2026-05-14-0221.jpg"
     ],
     "inserted_at": "2026-05-14T02:39:13.765743+00:00",
+    "updated_at": "2026-05-16T02:29:20.051081+00:00"
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86968168,
+    "url": "https://www.michaelzingraf.com/en/contemporary-villa-with-panoramic-sea-views-86968168",
+    "title": "Contemporary villa with panoramic sea views",
+    "city": "Tignet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 220.0,
+    "rooms": null,
+    "bedrooms": 2,
+    "price_eur": 2500000,
+    "price_text": "2 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/a293ee0432c256028648ae94758b8575_c7e0f78d35_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/a293ee0432c256028648ae94758b8575_c7e0f78d35_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ad2eb693817fc69628397cd415689baf_9e6834cd89_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/264464a935c8ec65b6b3ae602b85d1f6_a4698a0a1c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bb8d9213c84cf9991a66b59a5e5b1e30_f3a78aa0ee_1920-original.jpg"
+    ],
+    "inserted_at": "2026-05-16T02:29:22.338036+00:00",
     "updated_at": null
   }
 ]
