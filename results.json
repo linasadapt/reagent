@@ -6424,5 +6424,32 @@
     ],
     "inserted_at": "2026-05-20T10:45:21.044028+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84531126,
+    "url": "https://www.michaelzingraf.com/en/new-contemporary-villa-in-mougins-84531126",
+    "title": "New contemporary villa in Mougins",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": null,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2690000,
+    "price_text": "2 690 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1b1c4fcb81908e49a7b0bd1ae0361c42_ecf8369468_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1b1c4fcb81908e49a7b0bd1ae0361c42_ecf8369468_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6653faec4c7b66798ec377b88c885c40_59b5d8c646_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c6293679941f8efa756216e114730e52_1192c690ce_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/db3d3c1ca9e9257ed0d8cf4db52949ac_33dff10add_1920-original.jpg"
+    ],
+    "inserted_at": "2026-05-21T02:47:46.557009+00:00",
+    "updated_at": null
   }
 ]
