@@ -4476,8 +4476,8 @@
     "surface_m2": 200.0,
     "rooms": null,
     "bedrooms": 3,
-    "price_eur": 2350000,
-    "price_text": "2 350 000 €",
+    "price_eur": 2190000,
+    "price_text": "2 190 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/788848654affbab7e7ebf277a5e1403a_3bdfbd383e_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/788848654affbab7e7ebf277a5e1403a_3bdfbd383e_1920-original.jpg",
@@ -4486,7 +4486,7 @@
       "https://www.michaelzingraf.com/storage/properties/9fbc3cc2bec4e5f7aaf4e6595902c4fd_b2fd0933fb_1920-original.jpg"
     ],
     "inserted_at": "2026-02-12T04:21:01.019644+00:00",
-    "updated_at": "2026-03-10T04:04:40.313236+00:00"
+    "updated_at": "2026-05-22T04:56:50.532792+00:00"
   },
   {
     "source": {
@@ -4738,8 +4738,8 @@
     "surface_m2": 230.0,
     "rooms": null,
     "bedrooms": 4,
-    "price_eur": 2490000,
-    "price_text": "2 490 000 €",
+    "price_eur": 2280000,
+    "price_text": "2 280 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/442920a2a1d28059a7c3511c48144068_812a7f3956_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/442920a2a1d28059a7c3511c48144068_812a7f3956_1920-original.jpg",
@@ -4748,7 +4748,7 @@
       "https://www.michaelzingraf.com/storage/properties/389fcdfdacab724e9ab71f25fb20088b_e40992b3d8_1920-original.jpg"
     ],
     "inserted_at": "2026-03-04T04:04:31.364177+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-22T04:56:50.532792+00:00"
   },
   {
     "source": {
@@ -5252,13 +5252,13 @@
       "logo": "sothebys.png"
     },
     "id": 4768,
-    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca15-100/sale-villa-mougins-5-rooms-3-bedrooms-06250/",
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca15-100/sale-villa-mougins-5-rooms-4-bedrooms-06250/",
     "city": "Mougins",
     "type": "villa",
     "system_category": "house",
     "surface_m2": 172.0,
     "rooms": 5,
-    "bedrooms": 3,
+    "bedrooms": 4,
     "price_eur": 2200000,
     "price_text": "2,200,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/listing/4768_00-2026-03-24-0153.jpg",
@@ -5268,7 +5268,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4768/listing/4768_00-2026-03-24-0153.jpg"
     ],
     "inserted_at": "2026-03-24T01:42:24.808473+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-22T04:56:48.281996+00:00"
   },
   {
     "source": {
@@ -6307,8 +6307,8 @@
     "surface_m2": 438.0,
     "rooms": null,
     "bedrooms": 6,
-    "price_eur": 3590000,
-    "price_text": "3 590 000 €",
+    "price_eur": 3295000,
+    "price_text": "3 295 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/19ab2ccdb0754678fe7e150e48b1f503_213f136c91_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/19ab2ccdb0754678fe7e150e48b1f503_213f136c91_1920-original.jpg",
@@ -6317,7 +6317,7 @@
       "https://www.michaelzingraf.com/storage/properties/954e5234862234ffffa86d0ed345e52f_34f0c08afc_1920-original.jpg"
     ],
     "inserted_at": "2026-05-08T02:34:03.399255+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-22T04:56:50.532792+00:00"
   },
   {
     "source": {
