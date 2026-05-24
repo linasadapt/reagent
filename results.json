@@ -6358,7 +6358,7 @@
     "type": "house",
     "surface_m2": 220.0,
     "rooms": null,
-    "bedrooms": 2,
+    "bedrooms": 4,
     "price_eur": 2500000,
     "price_text": "2 500 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/a293ee0432c256028648ae94758b8575_c7e0f78d35_1920-original.jpg",
@@ -6369,7 +6369,7 @@
       "https://www.michaelzingraf.com/storage/properties/bb8d9213c84cf9991a66b59a5e5b1e30_f3a78aa0ee_1920-original.jpg"
     ],
     "inserted_at": "2026-05-16T02:29:22.338036+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-24T02:44:38.168083+00:00"
   },
   {
     "source": {
