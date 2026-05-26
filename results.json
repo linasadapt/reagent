@@ -6528,5 +6528,32 @@
     ],
     "inserted_at": "2026-05-23T04:34:46.079235+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1640,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm260435/sale-villa-villefranche-sur-mer-6-rooms-5-bedrooms-06230/",
+    "city": "Villefranche-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 221.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4490000,
+    "price_text": "4,490,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_00-2026-05-26-1109.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_00-2026-05-26-1109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_02-2026-05-26-1109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_03-2026-05-26-1109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_04-2026-05-26-1109.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_05-2026-05-26-1109.jpg"
+    ],
+    "inserted_at": "2026-05-26T16:36:22.607079+00:00",
+    "updated_at": null
   }
 ]
