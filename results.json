@@ -3079,15 +3079,15 @@
     "bedrooms": 3,
     "price_eur": 2960000,
     "price_text": "2 960 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/68c2489ed0914a7db2d426b321e3330b_aa0f585cad_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/f109454b40c53344107ed91fb4d0bc10_6658d8c9f3_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/68c2489ed0914a7db2d426b321e3330b_aa0f585cad_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/7e6919610373e65a950afa42b246d8a3_0d21310cc5_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/a49fcd5cd2dccec79ef7b474349799ee_0e4df6862a_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/51c940730a8add8f9b7933926fd432f9_7d60963a69_1919-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/f109454b40c53344107ed91fb4d0bc10_6658d8c9f3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7ca91c2bee5961b348f794d67b299302_ec272330cc_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/71f70ca0b8da080457613f107bcc7eb1_9daf7e1d7c_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4b31be133e3f21934832f27491e3c410_7e39115a88_1919-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-05-05T02:14:00.584413+00:00"
+    "updated_at": "2026-05-27T02:51:53.455031+00:00"
   },
   {
     "source": {
@@ -6437,7 +6437,7 @@
     "city": "Mougins",
     "system_category": "house",
     "type": "villa",
-    "surface_m2": null,
+    "surface_m2": 390.0,
     "rooms": null,
     "bedrooms": 4,
     "price_eur": 2690000,
@@ -6450,7 +6450,7 @@
       "https://www.michaelzingraf.com/storage/properties/db3d3c1ca9e9257ed0d8cf4db52949ac_33dff10add_1920-original.jpg"
     ],
     "inserted_at": "2026-05-21T02:47:46.557009+00:00",
-    "updated_at": null
+    "updated_at": "2026-05-27T02:51:53.455031+00:00"
   },
   {
     "source": {
@@ -6554,6 +6554,31 @@
       "https://riviera.savills.fr/datas/biens/images/1640/preview/1640_05-2026-05-26-1109.jpg"
     ],
     "inserted_at": "2026-05-26T16:36:22.607079+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 4952,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2309/sale-villa-cannes-5-rooms-4-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 185.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 2200000,
+    "price_text": "2,200,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4952/listing/4952_00-2026-05-27-0104.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4952/gallery_small/4952_00-2026-05-27-0104.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4952/gallery/4952_00-2026-05-27-0104.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4952/listing/4952_00-2026-05-27-0104.jpg"
+    ],
+    "inserted_at": "2026-05-27T02:51:50.560317+00:00",
     "updated_at": null
   }
 ]
