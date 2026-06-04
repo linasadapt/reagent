@@ -1058,13 +1058,13 @@
       "logo": "sothebys.png"
     },
     "id": 4432,
-    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2678/sale-mansion-mandelieu-la-napoule-12-rooms-7-bedrooms-06210/",
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2678/sale-mansion-mandelieu-la-napoule-9-rooms-4-bedrooms-06210/",
     "city": "Mandelieu-la-Napoule",
     "type": "mansion",
     "system_category": "house",
     "surface_m2": 390.0,
-    "rooms": 12,
-    "bedrooms": 7,
+    "rooms": 9,
+    "bedrooms": 4,
     "price_eur": 3250000,
     "price_text": "3,250,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2026-04-09-0257.jpg",
@@ -1074,7 +1074,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2026-04-09-0257.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-04-09T01:49:26.882762+00:00"
+    "updated_at": "2026-06-04T03:30:02.851962+00:00"
   },
   {
     "source": {
