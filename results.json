@@ -6709,5 +6709,491 @@
     ],
     "inserted_at": "2026-06-04T11:47:03.318987+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 82295101,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-mandelieu-la-napoule-sea-view-property-82295101",
+    "title": "Close to Cannes - Mandelieu-la-Napoule - sea view property",
+    "city": "Termes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 365.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 4530000,
+    "price_text": "4 530 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/aedea35952ad628e5dd405664ebc3e0b_80c1b885dc_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/aedea35952ad628e5dd405664ebc3e0b_80c1b885dc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cdd069303eed81d01a9410b4e764600c_367842c00f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e3bd3d5f7e76ed4db25e6ea616bed86e_dd65bf1dde_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f4b9290d5c69a75d973e1e84004a9ab6_b0de98a110_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85783800,
+    "url": "https://www.michaelzingraf.com/en/saint-raphael-property-facing-a-golf-course-secured-domain-85783800",
+    "title": "Saint Raphael - Property facing a Golf course - Secured domain",
+    "city": "Valescure",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 325.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4500000,
+    "price_text": "4 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/706e41de7d18acddd09656ca5a4a7531_e9c35065f5_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/706e41de7d18acddd09656ca5a4a7531_e9c35065f5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/accbe75153aab22e1e1eb7621ec5f0d1_f81f73d0b5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a0b6b56eca84f577eb9f5f477ad4cafb_807f3864fb_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fb9b4613396a5561713d865a7c4ca3ac_40ec2c9fe1_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85128506,
+    "url": "https://www.michaelzingraf.com/en/mandelieu-minelle-property-near-cannes-85128506",
+    "title": "Mandelieu Minelle - Property - Near Cannes",
+    "city": "Minelle",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 418.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3995000,
+    "price_text": "3 995 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/3787e2a347790fe22c15cce5883f4e0c_cd342e6f9d_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/3787e2a347790fe22c15cce5883f4e0c_cd342e6f9d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/84760e07761e5b7f6e1ded5404383a15_73813464ac_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7b3284d9df69dd6d08d3cc8fd9dd75bc_d109752d1f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/85ed5a86cb4696f0fc7405647f206103_6d2da719d8_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83256926,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-le-trayas-magnificent-sea-view-83256926",
+    "title": "Close to Cannes - Le Trayas - magnificent sea view",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 255.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3990000,
+    "price_text": "3 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/d3e5d2b4215efad8e8df372cd16a9ce6_7ffe8605d7_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/d3e5d2b4215efad8e8df372cd16a9ce6_7ffe8605d7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/24b77403e02f31d7fb220747ad14f6b9_d7a7c68974_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b7e5a80dbcd0e8d017daa607fd44e2f1_a95560e885_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2dbb52519decab339b60f13b39ad4b38_e298925f13_1919-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86743417,
+    "url": "https://www.michaelzingraf.com/en/contemporary-villa-saint-jean-de-lesterel-near-cannes-86743417",
+    "title": "Contemporary villa – Saint-Jean-de-l’Estérel – Near Cannes",
+    "city": "Vieil",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 318.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3990000,
+    "price_text": "3 990 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/dfe049c54263db9b84f7593885b86888_2aa9d50afd_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/dfe049c54263db9b84f7593885b86888_2aa9d50afd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/381075ad360194692c45ca10b5b2b1fa_8997027693_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f8aaa6320fdfa69c4ed9a94da1b395be_211ab95085_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/acdbd56fbd84ca3d86f9cce05e51211e_e1e29caa48_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86174327,
+    "url": "https://www.michaelzingraf.com/en/near-cannes-mandelieu-la-napoule-renovated-villa-with-sea-view-86174327",
+    "title": "Near Cannes - Mandelieu-la-Napoule - Renovated villa with sea view",
+    "city": "Napoule",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 290.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3850000,
+    "price_text": "3 850 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4bcb751a8bbfd0d0539654754aa60549_797f2bd5f5_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4bcb751a8bbfd0d0539654754aa60549_797f2bd5f5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/324af17c9385581b483a4c40761f2da9_0706cd3f18_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3301b77bc5c12a0c9e41c85049f9ffeb_2916b92d9d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f53becd8198a710d5a367efb76baece9_90deb2e2f4_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86158990,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-theoule-sur-mer-villa-waterfront-domain-86158990",
+    "title": "Close to Cannes - Théoule-Sur-Mer - Villa Waterfront domain",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 261.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3750000,
+    "price_text": "3 750 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/8cc29836b9a99320f5dbb2365355145f_c8deb37b49_1919-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/8cc29836b9a99320f5dbb2365355145f_c8deb37b49_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bd521d10e8b5ee97a98d26888d2f06e9_0977d18b1c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9a96bce087b46f1dd15f851772655548_1f3cc9f4d0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b43373c70d069e9fcb2dd9ffea6f4ed5_7de20a4080_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85658724,
+    "url": "https://www.michaelzingraf.com/en/theoule-sur-mer-sea-view-85658724",
+    "title": "Théoule-sur-Mer - Sea View",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 154.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 3450000,
+    "price_text": "3 450 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/62936f1bca712fc4e96418e62ead3bf7_ab86bbf118_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/62936f1bca712fc4e96418e62ead3bf7_ab86bbf118_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b8c8ad1c7924e2a32d6da7606aab3e99_5da77f1afa_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/10069a59ed57585e639097f9818ecc7d_f0b9cbb87d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a734b6a46da54f208cbc9546837ceb26_2b1ae00ba1_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86461713,
+    "url": "https://www.michaelzingraf.com/en/mandelieu-la-napoule-near-cannes-villa-with-sea-view-86461713",
+    "title": "Mandelieu-la-Napoule - Near Cannes - Villa with sea view",
+    "city": "Termes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 307.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3200000,
+    "price_text": "3 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b585837058ad28c8c648a90b3ff8e9ba_57b53ee67e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b585837058ad28c8c648a90b3ff8e9ba_57b53ee67e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b37c23400d1affb0ca84900ff426a7d6_4bb91313d6_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5570a51d3888da494484011139d203b3_1b8a24ed2d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ee263463f88654dd10830cd4d33ab289_afcdf1e797_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 82257999,
+    "url": "https://www.michaelzingraf.com/en/theoule-sur-mer-property-to-renovate-panoramic-sea-view-82257999",
+    "title": "Théoule-sur-Mer - Property to renovate - Panoramic sea view",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 420.0,
+    "rooms": null,
+    "bedrooms": 8,
+    "price_eur": 2970000,
+    "price_text": "2 970 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4fa6af9cb3834fe8dd1abf2f6e687a21_72fa9b08b9_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4fa6af9cb3834fe8dd1abf2f6e687a21_72fa9b08b9_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e0728b8b811c84c37d7c1a6c6e44aa7f_15068dc0b2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b926426613397b9da81871bef79b9cd5_caef98e92e_1790-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d34a776f2a77fec918ebddbb18eeb62c_9d7676e51a_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83254718,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-le-trayas-magnificent-sea-view-83254718",
+    "title": "Close to Cannes - Le Trayas - Magnificent sea view",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 185.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2940000,
+    "price_text": "2 940 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/7288d7ebb6bb844312a594f97f9c5dc3_2037de7f3e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/7288d7ebb6bb844312a594f97f9c5dc3_2037de7f3e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0d1eb249654dfaa7ca52e3f9d33dd207_b74fdbc9df_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8f4423f43a3b109576196eadf7050fe2_bccf67f191_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fd6eca0e301b9784644cc3dba0051e93_a956cec5c2_1919-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85063985,
+    "url": "https://www.michaelzingraf.com/en/contemporary-villa-saint-raphael-sea-view-85063985",
+    "title": "Contemporary villa - Saint-Raphaël - Sea view",
+    "city": "Santa-Lucia",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 295.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2580000,
+    "price_text": "2 580 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/08fb485fd335d13528474419a7de6390_e36109cef3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/08fb485fd335d13528474419a7de6390_e36109cef3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/13491905d94d3a069204fe16d509aadc_812ff21a3b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7014807a6046f19857f97b1053fae2b0_ab511dd7fa_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/31e437d638426a291bef3031a2c55e5c_5672da57cb_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86733130,
+    "url": "https://www.michaelzingraf.com/en/near-cannes-mandelieu-la-napoule-sea-view-property-86733130",
+    "title": "Near Cannes – Mandelieu-la-Napoule – Sea View Property",
+    "city": "Termes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 398.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2500000,
+    "price_text": "2 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b9e585d2863837f2b34f5feeb9898c26_92878af388_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b9e585d2863837f2b34f5feeb9898c26_92878af388_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8e5a0b3fd82594f282b3cc1c547374c6_2a4bf2f92d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8fef1815e7adcb81a5628eecba9969ae_10b444cfca_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/051c6a4e4d7aa8933e27d6fdbd212e04_d9f8f5d1a5_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86951768,
+    "url": "https://www.michaelzingraf.com/en/co-exclusivity-sea-view-villa-between-saint-raphael-and-cannes-86951768",
+    "title": "CO-EXCLUSIVITY – SEA VIEW VILLA BETWEEN SAINT-RAPHAËL AND CANNES",
+    "city": "Anthéor",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 334.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": null,
+    "price_text": "Price on Request",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6f8835ca788deae8a762c67fc11cf3c7_4b504d501a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6f8835ca788deae8a762c67fc11cf3c7_4b504d501a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5b28cccbbfa003d1698054f891ab30ac_e37bacfc1c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a11aeee52468f448ab74050c83cb8b6a_936f1c95b6_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7b818fd6128287b63b6d2c2807d4c26e_8d88f549ac_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86268885,
+    "url": "https://www.michaelzingraf.com/en/exclusive-mandelieu-la-napoule-renovated-villa-near-cannes-86268885",
+    "title": "EXCLUSIVE - Mandelieu-la-Napoule - Renovated Villa - Near Cannes",
+    "city": "Termes",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 292.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2470000,
+    "price_text": "2 470 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/ac148dcd77780f18089e8ab12e4737f0_caa5e20943_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/ac148dcd77780f18089e8ab12e4737f0_caa5e20943_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/dea721ed1b1400b82034ef593b4bb6c2_d13527e3e7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cb6c1bb83b4afabf8116e6ae9ea161c4_17a53d94dd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8590966136457a25507a68df75099dbd_7808ab1927_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 3160660,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-tanneron-modern-provencal-style-villa-3160660",
+    "title": "Close to Cannes - Tanneron - Modern provencal style villa",
+    "city": "Termes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 221.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2330000,
+    "price_text": "2 330 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/efd4ec5ada9222f956659a09f2e42b29_4e9f4da0d2_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/efd4ec5ada9222f956659a09f2e42b29_4e9f4da0d2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b65c6242187e06ea1fd51032058a1e7b_d49fd2df2b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/63c85b03ae91a58eb3d2bff890abf06b_23ae8442e7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0f32388b555e8036a0881b38b3685f87_e4e04e5265_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85713361,
+    "url": "https://www.michaelzingraf.com/en/property-theoule-sur-mer-panoramic-sea-view-85713361",
+    "title": "Property  - Theoule-sur-mer - Panoramic Sea View",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 284.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2290000,
+    "price_text": "2 290 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1ac412b94c2df61ba47730dd80b38e3e_a311b04ef0_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1ac412b94c2df61ba47730dd80b38e3e_a311b04ef0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/97f1ed1b17b7267c8280588951b74801_db871b9c36_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f92ae2c42bc0c76f41ea9f7b90f8dec8_fd2543b65c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/64c1c8469203c8620f5181c6e6a5b6a3_97675133f3_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86645240,
+    "url": "https://www.michaelzingraf.com/en/theoule-sur-mer-sea-view-villa-close-to-cannes-86645240",
+    "title": "Théoule-sur-Mer – Sea View Villa – Close to Cannes",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 178.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 2270000,
+    "price_text": "2 270 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/3aeb287cb10e4551f88e9cb0d8254c90_6ab67b8a53_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/3aeb287cb10e4551f88e9cb0d8254c90_6ab67b8a53_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d3f92b7f3b7c81abd5c65391e795923f_c160147386_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f3dca4af91419cda4c93413fbd1f747e_1fdb2c39f5_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b6c12a5d5c94ad88f87440ad78572aaa_895a4390c8_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
   }
 ]
