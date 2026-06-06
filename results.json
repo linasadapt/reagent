@@ -3258,8 +3258,8 @@
       "logo": "michael.svg"
     },
     "id": 86010483,
-    "url": "https://www.michaelzingraf.com/en/mougins-charming-couelles-style-villa-86010483",
-    "title": "Mougins - Charming Couelle's style villa",
+    "url": "https://www.michaelzingraf.com/en/mougins-renovated-provencal-villa-with-panoramic-views-of-the-esterel-86010483",
+    "title": "Mougins - Renovated Provençal villa with panoramic views of the Estérel",
     "city": "Mougins",
     "system_category": "house",
     "type": "house",
@@ -3268,15 +3268,15 @@
     "bedrooms": 5,
     "price_eur": 2600000,
     "price_text": "2 600 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e2993c7c8ed81e772602c7541230f4f8_7007dbb46a_1920-original.jpg",
     "images": [
+      "https://www.michaelzingraf.com/storage/properties/e2993c7c8ed81e772602c7541230f4f8_7007dbb46a_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/f09777fed8d237f93ef45faedaa989c5_093fb014a0_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/2749648501d40d822fa6c053358fd15c_0afeb39d54_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/8542a5514cbff1fe925c4b0413606cd5_8da6951b12_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/2749648501d40d822fa6c053358fd15c_0afeb39d54_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-03-13T04:07:42.229568+00:00"
+    "updated_at": "2026-06-06T02:39:05.082422+00:00"
   },
   {
     "source": {
@@ -6832,7 +6832,7 @@
     "type": "villa",
     "surface_m2": 318.0,
     "rooms": null,
-    "bedrooms": 4,
+    "bedrooms": 5,
     "price_eur": 3990000,
     "price_text": "3 990 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/dfe049c54263db9b84f7593885b86888_2aa9d50afd_1920-original.jpg",
@@ -6843,7 +6843,7 @@
       "https://www.michaelzingraf.com/storage/properties/acdbd56fbd84ca3d86f9cce05e51211e_e1e29caa48_1920-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
-    "updated_at": null
+    "updated_at": "2026-06-06T02:39:05.082422+00:00"
   },
   {
     "source": {
@@ -7194,6 +7194,33 @@
       "https://www.michaelzingraf.com/storage/properties/b6c12a5d5c94ad88f87440ad78572aaa_895a4390c8_1920-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85095743,
+    "url": "https://www.michaelzingraf.com/en/near-cannes-villa-with-sea-view-antheor-85095743",
+    "title": "NEAR CANNES - VILLA WITH SEA VIEW - ANTHEOR",
+    "city": "Anthéor",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 166.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2680000,
+    "price_text": "2 680 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/b8dd1d4194887075564e1b92d068d92b_269128dde2_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/b8dd1d4194887075564e1b92d068d92b_269128dde2_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d02837f5eb9507b0d312884ac4b341d7_7c2410e7de_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/111374eda5304665840910722888b1b9_34b4504ce8_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ad84fc1eb94735c824cfaacc769d70a4_0ef1e82c37_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-06T02:39:05.082422+00:00",
     "updated_at": null
   }
 ]
