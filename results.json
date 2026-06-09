@@ -7249,5 +7249,32 @@
     ],
     "inserted_at": "2026-06-08T17:47:53.353891+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87056200,
+    "url": "https://www.michaelzingraf.com/en/valbonne-contemporary-villa-nestled-in-lush-greenery-87056200",
+    "title": "Valbonne - Contemporary villa nestled in lush greenery",
+    "city": "Valbonne",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 225.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2690000,
+    "price_text": "2 690 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/f36d2477611a50263d3668b1475e183f_81b4ca21e3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/f36d2477611a50263d3668b1475e183f_81b4ca21e3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bc2df5d0998f81909bda5a88efecaf80_6bbbabff2f_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cee9d8f88044ab05092a726547fc2512_7c84ddc767_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/45bc19ae914b62c1129e24129bea0ac2_e2077de9f9_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-09T04:59:48.850095+00:00",
+    "updated_at": null
   }
 ]
