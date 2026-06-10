@@ -6228,15 +6228,15 @@
     "bedrooms": 5,
     "price_eur": 2600000,
     "price_text": "2 600 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/5b841c6b7c17aada123951b4820ac8f4_8f152f0e75_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/d43476040a6ea0500c6645e3a9a64425_9b52632ab8_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/5b841c6b7c17aada123951b4820ac8f4_8f152f0e75_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/d43476040a6ea0500c6645e3a9a64425_9b52632ab8_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/2f9a5255a246308561b96b304ec3ea44_b42c7ecb22_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/fbda39a236edf0f6fe7a6de85a76689c_ed38102764_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/fbda39a236edf0f6fe7a6de85a76689c_ed38102764_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/333ea89afcedc41e7d076fc36f787df3_ac7600b01e_1920-original.jpg"
     ],
     "inserted_at": "2026-05-06T02:24:27.615663+00:00",
-    "updated_at": "2026-05-23T04:34:46.079235+00:00"
+    "updated_at": "2026-06-10T05:12:09.986327+00:00"
   },
   {
     "source": {
@@ -7275,6 +7275,33 @@
       "https://www.michaelzingraf.com/storage/properties/45bc19ae914b62c1129e24129bea0ac2_e2077de9f9_1920-original.jpg"
     ],
     "inserted_at": "2026-06-09T04:59:48.850095+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86139626,
+    "url": "https://www.michaelzingraf.com/en/le-cannet-residential-elegant-belle-epoque-residence-with-panoramic-sea-views-86139626",
+    "title": "Le Cannet Residential - Elegant Belle Époque Residence with Panoramic Sea Views",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 237.0,
+    "rooms": null,
+    "bedrooms": 3,
+    "price_eur": 2250000,
+    "price_text": "2 250 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/5dbeb703e7c96293b624fc4ae0a9a975_07f8532b8a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/5dbeb703e7c96293b624fc4ae0a9a975_07f8532b8a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/984f51819304dbbab019abde6567613b_da081f49ad_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/24d6f39029209b032850d3b6003ebb6e_2e5b887c01_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/870770e42c75f89ce46c9eda465bfc1a_81b6e5a2e3_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-10T05:12:09.986327+00:00",
     "updated_at": null
   }
 ]
