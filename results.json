@@ -3376,15 +3376,15 @@
     "bedrooms": 6,
     "price_eur": 2390000,
     "price_text": "2 390 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/0b154ca325d9182f89f3d5d93ba7eb62_5bd523be52_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/7ef5c40f7bf735071c60219798ea27de_89752a7e50_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/0b154ca325d9182f89f3d5d93ba7eb62_5bd523be52_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7ef5c40f7bf735071c60219798ea27de_89752a7e50_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/a131652ba483e91a9db045e6b9a7f3a2_c5c3e90451_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/c594bde07f8a692f3fe000d99b449a0d_e15766d148_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/bbc539d260361953401f78d4eb2a6928_2e2b00314f_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/7ef5c40f7bf735071c60219798ea27de_89752a7e50_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/bbc539d260361953401f78d4eb2a6928_2e2b00314f_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-06-05T02:52:24.088386+00:00"
+    "updated_at": "2026-06-12T02:58:32.693405+00:00"
   },
   {
     "source": {
@@ -7302,6 +7302,33 @@
       "https://www.michaelzingraf.com/storage/properties/870770e42c75f89ce46c9eda465bfc1a_81b6e5a2e3_1920-original.jpg"
     ],
     "inserted_at": "2026-06-10T05:12:09.986327+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87021158,
+    "url": "https://www.michaelzingraf.com/en/rare-opportunity-cannes-pointe-croisette-villa-in-a-gated-estate-87021158",
+    "title": "Rare Opportunity - Cannes Pointe Croisette - Villa in a Gated Estate",
+    "city": "Croisette",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 163.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2950000,
+    "price_text": "2 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/20ba3a725bb4600263d30b820d886fac_7070a3e787_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/20ba3a725bb4600263d30b820d886fac_7070a3e787_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7e09b0fefb0f92a843f375f73a7d791b_3921f19afd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b8a069a34df28ea989cf5cc51c2eba2c_88419c385c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/de44bcece656a0820347b7f5f58c64c7_8fc22c2796_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-12T02:58:32.693405+00:00",
     "updated_at": null
   }
 ]
