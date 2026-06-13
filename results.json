@@ -7357,5 +7357,30 @@
     ],
     "inserted_at": "2026-06-12T14:46:39.078990+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5003,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-732/sale-villa-nice-5-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 183.0,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 2895000,
+    "price_text": "2,895,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5003/listing/5003_00-2026-06-13-0205.png",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5003/gallery_small/5003_00-2026-06-13-0205.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5003/gallery/5003_00-2026-06-13-0205.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5003/listing/5003_00-2026-06-13-0205.png"
+    ],
+    "inserted_at": "2026-06-13T00:16:07.677728+00:00",
+    "updated_at": null
   }
 ]
