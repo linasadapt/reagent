@@ -6361,15 +6361,15 @@
     "bedrooms": 4,
     "price_eur": 2500000,
     "price_text": "2 500 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/a293ee0432c256028648ae94758b8575_c7e0f78d35_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e82302747fa03c4dfc8fa6a63e944ed3_b7c42f337d_1920-original.jpg",
     "images": [
+      "https://www.michaelzingraf.com/storage/properties/e82302747fa03c4dfc8fa6a63e944ed3_b7c42f337d_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/a293ee0432c256028648ae94758b8575_c7e0f78d35_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/af212b8a45c3e1b6f62955a70bf24c58_9b4a9fb1e2_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/c95ac52606f986a9e01093ac8ce434d0_e502c6e200_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/8ad946f985757458170f34deba3f3189_4bca9329fb_1563-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/af212b8a45c3e1b6f62955a70bf24c58_9b4a9fb1e2_1920-original.jpg"
     ],
     "inserted_at": "2026-05-16T02:29:22.338036+00:00",
-    "updated_at": "2026-06-02T03:27:02.691417+00:00"
+    "updated_at": "2026-06-13T05:17:13.154080+00:00"
   },
   {
     "source": {
@@ -7381,6 +7381,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5003/listing/5003_00-2026-06-13-0205.png"
     ],
     "inserted_at": "2026-06-13T00:16:07.677728+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87101046,
+    "url": "https://www.michaelzingraf.com/en/opio-an-exceptional-contemporary-villa-set-within-a-private-estate-87101046",
+    "title": "Opio – An exceptional contemporary villa set within a private estate",
+    "city": "Opio",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 370.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4500000,
+    "price_text": "4 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1234c101495ee13f82e5a134f3f0d0dc_b73fe5c7af_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1234c101495ee13f82e5a134f3f0d0dc_b73fe5c7af_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0282ffe1b529e1b160d6145f26a4eb1f_c4b2d1e790_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fb2feb071398841cf6b5333c71d8f621_ea74511f84_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/74871ddadb102ff0fd6fdd87616057a6_7f68d62d03_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-13T05:17:13.154080+00:00",
     "updated_at": null
   }
 ]
