@@ -3268,15 +3268,15 @@
     "bedrooms": 5,
     "price_eur": 2600000,
     "price_text": "2 600 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/e2993c7c8ed81e772602c7541230f4f8_7007dbb46a_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/2f550a75324f2032867db3e6600b1e64_5e3d7965a6_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/e2993c7c8ed81e772602c7541230f4f8_7007dbb46a_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/1e4b8e8a1957925845351736730dd55d_8eeebda8e3_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/f09777fed8d237f93ef45faedaa989c5_093fb014a0_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/2749648501d40d822fa6c053358fd15c_0afeb39d54_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/2f550a75324f2032867db3e6600b1e64_5e3d7965a6_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/7d6c5c4cd4884dde91af649f1c79f53e_42e8fc2b8d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/09a0043bce48622256144f03ec94b444_b698ec67fb_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f498be36a69a182f3e283e6074998c51_60f08314ee_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-06-06T02:39:05.082422+00:00"
+    "updated_at": "2026-06-16T06:28:57.016262+00:00"
   },
   {
     "source": {
@@ -7635,6 +7635,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5012/listing/5012_00-2026-06-16-0141.jpg"
     ],
     "inserted_at": "2026-06-16T00:25:56.364427+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85129158,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-le-cannet-contemporary-villa-85129158",
+    "title": "Close to Cannes - Le Cannet - Contemporary Villa",
+    "city": "Cannet",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 398.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4950000,
+    "price_text": "4 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6f1151900fe3bddef3cf6b42e1eca08f_70130a9334_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/6f1151900fe3bddef3cf6b42e1eca08f_70130a9334_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/485bd68395dc6b56109e8177065fe4b0_e1ae01826e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/80062dbfb81379f89e0ce66e54291b88_906f433f23_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/da7e5ea183b5496f415cdd4a4d3a6def_4f4d2592ef_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-16T06:28:57.016262+00:00",
     "updated_at": null
   }
 ]
