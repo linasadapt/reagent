@@ -3484,15 +3484,15 @@
     "bedrooms": 6,
     "price_eur": 2450000,
     "price_text": "2 450 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/caffc236c7fc1eb4f4765993bad43bf9_158f55d774_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/8e1d74662f93ca0e3b61fcd29e31bc78_a40ca56df7_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/caffc236c7fc1eb4f4765993bad43bf9_158f55d774_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8e1d74662f93ca0e3b61fcd29e31bc78_a40ca56df7_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/1a013fdfa22da09c6e7fccb3633472fc_270e38cf41_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/480e732a43b429dbfce99f2f014a8423_ad5e7226ae_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/6521cba84dd4a4191a2a707b4c1b922d_20cf83d4be_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-03-04T04:04:31.364177+00:00"
+    "updated_at": "2026-06-19T06:11:29.487093+00:00"
   },
   {
     "source": {
@@ -4530,15 +4530,15 @@
     "bedrooms": 6,
     "price_eur": 4990000,
     "price_text": "4 990 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/16e67ff71b622c047f4ade90dedd2a87_d010b0b879_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/20cef338536c15139b0032951ab72438_835fd42afd_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/16e67ff71b622c047f4ade90dedd2a87_d010b0b879_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/329a4b0afc7e24feb70b591763c40081_4cb5c3678a_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/9136aba5e99a63f73ecfaf1ae122bc3d_3e5c33901d_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/dd05f478b7f5b85cde2d0c39b303e5bb_8e43fb190e_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/20cef338536c15139b0032951ab72438_835fd42afd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ecad36326bfd4b425f1b9274e0479cb6_36a3ab0650_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/dd05f478b7f5b85cde2d0c39b303e5bb_8e43fb190e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/688d0b6b5dba58d210ae7ef695bd9e01_77e7ace1e0_1920-original.jpg"
     ],
     "inserted_at": "2026-02-17T04:14:08.404694+00:00",
-    "updated_at": null
+    "updated_at": "2026-06-19T06:11:29.487093+00:00"
   },
   {
     "source": {
@@ -6351,8 +6351,8 @@
       "logo": "michael.svg"
     },
     "id": 86968168,
-    "url": "https://www.michaelzingraf.com/en/contemporary-villa-with-panoramic-sea-views-86968168",
-    "title": "Contemporary villa with panoramic sea views",
+    "url": "https://www.michaelzingraf.com/en/contemporary-architecture-panoramic-views-86968168",
+    "title": "Contemporary architecture & panoramic views",
     "city": "Tignet",
     "system_category": "house",
     "type": "house",
@@ -6369,7 +6369,7 @@
       "https://www.michaelzingraf.com/storage/properties/af212b8a45c3e1b6f62955a70bf24c58_9b4a9fb1e2_1920-original.jpg"
     ],
     "inserted_at": "2026-05-16T02:29:22.338036+00:00",
-    "updated_at": "2026-06-13T05:17:13.154080+00:00"
+    "updated_at": "2026-06-19T06:11:29.487093+00:00"
   },
   {
     "source": {
