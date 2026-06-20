@@ -740,8 +740,8 @@
     "surface_m2": 170.0,
     "rooms": 5,
     "bedrooms": 4,
-    "price_eur": 3600000,
-    "price_text": "3,600,000 €",
+    "price_eur": 3350000,
+    "price_text": "3,350,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/gallery_small/4539_00-2025-12-30-0224.jpg",
@@ -749,7 +749,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4539/listing/4539_00-2025-12-30-0224.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-05-16T02:29:20.051081+00:00"
+    "updated_at": "2026-06-20T00:04:02.313561+00:00"
   },
   {
     "source": {
