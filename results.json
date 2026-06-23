@@ -6806,8 +6806,8 @@
     "surface_m2": 255.0,
     "rooms": null,
     "bedrooms": 5,
-    "price_eur": 3990000,
-    "price_text": "3 990 000 €",
+    "price_eur": 3750000,
+    "price_text": "3 750 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/d3e5d2b4215efad8e8df372cd16a9ce6_7ffe8605d7_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/d3e5d2b4215efad8e8df372cd16a9ce6_7ffe8605d7_1920-original.jpg",
@@ -6816,7 +6816,7 @@
       "https://www.michaelzingraf.com/storage/properties/2dbb52519decab339b60f13b39ad4b38_e298925f13_1919-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
-    "updated_at": null
+    "updated_at": "2026-06-23T02:43:31.575334+00:00"
   },
   {
     "source": {
@@ -6995,8 +6995,8 @@
     "surface_m2": 185.0,
     "rooms": null,
     "bedrooms": 4,
-    "price_eur": 2940000,
-    "price_text": "2 940 000 €",
+    "price_eur": 2890000,
+    "price_text": "2 890 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/7288d7ebb6bb844312a594f97f9c5dc3_2037de7f3e_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/7288d7ebb6bb844312a594f97f9c5dc3_2037de7f3e_1920-original.jpg",
@@ -7005,7 +7005,7 @@
       "https://www.michaelzingraf.com/storage/properties/fd6eca0e301b9784644cc3dba0051e93_a956cec5c2_1919-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
-    "updated_at": null
+    "updated_at": "2026-06-23T02:43:31.575334+00:00"
   },
   {
     "source": {
@@ -7213,15 +7213,15 @@
     "bedrooms": 4,
     "price_eur": 2680000,
     "price_text": "2 680 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/b8dd1d4194887075564e1b92d068d92b_269128dde2_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/d02837f5eb9507b0d312884ac4b341d7_7c2410e7de_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/b8dd1d4194887075564e1b92d068d92b_269128dde2_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/d02837f5eb9507b0d312884ac4b341d7_7c2410e7de_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b8dd1d4194887075564e1b92d068d92b_269128dde2_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/111374eda5304665840910722888b1b9_34b4504ce8_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/ad84fc1eb94735c824cfaacc769d70a4_0ef1e82c37_1920-original.jpg"
     ],
     "inserted_at": "2026-06-06T02:39:05.082422+00:00",
-    "updated_at": null
+    "updated_at": "2026-06-23T02:43:31.575334+00:00"
   },
   {
     "source": {
@@ -7789,6 +7789,60 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5032/listing/5032_00-2026-06-19-0124.jpg"
     ],
     "inserted_at": "2026-06-19T00:21:45.225837+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87116996,
+    "url": "https://www.michaelzingraf.com/en/mougins-panoramic-view-of-the-village-and-the-sea-87116996",
+    "title": "Mougins - Panoramic view of the village and the sea",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 350.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 4890000,
+    "price_text": "4 890 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/1d99d1ebe524338ece9da354e4b38106_4c97b8fc8a_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/1d99d1ebe524338ece9da354e4b38106_4c97b8fc8a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9e6169fb9e75f2f000af5e00bddac193_0f39045fbb_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/410033f113cf058cd3a4775e680b47b0_40594d7216_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/252bf255b0c1113394366e068af01b9a_56ae69a6f9_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-23T02:43:31.575334+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 86820023,
+    "url": "https://www.michaelzingraf.com/en/an-exceptional-villa-in-the-heart-of-a-prestigious-estate-on-the-french-riviera-just-12-minutes-from-nice-international-airport-86820023",
+    "title": "An exceptional villa in the heart of a prestigious estate on the French Riviera – just 12 minutes from Nice International Airport",
+    "city": "Villeneuve-Loubet",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 289.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3950000,
+    "price_text": "3 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/73ca34e876a6ed0aa9a91f2f0ac0b491_89ac090c5b_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/73ca34e876a6ed0aa9a91f2f0ac0b491_89ac090c5b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/8140fcaf867051b6357975bd9e57fbbf_f602bad350_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/35195cc393dc06f9ee086e95d95b7e80_84359c32dd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9aceda6fda1947df1093d18e32f64eb0_ff92a15542_1920-original.jpg"
+    ],
+    "inserted_at": "2026-06-23T02:43:31.575334+00:00",
     "updated_at": null
   }
 ]
