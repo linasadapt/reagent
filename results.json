@@ -2664,8 +2664,8 @@
       "logo": "michael.svg"
     },
     "id": 85959463,
-    "url": "https://www.michaelzingraf.com/en/charming-family-villa-in-a-quiet-residential-neighborhood-85959463",
-    "title": "Charming family villa in a quiet residential neighborhood",
+    "url": "https://www.michaelzingraf.com/en/sole-agent-mougins-charming-family-villa-in-a-quiet-residential-neighborhood-85959463",
+    "title": "SOLE AGENT - Mougins - Charming family villa in a quiet residential neighborhood",
     "city": "Mougins",
     "system_category": "house",
     "type": "villa",
@@ -2682,7 +2682,7 @@
       "https://www.michaelzingraf.com/storage/properties/936d143a23fcf36743874e681bf572b0_7fc1c2b1d5_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-05-07T02:27:02.387865+00:00"
+    "updated_at": "2026-06-24T02:44:04.236704+00:00"
   },
   {
     "source": {
@@ -7843,6 +7843,31 @@
       "https://www.michaelzingraf.com/storage/properties/9aceda6fda1947df1093d18e32f64eb0_ff92a15542_1920-original.jpg"
     ],
     "inserted_at": "2026-06-23T02:43:31.575334+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5043,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-247/sale-contemporary-house-nice-6-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 261.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 2395000,
+    "price_text": "2,395,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5043/listing/5043_00-2026-06-24-0143.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5043/gallery_small/5043_00-2026-06-24-0143.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5043/gallery/5043_00-2026-06-24-0143.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5043/listing/5043_00-2026-06-24-0143.jpg"
+    ],
+    "inserted_at": "2026-06-24T02:44:01.168002+00:00",
     "updated_at": null
   }
 ]
