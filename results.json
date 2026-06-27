@@ -7262,7 +7262,7 @@
     "city": "Valbonne",
     "system_category": "house",
     "type": "villa",
-    "surface_m2": 225.0,
+    "surface_m2": null,
     "rooms": null,
     "bedrooms": 4,
     "price_eur": 2690000,
@@ -7275,7 +7275,7 @@
       "https://www.michaelzingraf.com/storage/properties/8cc74199af00c61c9e5b6d62ddbcc8f4_7b5cf3b91e_1920-original.jpg"
     ],
     "inserted_at": "2026-06-09T04:59:48.850095+00:00",
-    "updated_at": "2026-06-25T04:59:48.117965+00:00"
+    "updated_at": "2026-06-27T04:07:36.194942+00:00"
   },
   {
     "source": {
@@ -7895,6 +7895,31 @@
       "https://riviera.savills.fr/datas/biens/images/1705/preview/1705_05-2026-06-25-1422.jpg"
     ],
     "inserted_at": "2026-06-25T14:14:04.055287+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5059,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1281/sale-contemporary-house-eze-7-rooms-9-bedrooms-06360/",
+    "city": "Èze",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 175.0,
+    "rooms": 7,
+    "bedrooms": 9,
+    "price_eur": 2872000,
+    "price_text": "2,872,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5059/listing/5059_00-2026-06-27-0233.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5059/gallery_small/5059_00-2026-06-27-0233.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5059/gallery/5059_00-2026-06-27-0233.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5059/listing/5059_00-2026-06-27-0233.jpg"
+    ],
+    "inserted_at": "2026-06-27T04:07:32.829104+00:00",
     "updated_at": null
   }
 ]
