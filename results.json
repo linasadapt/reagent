@@ -8027,5 +8027,32 @@
     ],
     "inserted_at": "2026-07-01T12:30:17.414094+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1718,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-val260180/sale-villa-cannes-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 363.79,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1718/preview/1718_00-2026-07-01-1443.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1718/preview/1718_00-2026-07-01-1443.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1718/preview/1718_02-2026-07-01-1614.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1718/preview/1718_03-2026-07-01-1614.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1718/preview/1718_04-2026-07-01-1614.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1718/preview/1718_05-2026-07-01-1614.jpg"
+    ],
+    "inserted_at": "2026-07-01T15:37:12.179993+00:00",
+    "updated_at": null
   }
 ]
