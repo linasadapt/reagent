@@ -7973,5 +7973,32 @@
     ],
     "inserted_at": "2026-06-30T03:55:15.772415+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87093811,
+    "url": "https://www.michaelzingraf.com/en/roquebrune-cap-martin-an-exceptional-contemporary-villa-on-the-outskirts-of-monaco-87093811",
+    "title": "ROQUEBRUNE-CAP-MARTIN – An exceptional contemporary villa on the outskirts of Monaco",
+    "city": "Roquebrune-Cap-Martin",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 350.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4500000,
+    "price_text": "4 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/a494f1dc487628f0104f96b671972758_3528b843af_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/a494f1dc487628f0104f96b671972758_3528b843af_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/23c5f765c131060478ededd468a5475b_cb574712ba_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/90dc8bd3e20af4660648da3f140518a1_84fd6af93c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/70d5a5b09334ce78860fbe3f3afd5d3f_b111bccde4_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-01T05:18:05.873433+00:00",
+    "updated_at": null
   }
 ]
