@@ -8054,5 +8054,32 @@
     ],
     "inserted_at": "2026-07-01T15:37:12.179993+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1727,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-can260223/sale-house-cannes-6-rooms-4-bedrooms-06400/",
+    "city": "Cannes\n\t\t\t\t\t- Super Cannes",
+    "type": "house",
+    "system_category": "house",
+    "surface_m2": 250.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 4450000,
+    "price_text": "4,450,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_00-2026-07-06-1156.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_00-2026-07-06-1156.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_02-2026-07-06-1156.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_03-2026-07-06-1156.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_04-2026-07-06-1156.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_05-2026-07-06-1156.jpg"
+    ],
+    "inserted_at": "2026-07-06T10:05:59.039239+00:00",
+    "updated_at": null
   }
 ]
