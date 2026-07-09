@@ -7904,13 +7904,13 @@
       "logo": "sothebys.png"
     },
     "id": 5059,
-    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1281/sale-contemporary-house-eze-7-rooms-9-bedrooms-06360/",
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1281/sale-contemporary-house-eze-7-rooms-5-bedrooms-06360/",
     "city": "Èze",
     "type": "contemporary house",
     "system_category": "house",
     "surface_m2": 175.0,
     "rooms": 7,
-    "bedrooms": 9,
+    "bedrooms": 5,
     "price_eur": 2872000,
     "price_text": "2,872,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5059/listing/5059_00-2026-07-08-0425.jpg",
@@ -7920,7 +7920,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5059/listing/5059_00-2026-07-08-0425.jpg"
     ],
     "inserted_at": "2026-06-27T04:07:32.829104+00:00",
-    "updated_at": "2026-07-08T05:45:12.845486+00:00"
+    "updated_at": "2026-07-09T00:15:20.013663+00:00"
   },
   {
     "source": {
