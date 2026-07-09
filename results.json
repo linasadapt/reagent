@@ -8135,5 +8135,30 @@
     ],
     "inserted_at": "2026-07-09T11:51:43.481042+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5091,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-747/sale-contemporary-house-nice-5-rooms-4-bedrooms-06000/",
+    "city": "Nice",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 181.09,
+    "rooms": 5,
+    "bedrooms": 4,
+    "price_eur": 2010000,
+    "price_text": "2,010,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5091/listing/5091_00-2026-07-10-0106.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5091/gallery_small/5091_00-2026-07-10-0106.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5091/gallery/5091_00-2026-07-10-0106.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5091/listing/5091_00-2026-07-10-0106.jpg"
+    ],
+    "inserted_at": "2026-07-09T23:06:17.777508+00:00",
+    "updated_at": null
   }
 ]
