@@ -8116,11 +8116,11 @@
       "logo": "savills.svg"
     },
     "id": 1731,
-    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm260473/sale-villa-eze-3-bedrooms-06360/",
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm260473/sale-villa-eze-5-rooms-3-bedrooms-06360/",
     "city": "Èze",
     "type": "villa",
     "system_category": "house",
-    "surface_m2": null,
+    "surface_m2": 163.55,
     "rooms": null,
     "bedrooms": 3,
     "price_eur": 2750000,
@@ -8134,7 +8134,7 @@
       "https://riviera.savills.fr/datas/biens/images/1731/preview/1731_05-2026-07-09-1145.jpg"
     ],
     "inserted_at": "2026-07-09T11:51:43.481042+00:00",
-    "updated_at": null
+    "updated_at": "2026-07-10T13:07:31.548663+00:00"
   },
   {
     "source": {
