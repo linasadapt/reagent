@@ -3293,17 +3293,17 @@
     "surface_m2": 294.0,
     "rooms": null,
     "bedrooms": 4,
-    "price_eur": 2700000,
-    "price_text": "2 700 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/8f5509a1d3146f058ea03f853fe01dcc_3db9ac9c40_1920-original.jpg",
+    "price_eur": 2600000,
+    "price_text": "2 600 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e501018f42126c6223467698495e5d26_a865c9aea6_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/8f5509a1d3146f058ea03f853fe01dcc_3db9ac9c40_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/5abb1a3220704dd69d0400647ee662f0_7a8ea2ddd0_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/e6e8ecb06e542c00ae49208df6621a0e_1113bb4364_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/01a82b3f2b881e875a3710ba8928cbf6_ddac87d020_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/e501018f42126c6223467698495e5d26_a865c9aea6_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/e6e8ecb06e542c00ae49208df6621a0e_937853e8ce_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/01a82b3f2b881e875a3710ba8928cbf6_00991fdf19_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ddcb06ad8b38bc2111a5a86c4ba1f6bc_24f2392d42_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-07-10T02:28:47.268583+00:00"
   },
   {
     "source": {
@@ -4977,15 +4977,15 @@
     "bedrooms": 4,
     "price_eur": 4600000,
     "price_text": "4 600 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/55a3c1ddb08c7db050da6eeed2ea4a07_d5a58fd085_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/ea1b570f20ca8b213294e5a21cefd00a_74ca6baebd_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/55a3c1ddb08c7db050da6eeed2ea4a07_d5a58fd085_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/7fa52aced73818efa5dce9d268d8a544_e97809838b_1574-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/9a2f4e558f5662780d64debb2dc3a6c5_882be0f008_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/171e7ce6309f786a03aea25d652aa11d_3f08707b49_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/ea1b570f20ca8b213294e5a21cefd00a_74ca6baebd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0c99deea1634d05523a352b79f1160f7_2689136aeb_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/2170c6e4ce440ab4c63630deda03f78b_86e6e29dd8_1772-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/59a9f57b2c7bb9c0b869f9ed9811a058_11109bb364_1920-original.jpg"
     ],
     "inserted_at": "2026-03-14T04:06:02.246647+00:00",
-    "updated_at": "2026-07-09T04:50:58.175624+00:00"
+    "updated_at": "2026-07-10T02:28:47.268583+00:00"
   },
   {
     "source": {
@@ -8159,6 +8159,56 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5091/listing/5091_00-2026-07-10-0106.jpg"
     ],
     "inserted_at": "2026-07-09T23:06:17.777508+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5096,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3053/sale-provencal-house-theoule-sur-mer-7-rooms-5-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 180.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 2270000,
+    "price_text": "2,270,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5096/listing/5096_00-2026-07-10-0232.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5096/gallery_small/5096_00-2026-07-10-0232.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5096/gallery/5096_00-2026-07-10-0232.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5096/listing/5096_00-2026-07-10-0232.jpg"
+    ],
+    "inserted_at": "2026-07-10T02:28:43.728158+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5094,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca7-1300/sale-contemporary-house-eze-7-rooms-4-bedrooms-06360/",
+    "city": "Èze",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 430.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 3750000,
+    "price_text": "3,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5094/listing/5094_00-2026-07-10-0226.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5094/gallery_small/5094_00-2026-07-10-0226.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5094/gallery/5094_00-2026-07-10-0226.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5094/listing/5094_00-2026-07-10-0226.jpg"
+    ],
+    "inserted_at": "2026-07-10T02:28:43.728158+00:00",
     "updated_at": null
   }
 ]
