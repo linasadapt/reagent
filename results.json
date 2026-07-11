@@ -3484,15 +3484,15 @@
     "bedrooms": 6,
     "price_eur": 2450000,
     "price_text": "2 450 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/8e1d74662f93ca0e3b61fcd29e31bc78_a40ca56df7_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/6028d1b9a22ad32a6dd8f507f0fc7335_2bdb2a1e7e_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/8e1d74662f93ca0e3b61fcd29e31bc78_a40ca56df7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6028d1b9a22ad32a6dd8f507f0fc7335_2bdb2a1e7e_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/1a013fdfa22da09c6e7fccb3633472fc_270e38cf41_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/480e732a43b429dbfce99f2f014a8423_ad5e7226ae_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/6521cba84dd4a4191a2a707b4c1b922d_20cf83d4be_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/8e1d74662f93ca0e3b61fcd29e31bc78_a40ca56df7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/480e732a43b429dbfce99f2f014a8423_ad5e7226ae_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-06-19T06:11:29.487093+00:00"
+    "updated_at": "2026-07-11T02:10:21.127524+00:00"
   },
   {
     "source": {
@@ -8209,6 +8209,33 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5094/listing/5094_00-2026-07-10-0226.jpg"
     ],
     "inserted_at": "2026-07-10T02:28:43.728158+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87145821,
+    "url": "https://www.michaelzingraf.com/en/valbonne-elegant-contemporary-villa-87145821",
+    "title": "Valbonne - Elegant contemporary villa",
+    "city": "Valbonne",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 330.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 3200000,
+    "price_text": "3 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/59cc9f0aaf7366cefaf014b76c42ca1b_5f57b5be02_1365-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/59cc9f0aaf7366cefaf014b76c42ca1b_5f57b5be02_1365-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ca07f977aa8ce35efb543dbea1525813_8b514c441d_1365-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/16030724d666b6932621220950dbc32b_cc54013d96_1365-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5ed1b5fdcafffff1b3adcd2d0082aa8f_691d7b793e_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-11T02:10:21.127524+00:00",
     "updated_at": null
   }
 ]
