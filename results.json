@@ -2158,18 +2158,18 @@
     "type": "villa",
     "surface_m2": 392.0,
     "rooms": null,
-    "bedrooms": 6,
+    "bedrooms": 8,
     "price_eur": 4200000,
     "price_text": "4 200 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/a1ab68656094d87155b1ba44f700fd9a_2288b3fe83_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/f5d97c8338ca2fd2b5cd57ba71f35d9f_1c6de43413_1705-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/a1ab68656094d87155b1ba44f700fd9a_2288b3fe83_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/f5d97c8338ca2fd2b5cd57ba71f35d9f_1c6de43413_1705-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/46bb751fe96f055fc05c5d7449de5c4a_808c9d2cfb_1280-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/0a8a750ae30fde2b76554e33e87f3f0d_d22992e5ff_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/24f3ee25daa5d0745f450ef7dd1ea727_7cbaf9def9_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/756ce49e2fe9c19487878390ccc828e3_8ae8b81f51_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-05-31T03:54:22.575575+00:00"
+    "updated_at": "2026-07-12T02:09:51.641290+00:00"
   },
   {
     "source": {
@@ -3292,7 +3292,7 @@
     "type": "villa",
     "surface_m2": 294.0,
     "rooms": null,
-    "bedrooms": 4,
+    "bedrooms": 6,
     "price_eur": 2600000,
     "price_text": "2 600 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/e501018f42126c6223467698495e5d26_a865c9aea6_1920-original.jpg",
@@ -3303,7 +3303,7 @@
       "https://www.michaelzingraf.com/storage/properties/ddcb06ad8b38bc2111a5a86c4ba1f6bc_24f2392d42_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-07-10T02:28:47.268583+00:00"
+    "updated_at": "2026-07-12T02:09:51.641290+00:00"
   },
   {
     "source": {
