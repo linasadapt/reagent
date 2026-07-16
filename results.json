@@ -1692,14 +1692,14 @@
     "bedrooms": 4,
     "price_eur": 2495000,
     "price_text": "2,495,000 €",
-    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2026-07-08-0352.jpg",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2026-07-16-0213.jpg",
     "images": [
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery_small/3931_00-2026-07-08-0352.jpg",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery/3931_00-2026-07-08-0352.jpg",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2026-07-08-0352.jpg"
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery_small/3931_00-2026-07-16-0213.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery/3931_00-2026-07-16-0213.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2026-07-16-0213.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-07-08T02:08:03.080010+00:00"
+    "updated_at": "2026-07-16T02:04:01.896782+00:00"
   },
   {
     "source": {
@@ -2161,15 +2161,15 @@
     "bedrooms": 8,
     "price_eur": 4200000,
     "price_text": "4 200 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/f5d97c8338ca2fd2b5cd57ba71f35d9f_1c6de43413_1705-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/f5d97c8338ca2fd2b5cd57ba71f35d9f_0c0f510421_1705-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/f5d97c8338ca2fd2b5cd57ba71f35d9f_1c6de43413_1705-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/46bb751fe96f055fc05c5d7449de5c4a_808c9d2cfb_1280-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/0a8a750ae30fde2b76554e33e87f3f0d_d22992e5ff_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/756ce49e2fe9c19487878390ccc828e3_8ae8b81f51_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/f5d97c8338ca2fd2b5cd57ba71f35d9f_0c0f510421_1705-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/46bb751fe96f055fc05c5d7449de5c4a_5f04789ad7_1280-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0a8a750ae30fde2b76554e33e87f3f0d_d8769ece04_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/756ce49e2fe9c19487878390ccc828e3_bc5b6aabd6_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-07-12T02:09:51.641290+00:00"
+    "updated_at": "2026-07-16T02:04:04.883321+00:00"
   },
   {
     "source": {
@@ -7078,15 +7078,15 @@
     "bedrooms": 5,
     "price_eur": null,
     "price_text": "Price on Request",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/6f8835ca788deae8a762c67fc11cf3c7_4b504d501a_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/5b28cccbbfa003d1698054f891ab30ac_e37bacfc1c_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/6f8835ca788deae8a762c67fc11cf3c7_4b504d501a_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/5b28cccbbfa003d1698054f891ab30ac_e37bacfc1c_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6f8835ca788deae8a762c67fc11cf3c7_4b504d501a_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/a11aeee52468f448ab74050c83cb8b6a_936f1c95b6_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/7b818fd6128287b63b6d2c2807d4c26e_8d88f549ac_1920-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
-    "updated_at": null
+    "updated_at": "2026-07-16T02:04:04.883321+00:00"
   },
   {
     "source": {
