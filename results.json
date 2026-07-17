@@ -5798,25 +5798,25 @@
       "logo": "michael.svg"
     },
     "id": 82587865,
-    "url": "https://www.michaelzingraf.com/en/secured-domain-single-storey-villa-with-panoramic-views-82587865",
-    "title": "Secured domain, single-storey villa with panoramic views",
+    "url": "https://www.michaelzingraf.com/en/an-exceptional-villa-in-the-heart-of-les-parcs-de-mougins-82587865",
+    "title": "An Exceptional Villa in the Heart of Les Parcs de Mougins",
     "city": "Mougins",
     "system_category": "house",
     "type": "villa",
     "surface_m2": 244.0,
     "rooms": null,
     "bedrooms": 5,
-    "price_eur": 4475000,
-    "price_text": "4 475 000 €",
+    "price_eur": 4175000,
+    "price_text": "4 175 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/4d62c98542364736064fa13523637ee1_c19bf9b00f_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/4d62c98542364736064fa13523637ee1_c19bf9b00f_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/22fb5e5da57ea20be9570205f0c425fb_40e0230079_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/e3a49081ba0e4459088047c882550c60_a207b202ec_1919-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/d79c9cd702ad93deae117d2aafdf6dc2_4a71e11606_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/23e22798d2d81370d9d54eafd816805a_59321201c0_1919-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/96fd75aa7e2ca2301ab0ec07c69de823_06ef26dfe3_1909-original.jpg"
     ],
     "inserted_at": "2026-04-14T02:02:51.049637+00:00",
-    "updated_at": null
+    "updated_at": "2026-07-17T02:07:35.342496+00:00"
   },
   {
     "source": {
@@ -8236,6 +8236,33 @@
       "https://www.michaelzingraf.com/storage/properties/5ed1b5fdcafffff1b3adcd2d0082aa8f_691d7b793e_1920-original.jpg"
     ],
     "inserted_at": "2026-07-11T02:10:21.127524+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 84383434,
+    "url": "https://www.michaelzingraf.com/en/spacious-modern-villa-completely-renovated-84383434",
+    "title": "Spacious modern villa completely renovated",
+    "city": "Mougins",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 322.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 3900000,
+    "price_text": "3 900 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/4d3e43d0736c375456469e3551f38e37_c52df624ee_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/4d3e43d0736c375456469e3551f38e37_c52df624ee_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/6a327f9f62a0339f29ed2487be0de404_b2db8866ed_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/87562a65d0157466b8501a17fb2c9d11_f3f4642120_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/cfcc5acf10f87a2c05b9204225ebac7e_3e75069a6c_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-17T02:07:35.342496+00:00",
     "updated_at": null
   }
 ]
