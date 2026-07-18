@@ -6916,15 +6916,15 @@
     "bedrooms": 3,
     "price_eur": 3450000,
     "price_text": "3 450 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/b8c8ad1c7924e2a32d6da7606aab3e99_5da77f1afa_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/62936f1bca712fc4e96418e62ead3bf7_ab86bbf118_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/b8c8ad1c7924e2a32d6da7606aab3e99_5da77f1afa_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/62936f1bca712fc4e96418e62ead3bf7_ab86bbf118_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/b8c8ad1c7924e2a32d6da7606aab3e99_5da77f1afa_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/10069a59ed57585e639097f9818ecc7d_f0b9cbb87d_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/a734b6a46da54f208cbc9546837ceb26_2b1ae00ba1_1920-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
-    "updated_at": "2026-06-18T02:58:43.800796+00:00"
+    "updated_at": "2026-07-18T01:56:32.911177+00:00"
   },
   {
     "source": {
@@ -7105,15 +7105,15 @@
     "bedrooms": 6,
     "price_eur": 2470000,
     "price_text": "2 470 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/ac148dcd77780f18089e8ab12e4737f0_caa5e20943_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/dea721ed1b1400b82034ef593b4bb6c2_d13527e3e7_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/ac148dcd77780f18089e8ab12e4737f0_caa5e20943_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/dea721ed1b1400b82034ef593b4bb6c2_d13527e3e7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ac148dcd77780f18089e8ab12e4737f0_caa5e20943_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/cb6c1bb83b4afabf8116e6ae9ea161c4_17a53d94dd_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/8590966136457a25507a68df75099dbd_7808ab1927_1920-original.jpg"
     ],
     "inserted_at": "2026-06-05T14:36:41.257960+00:00",
-    "updated_at": null
+    "updated_at": "2026-07-18T01:56:32.911177+00:00"
   },
   {
     "source": {
@@ -8245,8 +8245,8 @@
       "logo": "michael.svg"
     },
     "id": 84383434,
-    "url": "https://www.michaelzingraf.com/en/spacious-modern-villa-completely-renovated-84383434",
-    "title": "Spacious modern villa completely renovated",
+    "url": "https://www.michaelzingraf.com/en/mougins-renovated-family-villa-in-a-secluded-estate-84383434",
+    "title": "Mougins – Renovated family villa in a secluded estate",
     "city": "Mougins",
     "system_category": "house",
     "type": "villa",
@@ -8263,6 +8263,87 @@
       "https://www.michaelzingraf.com/storage/properties/cfcc5acf10f87a2c05b9204225ebac7e_3e75069a6c_1920-original.jpg"
     ],
     "inserted_at": "2026-07-17T02:07:35.342496+00:00",
+    "updated_at": "2026-07-18T01:56:32.911177+00:00"
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 579264,
+    "url": "https://www.michaelzingraf.com/en/close-to-cannes-waterfront-modern-villa-579264",
+    "title": "Close to Cannes - Waterfront modern villa",
+    "city": "mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 238.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4200000,
+    "price_text": "4 200 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9bb939d67b80226267dbd598f5be5527_f364a2e2a0_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/9bb939d67b80226267dbd598f5be5527_f364a2e2a0_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/783ba76e7adf581919db2a76bfe68a3d_ccee6ad4d1_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d92add1d1f2ed36a9cc3335e5b64ba53_435b31c957_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3428699d7ad5b3c81fc5f40c79fdcee8_92c0cb8a28_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-18T01:56:32.911177+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87123468,
+    "url": "https://www.michaelzingraf.com/en/near-cannes-belle-epoque-villa-sea-view-mandelieu-la-napoule-87123468",
+    "title": "Near Cannes – Belle Époque Villa – Sea View – Mandelieu-la-Napoule",
+    "city": "Minelle",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 373.0,
+    "rooms": null,
+    "bedrooms": 7,
+    "price_eur": 2730000,
+    "price_text": "2 730 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/154be1f669e09fabd78d068982101cb7_3f7acac1cc_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/154be1f669e09fabd78d068982101cb7_3f7acac1cc_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/4126c810a4f9808bdd30e27ad551dbb6_c71944636e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/897f1721a9952dd737fa4184ff0deb4d_464fa77919_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9bfaa437fcd2afdf760d733f6df17295_ff578bc0f8_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-18T01:56:32.911177+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87119756,
+    "url": "https://www.michaelzingraf.com/en/close-to-nice-gated-domain-and-panoramic-sea-views-87119756",
+    "title": "Close to Nice - Gated domain and panoramic sea views",
+    "city": "Saint-Laurent-du-Var",
+    "system_category": "house",
+    "type": "property",
+    "surface_m2": 264.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2290000,
+    "price_text": "2 290 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/7f9db7a52b44a91f067a8c831baba21e_06a41a0b7e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/7f9db7a52b44a91f067a8c831baba21e_06a41a0b7e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/ec08244856e87e1ee101a29c0aeadf56_bb52d6101b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1e689faec3a2801fe4e2fe1fdd8ecc13_02114fa788_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d512d18427cc6e122d70893473f2be29_b5dfc591df_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-18T01:56:32.911177+00:00",
     "updated_at": null
   }
 ]
