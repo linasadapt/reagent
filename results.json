@@ -8345,5 +8345,32 @@
     ],
     "inserted_at": "2026-07-18T01:56:32.911177+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 83128573,
+    "url": "https://www.michaelzingraf.com/en/near-cannes-antheor-waterfront-art-deco-villa-83128573",
+    "title": "Near Cannes - Anthéor - Waterfront Art Deco Villa",
+    "city": "Anthéor",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 265.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 3980000,
+    "price_text": "3 980 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/bba182dd9760bf581a29f20b3626776b_896e07b59e_1024-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/bba182dd9760bf581a29f20b3626776b_896e07b59e_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/92e3ad2bda594a93468ae626df1a6baa_e6c01d9479_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/1cf974d3db03c274c3c7d98a98b45cb6_6a79a19f04_1024-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/51605b75ea87f01512d2eac677b0c1c3_956f690ad6_1024-original.jpg"
+    ],
+    "inserted_at": "2026-07-23T02:43:43.315912+00:00",
+    "updated_at": null
   }
 ]
