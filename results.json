@@ -8372,5 +8372,30 @@
     ],
     "inserted_at": "2026-07-23T02:43:43.315912+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5135,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3154/sale-villa-cannes-8-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 370.0,
+    "rooms": 8,
+    "bedrooms": 6,
+    "price_eur": 2340000,
+    "price_text": "2,340,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/listing/5135_00-2026-07-29-0124.png",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/gallery_small/5135_00-2026-07-29-0124.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/gallery/5135_00-2026-07-29-0124.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/listing/5135_00-2026-07-29-0124.png"
+    ],
+    "inserted_at": "2026-07-29T00:01:47.284723+00:00",
+    "updated_at": null
   }
 ]
