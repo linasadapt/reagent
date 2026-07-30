@@ -2803,7 +2803,7 @@
     "title": "Super-Cannes - clear view of mountains and greenery",
     "city": "Cannes",
     "system_category": "house",
-    "type": "villa",
+    "type": "house",
     "surface_m2": 322.0,
     "rooms": null,
     "bedrooms": 5,
@@ -2817,7 +2817,7 @@
       "https://www.michaelzingraf.com/storage/properties/42bd7700fb32145171d2287e62e09918_03703e8525_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": null
+    "updated_at": "2026-07-30T02:20:15.208055+00:00"
   },
   {
     "source": {
@@ -5784,12 +5784,12 @@
     "image_primary": "https://www.michaelzingraf.com/storage/properties/1e812c688defca5abee2d75d5b2c30bc_80907e8154_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/1e812c688defca5abee2d75d5b2c30bc_80907e8154_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/687ed7d6fa5eb01c6a6baf618d49a4a3_ab682add0f_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/6feb8e407a0e5e56c5fefe1f7d0f2c5d_4ff8e02808_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/4b40a619d2102f8a0bc401a0a4c7b245_67fcb9de28_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/034de4b10fd15f15c4acf2a224cef018_99c3de6416_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/4b40a619d2102f8a0bc401a0a4c7b245_67fcb9de28_1920-original.jpg"
     ],
     "inserted_at": "2026-04-14T02:02:51.049637+00:00",
-    "updated_at": "2026-07-29T04:07:55.452129+00:00"
+    "updated_at": "2026-07-30T02:20:15.208055+00:00"
   },
   {
     "source": {
@@ -6671,8 +6671,8 @@
     "surface_m2": 242.0,
     "rooms": null,
     "bedrooms": 8,
-    "price_eur": 2500000,
-    "price_text": "2 500 000 €",
+    "price_eur": 2300000,
+    "price_text": "2 300 000 €",
     "image_primary": "https://www.michaelzingraf.com/storage/properties/687ed7d6fa5eb01c6a6baf618d49a4a3_ab682add0f_1920-original.jpg",
     "images": [
       "https://www.michaelzingraf.com/storage/properties/687ed7d6fa5eb01c6a6baf618d49a4a3_ab682add0f_1920-original.jpg",
@@ -6681,7 +6681,7 @@
       "https://www.michaelzingraf.com/storage/properties/62a600f5eaa5587ccc2e66373c670341_af4609774f_1920-original.jpg"
     ],
     "inserted_at": "2026-06-03T05:59:38.603404+00:00",
-    "updated_at": "2026-06-18T02:58:43.800796+00:00"
+    "updated_at": "2026-07-30T02:20:15.208055+00:00"
   },
   {
     "source": {
@@ -8389,13 +8389,90 @@
     "bedrooms": 6,
     "price_eur": 2340000,
     "price_text": "2,340,000 €",
-    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/listing/5135_00-2026-07-29-0124.png",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/listing/5135_00-2026-07-30-0237.jpg",
     "images": [
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/gallery_small/5135_00-2026-07-29-0124.png",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/gallery/5135_00-2026-07-29-0124.png",
-      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/listing/5135_00-2026-07-29-0124.png"
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/gallery_small/5135_00-2026-07-30-0237.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/gallery/5135_00-2026-07-30-0237.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5135/listing/5135_00-2026-07-30-0237.jpg"
     ],
     "inserted_at": "2026-07-29T00:01:47.284723+00:00",
+    "updated_at": "2026-07-30T02:20:11.817711+00:00"
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5139,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3102/sale-villa-cannes-7-rooms-5-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 260.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 3490000,
+    "price_text": "3,490,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5139/listing/5139_00-2026-07-30-0237.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5139/gallery_small/5139_00-2026-07-30-0237.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5139/gallery/5139_00-2026-07-30-0237.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5139/listing/5139_00-2026-07-30-0237.jpg"
+    ],
+    "inserted_at": "2026-07-30T02:20:11.817711+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5138,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3034/sale-villa-mandelieu-la-napoule-6-rooms-4-bedrooms-06210/",
+    "city": "Mandelieu-la-Napoule",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 232.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 1850000,
+    "price_text": "1,850,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5138/listing/5138_00-2026-07-30-0237.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5138/gallery_small/5138_00-2026-07-30-0237.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5138/gallery/5138_00-2026-07-30-0237.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5138/listing/5138_00-2026-07-30-0237.jpg"
+    ],
+    "inserted_at": "2026-07-30T02:20:11.817711+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87216624,
+    "url": "https://www.michaelzingraf.com/en/cannes-basse-californie-sea-esterel-views-87216624",
+    "title": "Cannes - Basse Californie - Sea & Esterel Views",
+    "city": "Californie",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 228.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 3950000,
+    "price_text": "3 950 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/09f4fde84a851ab38ba366d229b31f75_871b1f1a6e_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/09f4fde84a851ab38ba366d229b31f75_871b1f1a6e_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/d6113b48108147264c42c0da0e6ef008_4d06039d37_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/c4ad237b7915c3c6ab98484995af9084_fccba0a447_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/86cfc78c755c234a277b8101b7777e46_8ea5e77fdd_1920-original.jpg"
+    ],
+    "inserted_at": "2026-07-30T02:20:15.208055+00:00",
     "updated_at": null
   }
 ]
