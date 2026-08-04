@@ -8499,5 +8499,30 @@
     ],
     "inserted_at": "2026-07-31T23:56:36.677626+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5162,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3034/sale-villa-mandelieu-la-napoule-6-rooms-4-bedrooms-06210/",
+    "city": "Mandelieu-la-Napoule",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 232.0,
+    "rooms": 6,
+    "bedrooms": 4,
+    "price_eur": 1850000,
+    "price_text": "1,850,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5162/listing/5162_00-2026-08-04-0156.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5162/gallery_small/5162_00-2026-08-04-0156.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5162/gallery/5162_00-2026-08-04-0156.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5162/listing/5162_00-2026-08-04-0156.jpg"
+    ],
+    "inserted_at": "2026-08-04T00:02:58.731477+00:00",
+    "updated_at": null
   }
 ]
