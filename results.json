@@ -6085,25 +6085,25 @@
       "logo": "savills.svg"
     },
     "id": 1593,
-    "url": "https://riviera.savills.fr/en/our-properties/ref-can260195/sale-house-cannes-9-rooms-5-bedrooms-06400/",
+    "url": "https://riviera.savills.fr/en/our-properties/ref-can260195/sale-villa-cannes-9-rooms-5-bedrooms-06400/",
     "city": "Cannes",
-    "type": "house",
+    "type": "villa",
     "system_category": "house",
     "surface_m2": 200.0,
     "rooms": null,
     "bedrooms": 5,
     "price_eur": 2400000,
     "price_text": "2,400,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_00-2026-04-29-1444.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_00-2026-08-04-1415.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_00-2026-04-29-1444.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_02-2026-04-29-1445.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_03-2026-04-29-1445.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_04-2026-04-29-1445.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_05-2026-04-29-1445.jpg"
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_00-2026-08-04-1415.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_02-2026-08-04-1415.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_03-2026-08-04-1415.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_04-2026-08-04-1415.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1593/preview/1593_05-2026-08-04-1415.jpg"
     ],
     "inserted_at": "2026-04-29T15:07:37.293882+00:00",
-    "updated_at": null
+    "updated_at": "2026-08-04T12:55:32.068299+00:00"
   },
   {
     "source": {
@@ -8062,25 +8062,25 @@
       "logo": "savills.svg"
     },
     "id": 1727,
-    "url": "https://riviera.savills.fr/en/our-properties/ref-can260223/sale-house-cannes-6-rooms-4-bedrooms-06400/",
+    "url": "https://riviera.savills.fr/en/our-properties/ref-can260223/sale-villa-cannes-6-rooms-4-bedrooms-06400/",
     "city": "Cannes\n\t\t\t\t\t- Super Cannes",
-    "type": "house",
+    "type": "villa",
     "system_category": "house",
     "surface_m2": 250.0,
     "rooms": null,
     "bedrooms": 4,
     "price_eur": 4450000,
     "price_text": "4,450,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_00-2026-07-06-1156.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_00-2026-08-04-1445.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_00-2026-07-06-1156.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_02-2026-07-06-1156.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_03-2026-07-06-1156.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_04-2026-07-06-1156.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_05-2026-07-06-1156.jpg"
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_00-2026-08-04-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_02-2026-08-04-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_03-2026-08-04-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_04-2026-08-04-1445.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1727/preview/1727_05-2026-08-04-1445.jpg"
     ],
     "inserted_at": "2026-07-06T10:05:59.039239+00:00",
-    "updated_at": null
+    "updated_at": "2026-08-04T12:55:32.068299+00:00"
   },
   {
     "source": {
