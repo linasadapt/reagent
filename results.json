@@ -8524,5 +8524,32 @@
     ],
     "inserted_at": "2026-08-04T00:02:58.731477+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 85286191,
+    "url": "https://www.michaelzingraf.com/en/grasse-magnificent-mas-provencal-85286191",
+    "title": "Grasse - Magnificent Mas Provencal",
+    "city": "Grasse",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 434.0,
+    "rooms": null,
+    "bedrooms": 9,
+    "price_eur": 4499000,
+    "price_text": "4 499 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/64ff5d37336deaee66221cf4e7ee9c69_96939a71e3_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/64ff5d37336deaee66221cf4e7ee9c69_96939a71e3_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/fe1b0b7b6ddcb4dc4207bc1fd50ccafe_120101576d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/0bf5a3ea579b4d5a56a7e4335e8cff6b_4a060f9990_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/11b65cdd99051c3145235345811f8b2e_5472c1fe8a_1920-original.jpg"
+    ],
+    "inserted_at": "2026-08-04T04:07:38.886289+00:00",
+    "updated_at": null
   }
 ]
