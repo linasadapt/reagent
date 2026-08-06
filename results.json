@@ -8551,5 +8551,32 @@
     ],
     "inserted_at": "2026-08-04T04:07:38.886289+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "riviera_savills",
+      "name": "Savills French Riviera",
+      "logo": "savills.svg"
+    },
+    "id": 1788,
+    "url": "https://riviera.savills.fr/en/our-properties/ref-bsm240190/sale-villa-nice-9-rooms-6-bedrooms-06300/",
+    "city": "Nice\n\t\t\t\t\t- Mont Boron",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 306.0,
+    "rooms": null,
+    "bedrooms": 6,
+    "price_eur": 2750000,
+    "price_text": "2,750,000 €",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_00-2026-08-06-1543.jpg",
+    "images": [
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_00-2026-08-06-1543.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_02-2026-08-06-1543.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_03-2026-08-06-1543.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_04-2026-08-06-1543.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_05-2026-08-06-1543.jpg"
+    ],
+    "inserted_at": "2026-08-06T13:51:12.099465+00:00",
+    "updated_at": null
   }
 ]
