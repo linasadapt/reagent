@@ -6488,7 +6488,7 @@
     "city": "Cannes",
     "type": "villa",
     "system_category": "house",
-    "surface_m2": 280.0,
+    "surface_m2": 309.0,
     "rooms": 10,
     "bedrooms": 6,
     "price_eur": 3500000,
@@ -6500,7 +6500,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4946/listing/4946_00-2026-07-08-0411.jpg"
     ],
     "inserted_at": "2026-05-23T04:34:43.795053+00:00",
-    "updated_at": "2026-07-08T05:45:12.845486+00:00"
+    "updated_at": "2026-08-07T00:37:38.992425+00:00"
   },
   {
     "source": {
@@ -8577,6 +8577,31 @@
       "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_05-2026-08-06-1543.jpg"
     ],
     "inserted_at": "2026-08-06T13:51:12.099465+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5181,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3121/sale-villa-theoule-sur-mer-8-rooms-5-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 250.0,
+    "rooms": 8,
+    "bedrooms": 5,
+    "price_eur": 2200000,
+    "price_text": "2,200,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5181/listing/5181_00-2026-08-07-0234.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5181/gallery_small/5181_00-2026-08-07-0234.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5181/gallery/5181_00-2026-08-07-0234.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5181/listing/5181_00-2026-08-07-0234.jpg"
+    ],
+    "inserted_at": "2026-08-07T00:37:38.992425+00:00",
     "updated_at": null
   }
 ]
