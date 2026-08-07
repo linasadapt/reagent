@@ -8603,5 +8603,59 @@
     ],
     "inserted_at": "2026-08-07T00:37:38.992425+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87174378,
+    "url": "https://www.michaelzingraf.com/en/near-cannes-family-villa-with-sea-view-theoule-sur-mer-87174378",
+    "title": "Near Cannes – Family Villa with Sea View – Théoule-sur-Mer",
+    "city": "Théoule-sur-Mer",
+    "system_category": "house",
+    "type": "villa",
+    "surface_m2": 235.0,
+    "rooms": null,
+    "bedrooms": 5,
+    "price_eur": 4500000,
+    "price_text": "4 500 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/e2b3eeeec165e085c77067a09575d5a4_f5137b2bd7_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/e2b3eeeec165e085c77067a09575d5a4_f5137b2bd7_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3ee739fe5bca65eaad1bac5c9433a71d_24e3f4f26b_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/242d9c451059c6e70269605f8f414525_1aef23dfdd_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/9e93b948d7669e43544218dd67f79df4_a68b4f35b2_1920-original.jpg"
+    ],
+    "inserted_at": "2026-08-07T03:45:09.096345+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "michael_zingraf",
+      "name": "Michaël Zingraf Real Estate",
+      "logo": "michael.svg"
+    },
+    "id": 87213489,
+    "url": "https://www.michaelzingraf.com/en/cannes-basse-californie-elegant-character-home-87213489",
+    "title": "Cannes – Basse Californie – Elegant Character Home",
+    "city": "Cannes",
+    "system_category": "house",
+    "type": "house",
+    "surface_m2": 232.0,
+    "rooms": null,
+    "bedrooms": 4,
+    "price_eur": 2550000,
+    "price_text": "2 550 000 €",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/9937b1b0d87bf4270a5bfc9781e73545_9d40b81902_1920-original.jpg",
+    "images": [
+      "https://www.michaelzingraf.com/storage/properties/9937b1b0d87bf4270a5bfc9781e73545_9d40b81902_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5e6ef0cf94324d893b7432d23da8ca5d_5a34010176_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/bd098a59e1db81dc77f64e076185214b_e1f99b6b1d_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/3229ff39241818d77012f647423ccdfe_ba902481e6_1920-original.jpg"
+    ],
+    "inserted_at": "2026-08-07T03:45:09.096345+00:00",
+    "updated_at": null
   }
 ]
