@@ -8657,5 +8657,30 @@
     ],
     "inserted_at": "2026-08-07T03:45:09.096345+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5186,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3116/sale-contemporary-house-cannes-7-rooms-5-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "contemporary house",
+    "system_category": "house",
+    "surface_m2": 400.0,
+    "rooms": 7,
+    "bedrooms": 5,
+    "price_eur": 4750000,
+    "price_text": "4,750,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5186/listing/5186_00-2026-08-12-0105.png",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5186/gallery_small/5186_00-2026-08-12-0105.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5186/gallery/5186_00-2026-08-12-0105.png",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5186/listing/5186_00-2026-08-12-0105.png"
+    ],
+    "inserted_at": "2026-08-11T23:33:05.560393+00:00",
+    "updated_at": null
   }
 ]
