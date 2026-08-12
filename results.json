@@ -2269,15 +2269,15 @@
     "bedrooms": 4,
     "price_eur": 3535000,
     "price_text": "3 535 000 €",
-    "image_primary": "https://www.michaelzingraf.com/storage/properties/46a87182a149c78b28e3e6173611adcd_716117138d_1920-original.jpg",
+    "image_primary": "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
     "images": [
-      "https://www.michaelzingraf.com/storage/properties/46a87182a149c78b28e3e6173611adcd_716117138d_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/adde7fc5248f7761c74791b89d27fa48_7f98cb5b10_1920-original.jpg",
       "https://www.michaelzingraf.com/storage/properties/80640933e45fd0fcce369c403180dcb3_9921ff376d_1920-original.jpg",
-      "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg"
+      "https://www.michaelzingraf.com/storage/properties/3ede84c6dbd3f6d772645842f63005e1_f027a3d99a_1920-original.jpg",
+      "https://www.michaelzingraf.com/storage/properties/5fee31c9d56d50a6110406011dd17557_1af8112d26_1920-original.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:14.295888+00:00",
-    "updated_at": "2026-05-20T03:51:05.492763+00:00"
+    "updated_at": "2026-08-12T01:22:23.901162+00:00"
   },
   {
     "source": {
@@ -7262,7 +7262,7 @@
     "city": "Valbonne",
     "system_category": "house",
     "type": "villa",
-    "surface_m2": null,
+    "surface_m2": 260.0,
     "rooms": null,
     "bedrooms": 4,
     "price_eur": 2690000,
@@ -7275,7 +7275,7 @@
       "https://www.michaelzingraf.com/storage/properties/8cc74199af00c61c9e5b6d62ddbcc8f4_7b5cf3b91e_1920-original.jpg"
     ],
     "inserted_at": "2026-06-09T04:59:48.850095+00:00",
-    "updated_at": "2026-06-27T04:07:36.194942+00:00"
+    "updated_at": "2026-08-12T01:22:23.901162+00:00"
   },
   {
     "source": {
