@@ -1065,8 +1065,8 @@
     "surface_m2": 390.0,
     "rooms": 9,
     "bedrooms": 4,
-    "price_eur": 3250000,
-    "price_text": "3,250,000 €",
+    "price_eur": 2750000,
+    "price_text": "2,750,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2026-07-08-0357.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/gallery_small/4432_00-2026-07-08-0357.jpg",
@@ -1074,7 +1074,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/4432/listing/4432_00-2026-07-08-0357.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-07-08T02:08:03.080010+00:00"
+    "updated_at": "2026-08-16T00:56:52.033324+00:00"
   },
   {
     "source": {
@@ -1690,8 +1690,8 @@
     "surface_m2": 231.0,
     "rooms": 6,
     "bedrooms": 4,
-    "price_eur": 2495000,
-    "price_text": "2,495,000 €",
+    "price_eur": 2300000,
+    "price_text": "2,300,000 €",
     "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2026-07-16-0213.jpg",
     "images": [
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/gallery_small/3931_00-2026-07-16-0213.jpg",
@@ -1699,7 +1699,7 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/3931/listing/3931_00-2026-07-16-0213.jpg"
     ],
     "inserted_at": "2025-12-30T23:41:11.602877+00:00",
-    "updated_at": "2026-07-16T02:04:01.896782+00:00"
+    "updated_at": "2026-08-16T00:56:52.033324+00:00"
   },
   {
     "source": {
@@ -8681,6 +8681,31 @@
       "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5186/listing/5186_00-2026-08-12-0105.png"
     ],
     "inserted_at": "2026-08-11T23:33:05.560393+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5132,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2462/sale-mansion-theoule-sur-mer-11-rooms-5-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "mansion",
+    "system_category": "house",
+    "surface_m2": 500.0,
+    "rooms": 11,
+    "bedrooms": 5,
+    "price_eur": 4950000,
+    "price_text": "4,950,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5132/listing/5132_00-2026-07-29-0122.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5132/gallery_small/5132_00-2026-07-29-0122.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5132/gallery/5132_00-2026-07-29-0122.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5132/listing/5132_00-2026-07-29-0122.jpg"
+    ],
+    "inserted_at": "2026-08-16T00:56:52.033324+00:00",
     "updated_at": null
   }
 ]
