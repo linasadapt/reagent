@@ -8707,5 +8707,55 @@
     ],
     "inserted_at": "2026-08-16T00:56:52.033324+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5199,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3180/sale-provencal-house-theoule-sur-mer-7-rooms-4-bedrooms-06590/",
+    "city": "Théoule-sur-Mer",
+    "type": "provencal house",
+    "system_category": "house",
+    "surface_m2": 220.0,
+    "rooms": 7,
+    "bedrooms": 4,
+    "price_eur": 1850000,
+    "price_text": "1,850,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5199/listing/5199_00-2026-08-18-0206.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5199/gallery_small/5199_00-2026-08-18-0206.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5199/gallery/5199_00-2026-08-18-0206.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5199/listing/5199_00-2026-08-18-0206.jpg"
+    ],
+    "inserted_at": "2026-08-18T00:53:24.604737+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5198,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-2339/sale-townhouse-cannes-7-rooms-3-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "townhouse",
+    "system_category": "house",
+    "surface_m2": 315.0,
+    "rooms": 7,
+    "bedrooms": 3,
+    "price_eur": 2100000,
+    "price_text": "2,100,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5198/listing/5198_00-2026-08-18-0205.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5198/gallery_small/5198_00-2026-08-18-0205.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5198/gallery/5198_00-2026-08-18-0205.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5198/listing/5198_00-2026-08-18-0205.jpg"
+    ],
+    "inserted_at": "2026-08-18T00:53:24.604737+00:00",
+    "updated_at": null
   }
 ]
