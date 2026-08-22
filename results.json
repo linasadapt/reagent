@@ -8757,5 +8757,30 @@
     ],
     "inserted_at": "2026-08-18T00:53:24.604737+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5212,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3195/sale-mansion-hotel-particulier-cannes-9-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "mansion (hôtel particulier)",
+    "system_category": "house",
+    "surface_m2": 227.0,
+    "rooms": 9,
+    "bedrooms": 6,
+    "price_eur": 2900000,
+    "price_text": "2,900,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5212/listing/5212_00-2026-08-22-0154.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5212/gallery_small/5212_00-2026-08-22-0154.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5212/gallery/5212_00-2026-08-22-0154.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5212/listing/5212_00-2026-08-22-0154.jpg"
+    ],
+    "inserted_at": "2026-08-22T00:53:56.134908+00:00",
+    "updated_at": null
   }
 ]
