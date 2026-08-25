@@ -8782,5 +8782,55 @@
     ],
     "inserted_at": "2026-08-22T00:53:56.134908+00:00",
     "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5220,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca6-3174/sale-villa-cannes-9-rooms-6-bedrooms-06400/",
+    "city": "Cannes",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 275.0,
+    "rooms": 9,
+    "bedrooms": 6,
+    "price_eur": 3990000,
+    "price_text": "3,990,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5220/listing/5220_00-2026-08-25-0250.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5220/gallery_small/5220_00-2026-08-25-0250.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5220/gallery/5220_00-2026-08-25-0250.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5220/listing/5220_00-2026-08-25-0250.jpg"
+    ],
+    "inserted_at": "2026-08-25T00:56:03.874127+00:00",
+    "updated_at": null
+  },
+  {
+    "source": {
+      "id": "cotedazur_sothebys",
+      "name": "Côte d’Azur Sotheby’s International Realty",
+      "logo": "sothebys.png"
+    },
+    "id": 5215,
+    "url": "https://www.cotedazur-sothebysrealty.com/en/luxury-properties/ref-ca14-019/sale-villa-nice-10-rooms-5-bedrooms-06000/",
+    "city": "Nice",
+    "type": "villa",
+    "system_category": "house",
+    "surface_m2": 450.0,
+    "rooms": 10,
+    "bedrooms": 5,
+    "price_eur": 4900000,
+    "price_text": "4,900,000 €",
+    "image_primary": "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5215/listing/5215_00-2026-08-25-0203.jpg",
+    "images": [
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5215/gallery_small/5215_00-2026-08-25-0203.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5215/gallery/5215_00-2026-08-25-0203.jpg",
+      "https://www.cotedazur-sothebysrealty.com/datas/biens/images/5215/listing/5215_00-2026-08-25-0203.jpg"
+    ],
+    "inserted_at": "2026-08-25T00:56:03.874127+00:00",
+    "updated_at": null
   }
 ]
