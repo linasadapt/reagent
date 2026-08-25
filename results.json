@@ -8568,16 +8568,16 @@
     "bedrooms": 6,
     "price_eur": 2750000,
     "price_text": "2,750,000 €",
-    "image_primary": "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_00-2026-08-06-1543.jpg",
+    "image_primary": "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_00-2026-08-25-1542.jpg",
     "images": [
-      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_00-2026-08-06-1543.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_02-2026-08-06-1543.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_00-2026-08-25-1542.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_02-2026-08-25-1542.jpg",
       "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_03-2026-08-06-1543.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_04-2026-08-06-1543.jpg",
-      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_05-2026-08-06-1543.jpg"
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_04-2026-08-25-1542.jpg",
+      "https://riviera.savills.fr/datas/biens/images/1788/preview/1788_05-2026-08-25-1542.jpg"
     ],
     "inserted_at": "2026-08-06T13:51:12.099465+00:00",
-    "updated_at": null
+    "updated_at": "2026-08-25T13:42:55.382519+00:00"
   },
   {
     "source": {
